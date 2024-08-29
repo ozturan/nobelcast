@@ -1,5 +1,4 @@
 baseURL = "https://nobelcast.com"
-languageCode = "tr-tr"
 title = "Nobelcast"
 theme = "cactus"
 copyright = "Nobelcast" # cactus will use title if copyright is not set
