@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bola on Cactus theme example</title>
+    <link>http://localhost:1313/bolum/</link>
+    <description>Recent content in Bola on Cactus theme example</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/bolum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1901 - Emil Adolf von Behring, Difteri</title>
+      <link>http://localhost:1313/bolum/1901/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bolum/1901/</guid>
+      <description>Emil Adolf von Behring&#xA;1902 Fizyoloji ve Tıp Nobel Ödülü&#xA;Doğum: 15 Mart 1854, Hansdorf (şimdiki Lawice), Prusya (şimdiki Polonya)&#xA;Ölüm: 31 Mart 1917, Marburg, Almanya&#xA;“Serum tedavisi ve difteri konusundaki çalışmaları, özellikle de tıp bilimi alanında yeni bir yol açtığı ve böylece hekimin ellerine hastalık ve ölümlere karşı bir silah yerleştirdiği için&amp;quot;&#xA;Behring: https://www.nobelprize.org/prizes/medicine/1901/behring/biographical&#xA;Ödül: https://www.nobelprize.org/prizes/medicine/1901/summary/&#xA;İlk seremoni: https://www.nobelprize.org/ceremonies/from-the-first-nobel-prize-award-ceremony-1901/&#xA;Difteri:&#xA;1. http://www.museumofhealthcare.ca/explore/exhibits/vaccinations/diphtheria.html&#xA;2. http://pubs.acs.org/subscribe/archive/mdd/v05/i08/pdf/802timeline.pdf&#xA;3. https://www.cdc.gov/vaccines/pubs/pinkbook/dip.html&#xA;4. İnanılmaz bir hikaye: https://www.</description>
+    </item>
+  </channel>
+</rss>
