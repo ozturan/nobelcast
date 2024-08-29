@@ -15,7 +15,7 @@ Kimmiş bu Alfred Nobel? Neymiş bu ödüller? İlginç kişilikler, sansasyonel
 - Patreon: [Patreon](https://patreon.com/nobelcast)
 
 ### Kim bunlar?
-[logo](images/nobelcast.jpg)
+![logo](/nobelcast.jpg)
 Yukarıdan aşağıya:
 - Alişan [Twitter](https://twitter.com/alisankayabolen)
 - Doğancan [Twitter](https://twitter.com/dogancan)
