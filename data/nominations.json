@@ -1,0 +1,3148 @@
+{
+ "1901": {
+  "nominations": 115,
+  "nominees": 44,
+  "max": 33,
+  "yl": "1901'de",
+  "top": [
+   {
+    "name": "Ivan P Pavlov",
+    "n": 33,
+    "won": "1904",
+    "wl": "1904'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Santiago Ramon y Cajàl",
+    "n": 15,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Emil A von Behring",
+    "n": 13,
+    "won": "1901",
+    "wl": "1901'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Patrick Manson",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ronald Ross",
+    "n": 7,
+    "won": "1902",
+    "wl": "1902'de kazandı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Emil A von Behring",
+    "n": 13,
+    "rank": 3,
+    "cum": 13,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1902": {
+  "nominations": 67,
+  "nominees": 43,
+  "max": 11,
+  "yl": "1902'de",
+  "top": [
+   {
+    "name": "Emile P Roux",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jules Bordet",
+    "n": 11,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Ivan P Pavlov",
+    "n": 8,
+    "won": "1904",
+    "wl": "1904'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Ronald Ross",
+    "n": 7,
+    "won": "1902",
+    "wl": "1902'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Robert Koch",
+    "n": 5,
+    "won": "1905",
+    "wl": "1905'te kazandı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Ronald Ross",
+    "n": 7,
+    "rank": 4,
+    "cum": 14,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1903": {
+  "nominations": 60,
+  "nominees": 31,
+  "max": 10,
+  "yl": "1903'te",
+  "top": [
+   {
+    "name": "Robert Koch",
+    "n": 10,
+    "won": "1905",
+    "wl": "1905'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Niels R Finsen",
+    "n": 8,
+    "won": "1903",
+    "wl": "1903'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Camillo Golgi",
+    "n": 5,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Ivan P Pavlov",
+    "n": 5,
+    "won": "1904",
+    "wl": "1904'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Niels R Finsen",
+    "n": 8,
+    "rank": 2,
+    "cum": 15,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1904": {
+  "nominations": 97,
+  "nominees": 39,
+  "max": 19,
+  "yl": "1904'te",
+  "top": [
+   {
+    "name": "Élie Metchnikoff",
+    "n": 19,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Camillo Golgi",
+    "n": 12,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Charles J Bouchard",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Robert Koch",
+    "n": 11,
+    "won": "1905",
+    "wl": "1905'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Paul Ehrlich",
+    "n": 7,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Ivan P Pavlov",
+    "n": 4,
+    "won": "1904",
+    "wl": "1904'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Ivan P Pavlov",
+    "n": 4,
+    "rank": 8,
+    "cum": 50,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1905": {
+  "nominations": 106,
+  "nominees": 30,
+  "max": 34,
+  "yl": "1905'te",
+  "top": [
+   {
+    "name": "Santiago Ramon y Cajàl",
+    "n": 34,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Robert Koch",
+    "n": 25,
+    "won": "1905",
+    "wl": "1905'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Élie Metchnikoff",
+    "n": 8,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Ernst Abbe",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Robert Koch",
+    "n": 25,
+    "rank": 2,
+    "cum": 55,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1906": {
+  "nominations": 83,
+  "nominees": 38,
+  "max": 9,
+  "yl": "1906'da",
+  "top": [
+   {
+    "name": "Paul Ehrlich",
+    "n": 9,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Victor Hensen",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Élie Metchnikoff",
+    "n": 7,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Giulio Vassale",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Camillo Golgi",
+    "n": 4,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Santiago Ramon y Cajàl",
+    "n": 5,
+    "won": "1906",
+    "wl": "1906'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Camillo Golgi",
+    "n": 4,
+    "rank": 10,
+    "cum": 31,
+    "first": "1901",
+    "fl": "1901'de"
+   },
+   {
+    "name": "Santiago Ramon y Cajàl",
+    "n": 5,
+    "rank": 8,
+    "cum": 63,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1907": {
+  "nominations": 68,
+  "nominees": 40,
+  "max": 14,
+  "yl": "1907'de",
+  "top": [
+   {
+    "name": "Paul Ehrlich",
+    "n": 14,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Élie Metchnikoff",
+    "n": 11,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Emil T Kocher",
+    "n": 4,
+    "won": "1909",
+    "wl": "1909'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gustaf M Retzius",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alphonse C Laveran",
+    "n": 2,
+    "won": "1907",
+    "wl": "1907'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Alphonse C Laveran",
+    "n": 2,
+    "rank": 8,
+    "cum": 13,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1908": {
+  "nominations": 96,
+  "nominees": 34,
+  "max": 19,
+  "yl": "1908'de",
+  "top": [
+   {
+    "name": "Paul Ehrlich",
+    "n": 19,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Élie Metchnikoff",
+    "n": 13,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Eduard F Pflüger",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jules Bordet",
+    "n": 5,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Paul Ehrlich",
+    "n": 19,
+    "rank": 1,
+    "cum": 60,
+    "first": "1901",
+    "fl": "1901'de"
+   },
+   {
+    "name": "Élie Metchnikoff",
+    "n": 13,
+    "rank": 2,
+    "cum": 66,
+    "first": "1901",
+    "fl": "1901'de"
+   }
+  ]
+ },
+ "1909": {
+  "nominations": 89,
+  "nominees": 46,
+  "max": 9,
+  "yl": "1909'da",
+  "top": [
+   {
+    "name": "Jacques Loeb",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Paul Ehrlich",
+    "n": 9,
+    "won": "1908",
+    "wl": "1908'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Max Rubner",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Eduard F Pflüger",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Friedrich W Löffler",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emil T Kocher",
+    "n": 1,
+    "won": "1909",
+    "wl": "1909'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Emil T Kocher",
+    "n": 1,
+    "rank": 27,
+    "cum": 5,
+    "first": "1907",
+    "fl": "1907'de"
+   }
+  ]
+ },
+ "1910": {
+  "nominations": 134,
+  "nominees": 52,
+  "max": 21,
+  "yl": "1910'da",
+  "top": [
+   {
+    "name": "Charles J Bouchard",
+    "n": 21,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August P von Wassermann",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 8,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Eduard F Pflüger",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Albrecht Kossel",
+    "n": 1,
+    "won": "1910",
+    "wl": "1910'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Albrecht Kossel",
+    "n": 1,
+    "rank": 25,
+    "cum": 7,
+    "first": "1902",
+    "fl": "1902'de"
+   }
+  ]
+ },
+ "1911": {
+  "nominations": 74,
+  "nominees": 41,
+  "max": 10,
+  "yl": "1911'de",
+  "top": [
+   {
+    "name": "Jacques Loeb",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Napoléon Cybulski",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August P von Wassermann",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Albert Calmette",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Albert Neisser",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Allvar Gullstrand",
+    "n": 2,
+    "won": "1911",
+    "wl": "1911'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Allvar Gullstrand",
+    "n": 2,
+    "rank": 10,
+    "cum": 3,
+    "first": "1909",
+    "fl": "1909'da"
+   }
+  ]
+ },
+ "1912": {
+  "nominations": 105,
+  "nominees": 53,
+  "max": 13,
+  "yl": "1912'de",
+  "top": [
+   {
+    "name": "Jules Bordet",
+    "n": 13,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Charles Robert Richet",
+    "n": 12,
+    "won": "1913",
+    "wl": "1913'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Victor Hensen",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles J Bouchard",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alexis Carrel",
+    "n": 1,
+    "won": "1912",
+    "wl": "1912'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Alexis Carrel",
+    "n": 1,
+    "rank": 26,
+    "cum": 1,
+    "first": "1912",
+    "fl": "1912'de"
+   }
+  ]
+ },
+ "1913": {
+  "nominations": 124,
+  "nominees": 64,
+  "max": 9,
+  "yl": "1913'te",
+  "top": [
+   {
+    "name": "Charles Robert Richet",
+    "n": 9,
+    "won": "1913",
+    "wl": "1913'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Carlo Forlanini",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Heinrich Quincke",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jean L Prévost",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August Bier",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Charles Robert Richet",
+    "n": 9,
+    "rank": 1,
+    "cum": 24,
+    "first": "1904",
+    "fl": "1904'te"
+   }
+  ]
+ },
+ "1914": {
+  "nominations": 131,
+  "nominees": 63,
+  "max": 16,
+  "yl": "1914'te",
+  "top": [
+   {
+    "name": "Jules Bordet",
+    "n": 16,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Emil Abderhalden",
+    "n": 13,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 10,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Aldo Castellani",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Robert Bárány",
+    "n": 3,
+    "won": "1914",
+    "wl": "1914'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Robert Bárány",
+    "n": 3,
+    "rank": 13,
+    "cum": 7,
+    "first": "1910",
+    "fl": "1910'da"
+   }
+  ]
+ },
+ "1915": {
+  "nominations": 46,
+  "nominees": 30,
+  "max": 9,
+  "yl": "1915'te",
+  "top": [
+   {
+    "name": "Jules Bordet",
+    "n": 9,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 4,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Ewald K Hering",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Frederick F Russel",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August P von Wassermann",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1916": {
+  "nominations": 50,
+  "nominees": 27,
+  "max": 13,
+  "yl": "1916'da",
+  "top": [
+   {
+    "name": "Emile P Roux",
+    "n": 13,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jules Bordet",
+    "n": 7,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Albert Neisser",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Richard Pfeiffer",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August P von Wassermann",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1917": {
+  "nominations": 53,
+  "nominees": 35,
+  "max": 18,
+  "yl": "1917'de",
+  "top": [
+   {
+    "name": "Jules Bordet",
+    "n": 18,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Carlo Forlanini",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emil Abderhalden",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Bernhard Krönig",
+    "n": 2,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 2,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1918": {
+  "nominations": 41,
+  "nominees": 24,
+  "max": 5,
+  "yl": "1918'de",
+  "top": [
+   {
+    "name": "Emil Abderhalden",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Napoléon Cybulski",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 3,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Fernand Widal",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Henri Vincent",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1919": {
+  "nominations": 69,
+  "nominees": 46,
+  "max": 10,
+  "yl": "1919'da",
+  "top": [
+   {
+    "name": "Emile P Roux",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Max Rubner",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ferdinand Sauerbruch",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jules Bordet",
+    "n": 5,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 4,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Jules Bordet",
+    "n": 5,
+    "rank": 4,
+    "cum": 102,
+    "first": "1902",
+    "fl": "1902'de"
+   }
+  ]
+ },
+ "1920": {
+  "nominations": 76,
+  "nominees": 58,
+  "max": 13,
+  "yl": "1920'de",
+  "top": [
+   {
+    "name": "Jules Bordet",
+    "n": 13,
+    "won": "1919",
+    "wl": "1919'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Max Rubner",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Wilhelm Roux",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August P von Wassermann",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "August S Krogh",
+    "n": 1,
+    "won": "1920",
+    "wl": "1920'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "August S Krogh",
+    "n": 1,
+    "rank": 20,
+    "cum": 3,
+    "first": "1919",
+    "fl": "1919'da"
+   }
+  ]
+ },
+ "1921": {
+  "nominations": 94,
+  "nominees": 43,
+  "max": 19,
+  "yl": "1921'de",
+  "top": [
+   {
+    "name": "Charles S Sherrington",
+    "n": 19,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Eugène Gley",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Emile P Roux",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Henri Duret",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Aldo Castellani",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1922": {
+  "nominations": 64,
+  "nominees": 31,
+  "max": 16,
+  "yl": "1922'de",
+  "top": [
+   {
+    "name": "Willem Einthoven",
+    "n": 16,
+    "won": "1924",
+    "wl": "1924'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Ferdinand Sauerbruch",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 3,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Cécile Vogt",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Archibald V Hill",
+    "n": 0,
+    "rank": 0,
+    "cum": 0,
+    "first": "1923",
+    "fl": "1923'te"
+   },
+   {
+    "name": "Otto F Meyerhof",
+    "n": 0,
+    "rank": 0,
+    "cum": 0,
+    "first": "1923",
+    "fl": "1923'te"
+   }
+  ]
+ },
+ "1923": {
+  "nominations": 133,
+  "nominees": 57,
+  "max": 24,
+  "yl": "1923'te",
+  "top": [
+   {
+    "name": "Charles S Sherrington",
+    "n": 24,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Fernand Widal",
+    "n": 20,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Richard Pfeiffer",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Wilhelm Johannsen",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Rudolf Magnus",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "John James Macleod",
+    "n": 2,
+    "won": "1923",
+    "wl": "1923'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Frederick G Banting",
+    "n": 3,
+    "won": "1923",
+    "wl": "1923'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "John James Macleod",
+    "n": 2,
+    "rank": 20,
+    "cum": 2,
+    "first": "1923",
+    "fl": "1923'te"
+   },
+   {
+    "name": "Frederick G Banting",
+    "n": 3,
+    "rank": 12,
+    "cum": 3,
+    "first": "1923",
+    "fl": "1923'te"
+   }
+  ]
+ },
+ "1924": {
+  "nominations": 84,
+  "nominees": 46,
+  "max": 13,
+  "yl": "1924'te",
+  "top": [
+   {
+    "name": "Victor Babes",
+    "n": 13,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Thomas Ionnesco",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ferdinand Sauerbruch",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jacques Loeb",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Joseph Babinski",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Willem Einthoven",
+    "n": 3,
+    "won": "1924",
+    "wl": "1924'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Willem Einthoven",
+    "n": 3,
+    "rank": 12,
+    "cum": 31,
+    "first": "1911",
+    "fl": "1911'de"
+   }
+  ]
+ },
+ "1925": {
+  "nominations": 147,
+  "nominees": 66,
+  "max": 16,
+  "yl": "1925'te",
+  "top": [
+   {
+    "name": "Hjalmar A Schiötz",
+    "n": 16,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Pierre Lagrange",
+    "n": 16,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Sören Holth",
+    "n": 16,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Robert H Elliot",
+    "n": 15,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Julius Wagner-Jauregg",
+    "n": 9,
+    "won": "1927",
+    "wl": "1927'de kazandı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1926": {
+  "nominations": 91,
+  "nominees": 52,
+  "max": 15,
+  "yl": "1926'da",
+  "top": [
+   {
+    "name": "Christiaan E Eijkman",
+    "n": 15,
+    "won": "1929",
+    "wl": "1929'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Gerrit Grijns",
+    "n": 15,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Rudolf Magnus",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Camille Delezenne",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Felix d´Hérelle",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Johannes A Fibiger",
+    "n": 3,
+    "won": "1926",
+    "wl": "1926'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Johannes A Fibiger",
+    "n": 3,
+    "rank": 12,
+    "cum": 10,
+    "first": "1920",
+    "fl": "1920'de"
+   }
+  ]
+ },
+ "1927": {
+  "nominations": 93,
+  "nominees": 43,
+  "max": 11,
+  "yl": "1927'de",
+  "top": [
+   {
+    "name": "Vincenzo Diamare",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Edouard Laguesse",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Albert Calmette",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Johannes A Fibiger",
+    "n": 7,
+    "won": "1926",
+    "wl": "1926'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Rudolf Magnus",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Julius Wagner-Jauregg",
+    "n": 5,
+    "won": "1927",
+    "wl": "1927'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Julius Wagner-Jauregg",
+    "n": 5,
+    "rank": 7,
+    "cum": 16,
+    "first": "1925",
+    "fl": "1925'te"
+   }
+  ]
+ },
+ "1928": {
+  "nominations": 137,
+  "nominees": 64,
+  "max": 14,
+  "yl": "1928'de",
+  "top": [
+   {
+    "name": "Genichi M Kato",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "George F Dick",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gladys H Dick",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Fernand Widal",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Victor Pachon",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles J Nicolle",
+    "n": 5,
+    "won": "1928",
+    "wl": "1928'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Charles J Nicolle",
+    "n": 5,
+    "rank": 11,
+    "cum": 13,
+    "first": "1919",
+    "fl": "1919'da"
+   }
+  ]
+ },
+ "1929": {
+  "nominations": 107,
+  "nominees": 65,
+  "max": 16,
+  "yl": "1929'da",
+  "top": [
+   {
+    "name": "George R Minot",
+    "n": 16,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Ivan P Pavlov",
+    "n": 10,
+    "won": "1904",
+    "wl": "1904'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Otto H Warburg",
+    "n": 9,
+    "won": "1931",
+    "wl": "1931'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Paul Uhlenhuth",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Felix d´Hérelle",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Christiaan E Eijkman",
+    "n": 1,
+    "won": "1929",
+    "wl": "1929'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Frederick G Hopkins",
+    "n": 2,
+    "won": "1929",
+    "wl": "1929'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Christiaan E Eijkman",
+    "n": 1,
+    "rank": 32,
+    "cum": 28,
+    "first": "1914",
+    "fl": "1914'te"
+   },
+   {
+    "name": "Frederick G Hopkins",
+    "n": 2,
+    "rank": 15,
+    "cum": 12,
+    "first": "1923",
+    "fl": "1923'te"
+   }
+  ]
+ },
+ "1930": {
+  "nominations": 129,
+  "nominees": 69,
+  "max": 29,
+  "yl": "1930'da",
+  "top": [
+   {
+    "name": "Rudolf Weigl",
+    "n": 29,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Karl Landsteiner",
+    "n": 7,
+    "won": "1930",
+    "wl": "1930'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Constantin Levaditi",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jules Gonin",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Karl Landsteiner",
+    "n": 7,
+    "rank": 3,
+    "cum": 16,
+    "first": "1921",
+    "fl": "1921'de"
+   }
+  ]
+ },
+ "1931": {
+  "nominations": 155,
+  "nominees": 63,
+  "max": 20,
+  "yl": "1931'de",
+  "top": [
+   {
+    "name": "Constantin Levaditi",
+    "n": 20,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alfred N Richards",
+    "n": 18,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Otto H Warburg",
+    "n": 13,
+    "won": "1931",
+    "wl": "1931'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Aldo Castellani",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alexander von Korányi",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Otto H Warburg",
+    "n": 13,
+    "rank": 3,
+    "cum": 47,
+    "first": "1923",
+    "fl": "1923'te"
+   }
+  ]
+ },
+ "1932": {
+  "nominations": 111,
+  "nominees": 67,
+  "max": 12,
+  "yl": "1932'de",
+  "top": [
+   {
+    "name": "Albert Calmette",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 9,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": true
+   },
+   {
+    "name": "George R Minot",
+    "n": 8,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Harvey W Cushing",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Constantin Levaditi",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Edgar D Adrian (Lord)",
+    "n": 2,
+    "won": "1932",
+    "wl": "1932'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Edgar D Adrian (Lord)",
+    "n": 2,
+    "rank": 14,
+    "cum": 6,
+    "first": "1930",
+    "fl": "1930'da"
+   },
+   {
+    "name": "Charles S Sherrington",
+    "n": 9,
+    "rank": 2,
+    "cum": 131,
+    "first": "1902",
+    "fl": "1902'de"
+   }
+  ]
+ },
+ "1933": {
+  "nominations": 74,
+  "nominees": 42,
+  "max": 10,
+  "yl": "1933'te",
+  "top": [
+   {
+    "name": "Albert Calmette",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Thomas H Morgan",
+    "n": 8,
+    "won": "1933",
+    "wl": "1933'te kazandı",
+    "win": true
+   },
+   {
+    "name": "George R Minot",
+    "n": 5,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Jean Cantacuzène",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Louis E Lapicque",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Thomas H Morgan",
+    "n": 8,
+    "rank": 2,
+    "cum": 33,
+    "first": "1920",
+    "fl": "1920'de"
+   }
+  ]
+ },
+ "1934": {
+  "nominations": 200,
+  "nominees": 76,
+  "max": 24,
+  "yl": "1934'te",
+  "top": [
+   {
+    "name": "Gaston Ramon",
+    "n": 24,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Rudolf Weigl",
+    "n": 17,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Louis E Lapicque",
+    "n": 16,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Frank C Mann",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "A Tournade",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "George H Whipple",
+    "n": 6,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": true
+   },
+   {
+    "name": "George R Minot",
+    "n": 12,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": true
+   },
+   {
+    "name": "William P Murphy",
+    "n": 3,
+    "won": "1934",
+    "wl": "1934'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "George H Whipple",
+    "n": 6,
+    "rank": 10,
+    "cum": 21,
+    "first": "1929",
+    "fl": "1929'da"
+   },
+   {
+    "name": "George R Minot",
+    "n": 12,
+    "rank": 6,
+    "cum": 57,
+    "first": "1928",
+    "fl": "1928'de"
+   },
+   {
+    "name": "William P Murphy",
+    "n": 3,
+    "rank": 19,
+    "cum": 16,
+    "first": "1929",
+    "fl": "1929'da"
+   }
+  ]
+ },
+ "1935": {
+  "nominations": 168,
+  "nominees": 51,
+  "max": 24,
+  "yl": "1935'te",
+  "top": [
+   {
+    "name": "Genichi M Kato",
+    "n": 24,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ken Kuré",
+    "n": 21,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hans Spemann",
+    "n": 15,
+    "won": "1935",
+    "wl": "1935'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Hyacinthe J Vincent",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Louis E Lapicque",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Hans Spemann",
+    "n": 15,
+    "rank": 3,
+    "cum": 20,
+    "first": "1924",
+    "fl": "1924'te"
+   }
+  ]
+ },
+ "1936": {
+  "nominations": 141,
+  "nominees": 68,
+  "max": 14,
+  "yl": "1936'da",
+  "top": [
+   {
+    "name": "Albert Imre Szent-Györgyi",
+    "n": 14,
+    "won": "1937",
+    "wl": "1937'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Henry Hallett Dale",
+    "n": 10,
+    "won": "1936",
+    "wl": "1936'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Otto Loewi",
+    "n": 9,
+    "won": "1936",
+    "wl": "1936'da kazandı",
+    "win": true
+   },
+   {
+    "name": "Rudolf Weigl",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Henry Hallett Dale",
+    "n": 10,
+    "rank": 3,
+    "cum": 21,
+    "first": "1926",
+    "fl": "1926'da"
+   },
+   {
+    "name": "Otto Loewi",
+    "n": 9,
+    "rank": 4,
+    "cum": 27,
+    "first": "1927",
+    "fl": "1927'de"
+   }
+  ]
+ },
+ "1937": {
+  "nominations": 169,
+  "nominees": 82,
+  "max": 17,
+  "yl": "1937'de",
+  "top": [
+   {
+    "name": "Giuseppe Sanarelli",
+    "n": 17,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Sigmund Freud",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Otfried Foerster",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Charles H Mayo",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ferdinand Sauerbruch",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Albert Imre Szent-Györgyi",
+    "n": 3,
+    "won": "1937",
+    "wl": "1937'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Albert Imre Szent-Györgyi",
+    "n": 3,
+    "rank": 16,
+    "cum": 23,
+    "first": "1934",
+    "fl": "1934'te"
+   }
+  ]
+ },
+ "1938": {
+  "nominations": 105,
+  "nominees": 53,
+  "max": 23,
+  "yl": "1938'de",
+  "top": [
+   {
+    "name": "Gaston Ramon",
+    "n": 23,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alfred N Richards",
+    "n": 18,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "David Keilin",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hans H Meyer",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Torsten L Thunberg",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Corneille J Heymans",
+    "n": 1,
+    "won": "1938",
+    "wl": "1938'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Corneille J Heymans",
+    "n": 1,
+    "rank": 26,
+    "cum": 4,
+    "first": "1934",
+    "fl": "1934'te"
+   }
+  ]
+ },
+ "1939": {
+  "nominations": 96,
+  "nominees": 67,
+  "max": 9,
+  "yl": "1939'da",
+  "top": [
+   {
+    "name": "John H Northrop",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Wendell M Stanley",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 6,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Walter R Hess",
+    "n": 6,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gerhard Domagk",
+    "n": 1,
+    "won": "1939",
+    "wl": "1939'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Gerhard Domagk",
+    "n": 1,
+    "rank": 42,
+    "cum": 3,
+    "first": "1938",
+    "fl": "1938'de"
+   }
+  ]
+ },
+ "1940": {
+  "nominations": 52,
+  "nominees": 39,
+  "max": 6,
+  "yl": "1940'ta",
+  "top": [
+   {
+    "name": "Gösta Forssell",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "John H Northrop",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Herbert S Gasser",
+    "n": 4,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Joseph Erlanger",
+    "n": 4,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1941": {
+  "nominations": 51,
+  "nominees": 33,
+  "max": 12,
+  "yl": "1941'de",
+  "top": [
+   {
+    "name": "Robin Fåhraeus",
+    "n": 12,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Takaoki Sasaki",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Walter B Cannon",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Edward C Kendall",
+    "n": 4,
+    "won": "1950",
+    "wl": "1950'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Filippo Bottazzi",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1942": {
+  "nominations": 31,
+  "nominees": 30,
+  "max": 7,
+  "yl": "1942'de",
+  "top": [
+   {
+    "name": "Wendell M Stanley",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Upendranath Brahmachari",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Herbert S Gasser",
+    "n": 3,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Joseph Erlanger",
+    "n": 3,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 2,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": false
+   }
+  ],
+  "laureates": []
+ },
+ "1943": {
+  "nominations": 28,
+  "nominees": 29,
+  "max": 6,
+  "yl": "1943'te",
+  "top": [
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 6,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Harry Goldblatt",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Wendell M Stanley",
+    "n": 3,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Elmer V McCollum",
+    "n": 2,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hendrik C Dam",
+    "n": 2,
+    "won": "1943",
+    "wl": "1943'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Hendrik C Dam",
+    "n": 2,
+    "rank": 5,
+    "cum": 5,
+    "first": "1941",
+    "fl": "1941'de"
+   },
+   {
+    "name": "Edward A Doisy",
+    "n": 0,
+    "rank": 0,
+    "cum": 3,
+    "first": "1931",
+    "fl": "1931'de"
+   }
+  ]
+ },
+ "1944": {
+  "nominations": 15,
+  "nominees": 22,
+  "max": 2,
+  "yl": "1944'te",
+  "top": [
+   {
+    "name": "Alexander Fleming",
+    "n": 2,
+    "won": "1945",
+    "wl": "1945'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Walter R Hess",
+    "n": 2,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Alfred N Richards",
+    "n": 1,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Antonio C.de Abreu Freire Egas Moniz",
+    "n": 1,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Arthur L Tatum",
+    "n": 1,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Joseph Erlanger",
+    "n": 1,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Herbert S Gasser",
+    "n": 1,
+    "won": "1944",
+    "wl": "1944'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Joseph Erlanger",
+    "n": 1,
+    "rank": 18,
+    "cum": 17,
+    "first": "1935",
+    "fl": "1935'te"
+   },
+   {
+    "name": "Herbert S Gasser",
+    "n": 1,
+    "rank": 12,
+    "cum": 18,
+    "first": "1935",
+    "fl": "1935'te"
+   }
+  ]
+ },
+ "1945": {
+  "nominations": 36,
+  "nominees": 13,
+  "max": 18,
+  "yl": "1945'te",
+  "top": [
+   {
+    "name": "Alexander Fleming",
+    "n": 18,
+    "won": "1945",
+    "wl": "1945'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Howard W Florey",
+    "n": 12,
+    "won": "1945",
+    "wl": "1945'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Alfred N Richards",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Walter R Hess",
+    "n": 5,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": false
+   },
+   {
+    "name": "Torbjörn O Caspersson",
+    "n": 2,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ernst B Chain",
+    "n": 1,
+    "won": "1945",
+    "wl": "1945'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Ernst B Chain",
+    "n": 1,
+    "rank": 9,
+    "cum": 2,
+    "first": "1944",
+    "fl": "1944'te"
+   },
+   {
+    "name": "Alexander Fleming",
+    "n": 18,
+    "rank": 1,
+    "cum": 21,
+    "first": "1943",
+    "fl": "1943'te"
+   },
+   {
+    "name": "Howard W Florey",
+    "n": 12,
+    "rank": 2,
+    "cum": 14,
+    "first": "1943",
+    "fl": "1943'te"
+   }
+  ]
+ },
+ "1946": {
+  "nominations": 61,
+  "nominees": 34,
+  "max": 10,
+  "yl": "1946'da",
+  "top": [
+   {
+    "name": "Alexander Fleming",
+    "n": 10,
+    "won": "1945",
+    "wl": "1945'te kazandı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Wendell M Stanley",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 5,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Herbert M Evans",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hermann Joseph Muller",
+    "n": 4,
+    "won": "1946",
+    "wl": "1946'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Hermann Joseph Muller",
+    "n": 4,
+    "rank": 6,
+    "cum": 11,
+    "first": "1932",
+    "fl": "1932'de"
+   }
+  ]
+ },
+ "1947": {
+  "nominations": 85,
+  "nominees": 42,
+  "max": 13,
+  "yl": "1947'de",
+  "top": [
+   {
+    "name": "Gaston Ramon",
+    "n": 13,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 11,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Edward C Dodds",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Edward Mellanby",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Selman A Waksman",
+    "n": 5,
+    "won": "1952",
+    "wl": "1952'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Carl F Cori",
+    "n": 4,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Gerty T Cori",
+    "n": 1,
+    "won": "1947",
+    "wl": "1947'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Carl F Cori",
+    "n": 4,
+    "rank": 7,
+    "cum": 5,
+    "first": "1946",
+    "fl": "1946'da"
+   },
+   {
+    "name": "Gerty T Cori",
+    "n": 1,
+    "rank": 26,
+    "cum": 2,
+    "first": "1946",
+    "fl": "1946'da"
+   },
+   {
+    "name": "Bernardo Alberto Houssay",
+    "n": 11,
+    "rank": 2,
+    "cum": 45,
+    "first": "1931",
+    "fl": "1931'de"
+   }
+  ]
+ },
+ "1948": {
+  "nominations": 148,
+  "nominees": 48,
+  "max": 28,
+  "yl": "1948'de",
+  "top": [
+   {
+    "name": "Pol Bouin",
+    "n": 28,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Paul A Ancel",
+    "n": 17,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 15,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "René Leriche",
+    "n": 14,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ugo Cerletti",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Paul Hermann Müller",
+    "n": 6,
+    "won": "1948",
+    "wl": "1948'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Paul Hermann Müller",
+    "n": 6,
+    "rank": 10,
+    "cum": 6,
+    "first": "1948",
+    "fl": "1948'de"
+   }
+  ]
+ },
+ "1949": {
+  "nominations": 103,
+  "nominees": 56,
+  "max": 9,
+  "yl": "1949'da",
+  "top": [
+   {
+    "name": "Antonio C.de Abreu Freire Egas Moniz",
+    "n": 9,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": true
+   },
+   {
+    "name": "André Gratia",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "George N Papanicolaou",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "René Leriche",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Selman A Waksman",
+    "n": 7,
+    "won": "1952",
+    "wl": "1952'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Walter R Hess",
+    "n": 6,
+    "won": "1949",
+    "wl": "1949'da kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Walter R Hess",
+    "n": 6,
+    "rank": 7,
+    "cum": 31,
+    "first": "1933",
+    "fl": "1933'te"
+   },
+   {
+    "name": "Antonio C.de Abreu Freire Egas Moniz",
+    "n": 9,
+    "rank": 1,
+    "cum": 16,
+    "first": "1928",
+    "fl": "1928'de"
+   }
+  ]
+ },
+ "1950": {
+  "nominations": 121,
+  "nominees": 78,
+  "max": 16,
+  "yl": "1950'de",
+  "top": [
+   {
+    "name": "Selman A Waksman",
+    "n": 16,
+    "won": "1952",
+    "wl": "1952'de kazandı",
+    "win": false
+   },
+   {
+    "name": "Edward C Kendall",
+    "n": 14,
+    "won": "1950",
+    "wl": "1950'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Philip S Hench",
+    "n": 11,
+    "won": "1950",
+    "wl": "1950'de kazandı",
+    "win": true
+   },
+   {
+    "name": "Alfred Blalock",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Helen B Taussig",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Tadeus Reichstein",
+    "n": 2,
+    "won": "1950",
+    "wl": "1950'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Philip S Hench",
+    "n": 11,
+    "rank": 3,
+    "cum": 11,
+    "first": "1950",
+    "fl": "1950'de"
+   },
+   {
+    "name": "Edward C Kendall",
+    "n": 14,
+    "rank": 2,
+    "cum": 26,
+    "first": "1922",
+    "fl": "1922'de"
+   },
+   {
+    "name": "Tadeus Reichstein",
+    "n": 2,
+    "rank": 29,
+    "cum": 2,
+    "first": "1950",
+    "fl": "1950'de"
+   }
+  ]
+ },
+ "1951": {
+  "nominations": 109,
+  "nominees": 89,
+  "max": 10,
+  "yl": "1951'de",
+  "top": [
+   {
+    "name": "Gaston Ramon",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Helen B Taussig",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alfred Blalock",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hans Selye",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Jacob Jongbloed",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Max Theiler",
+    "n": 1,
+    "won": "1951",
+    "wl": "1951'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Max Theiler",
+    "n": 1,
+    "rank": 72,
+    "cum": 4,
+    "first": "1937",
+    "fl": "1937'de"
+   }
+  ]
+ },
+ "1952": {
+  "nominations": 122,
+  "nominees": 79,
+  "max": 24,
+  "yl": "1952'de",
+  "top": [
+   {
+    "name": "René Leriche",
+    "n": 24,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Paul Uhlenhuth",
+    "n": 10,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Ernest W Goodpasture",
+    "n": 6,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Gaston Ramon",
+    "n": 5,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alfred Blalock",
+    "n": 4,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Selman A Waksman",
+    "n": 4,
+    "won": "1952",
+    "wl": "1952'de kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Selman A Waksman",
+    "n": 4,
+    "rank": 6,
+    "cum": 43,
+    "first": "1946",
+    "fl": "1946'da"
+   }
+  ]
+ },
+ "1953": {
+  "nominations": 166,
+  "nominees": 105,
+  "max": 11,
+  "yl": "1953'te",
+  "top": [
+   {
+    "name": "René Leriche",
+    "n": 11,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Fritz Mietzsch",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Walter Kikuth",
+    "n": 9,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "George N Papanicolaou",
+    "n": 8,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Alfred Blalock",
+    "n": 7,
+    "won": "",
+    "wl": "Kazanamadı",
+    "win": false
+   },
+   {
+    "name": "Hans Adolf Krebs",
+    "n": 7,
+    "won": "1953",
+    "wl": "1953'te kazandı",
+    "win": true
+   },
+   {
+    "name": "Fritz Albert Lipmann",
+    "n": 4,
+    "won": "1953",
+    "wl": "1953'te kazandı",
+    "win": true
+   }
+  ],
+  "laureates": [
+   {
+    "name": "Hans Adolf Krebs",
+    "n": 7,
+    "rank": 6,
+    "cum": 16,
+    "first": "1946",
+    "fl": "1946'da"
+   },
+   {
+    "name": "Fritz Albert Lipmann",
+    "n": 4,
+    "rank": 14,
+    "cum": 7,
+    "first": "1948",
+    "fl": "1948'de"
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="in search"><input type="search" id="q" placeholder="Bölüm ara: isim, konu, yıl" aria-label="Bölüm ara" autocomplete="off"><p id="none" hidden>Sonuç yok.</p></div>
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $introns := where $posts "Params.episode" "like" "^Intron" }}
+{{ $giris := where $posts "Params.episode" "Giris" }}
+{{ $years := sort (complement $introns $giris $posts) "Params.episode" }}
+{{ partial "band.html" (dict "title" "Giriş" "pages" $giris) }}
+{{ $decs := slice }}
+{{ range $years }}{{ $d := substr .Params.episode 0 3 }}{{ if not (in $decs $d) }}{{ $decs = $decs | append $d }}{{ end }}{{ end }}
+{{ range $decs }}{{ partial "band.html" (dict "title" (printf "%s0'lar" .) "pages" (where $years "Params.episode" "like" (printf "^%s" .))) }}{{ end }}
+{{ partial "band.html" (dict "title" "Intron" "pages" (sort $introns "Date")) }}
+{{ end }}

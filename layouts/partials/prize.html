@@ -1,0 +1,16 @@
+{{ with index site.Data.laureates (string .Params.episode) }}{{ $mot := .motivation }}
+<section class="prize">
+{{ range .laureates }}<div class="lau">
+<p><b><a href="{{ .url }}">{{ .name }}</a></b> <span class="yr">{{ .born }}–{{ .died }}</span></p>
+<p class="m">{{ with .birth }}{{ . }} doğumlu · {{ end }}{{ .portion }}{{ with .aff }}<br>{{ . }}{{ end }}</p>
+{{ if not $mot }}<blockquote>“{{ .motivation }}”</blockquote>{{ end }}
+</div>{{ end }}
+{{ with .motivation }}<blockquote>“{{ . }}”</blockquote>{{ end }}
+{{ with index site.Data.nominations (string $.Params.episode) }}{{ $max := .max }}{{ $yl := .yl }}
+<div class="nom" style="--bc:#{{ $.Params.bg | default "333333" }}">
+<p class="nh"><span>Aday arşivi</span>{{ $yl }} {{ .nominees }} kişi için {{ .nominations }} aday gösterme yapıldı. En çok aday gösterilenler:</p>
+<ol>{{ range .top }}<li{{ if .win }} class="win"{{ end }}><span class="nm">{{ .name }}</span><span class="b"><span style="width:{{ printf "%.1f" (mul 100 (div (float .n) $max)) }}%"></span></span><span class="c">{{ .n }}</span><span class="w">{{ if .win }}Kazandı{{ else }}{{ .wl }}{{ end }}</span></li>{{ end }}</ol>
+{{ range .laureates }}<p class="nl">{{ if .n }}{{ .name }} o yıl {{ .n }} adaylıkla {{ .rank }}. sıradaydı.{{ if gt .cum .n }} İlk adaylığı {{ .fl }}, ödüle kadar toplam {{ .cum }} adaylık.{{ end }}{{ else }}{{ .name }} o yıl aday listesinde yok.{{ end }}</p>{{ end }}
+</div>{{ end }}
+</section>
+{{ end }}

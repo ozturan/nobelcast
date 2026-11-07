@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} · {{ end }}Nobelcast</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ with .Params.poster }}{{ . | absURL }}{{ else }}{{ "/posters/Giris.jpg" | absURL }}{{ end }}">
+<link rel="icon" href="/images/favicon/favicon-32x32.png">
+<link rel="alternate" type="application/rss+xml" title="Nobelcast" href="{{ .Site.Params.rss }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cutive&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+<div id="page">
+<header><div class="in">
+<a class="logo" href="/"><img src="/images/logo.png" alt="" width="72" height="72">NOBELCAST</a>
+<nav class="nav">{{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) (and $.IsHome (eq .URL "/")) }} class="on"{{ end }}>{{ .Name }}</a>{{ end }}</nav>
+{{ if .IsHome }}<p class="intro">Kimmiş bu Alfred Nobel? Neymiş bu ödüller? İlginç kişilikler, sansasyonel açıklamalar ve daha fazlası… 3 genç bilim insanının hazırlayıp sunduğu Nobelcast, meraklıları için bu soruları ve daha fazlasını ilginç hale getiriyor.<br><a href="{{ .Site.Params.spotify }}">Spotify</a>, <a href="{{ .Site.Params.apple }}">Apple Podcasts</a> ve <a href="{{ .Site.Params.youtube }}">YouTube</a>'da.</p>{{ end }}
+</div></header>
+{{ block "main" . }}{{ end }}
+</div>
+<div id="dock"><div class="in"><div class="slot"></div><a class="tx" href="/"></a><div class="pl" data-src=""><button type="button" class="pp" aria-label="Oynat"><svg viewBox="0 0 16 16" width="14" height="14"><path class="i-play" d="M4 2.5v11l9-5.5z"/><path class="i-pause" d="M3.5 2.5h3v11h-3zM9.5 2.5h3v11h-3z"/></svg></button><div class="bar"><div class="fill"></div></div><span class="t">0:00</span><button type="button" class="sp" aria-label="Oynatma hızı">1x</button></div><button class="x" type="button" aria-label="Kapat">×</button></div></div>
+<script src="/js/player.js" defer></script>
+</body>
+</html>

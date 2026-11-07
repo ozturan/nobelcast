@@ -1,7 +1,16 @@
 ---
+aliases: ["/posts/intron4/"]
 title: "Intron 5 - 2019 Ödül Tahminleri"
 date: 2019-09-30
 draft: false
+youtube: "ZdXtuvLRiO8"
+episode: "Intron5"
+audio: "https://anchor.fm/s/9647d9c/podcast/play/4962263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-30%2F25392860-44100-2-32c52e0a78d0f.mp3"
+spotify: "https://podcasters.spotify.com/pod/show/nobelcast/episodes/Intron-5---2019-dl-Tahminleri-e5lugn"
+duration: "00:51:24"
+poster: "/posters/Intron5.jpg"
+bg: "262926"
+ink: "FFFFFF"
 ---
 
 **1) Solomon H. Snyder (d.1938)**   

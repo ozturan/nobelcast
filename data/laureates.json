@@ -1,0 +1,2937 @@
+{
+ "1901": {
+  "motivation": "Serum tedavisi ve difteri konusundaki çalışmaları, özellikle de tıp bilimi alanında yeni bir yol açtığı ve böylece hekimin ellerine hastalık ve ölümlere karşı bir silah yerleştirdiği için",
+  "laureates": [
+   {
+    "name": "Emil von Behring",
+    "born": "1854",
+    "died": "1917",
+    "birth": "Prusya (bugün Polonya)",
+    "aff": "Marburg University, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Serum tedavisi ve difteri konusundaki çalışmaları, özellikle de tıp bilimi alanında yeni bir yol açtığı ve böylece hekimin ellerine hastalık ve ölümlere karşı bir silah yerleştirdiği için",
+    "url": "https://www.nobelprize.org/laureate/293"
+   }
+  ]
+ },
+ "1902": {
+  "motivation": "Sıtmanın organizmaya nasıl girdiğini gösterdiği ve böylece bu hastalık ve onunla mücadele yöntemleriyle ilgili başarılı araştırmaların temelini attığı çalışmaları için",
+  "laureates": [
+   {
+    "name": "Ronald Ross",
+    "born": "1857",
+    "died": "1932",
+    "birth": "Hindistan",
+    "aff": "University College, Birleşik Krallık",
+    "portion": "Ödülün tamamı",
+    "motivation": "Sıtmanın organizmaya nasıl girdiğini gösterdiği ve böylece bu hastalık ve onunla mücadele yöntemleriyle ilgili başarılı araştırmaların temelini attığı çalışmaları için",
+    "url": "https://www.nobelprize.org/laureate/294"
+   }
+  ]
+ },
+ "1903": {
+  "motivation": "Hastalıkların, özellikle lupus vulgarisin yoğunlaştırılmış ışık ışınımıyla tedavisine katkısı ve bununla tıp bilimine yeni bir yol açması nedeniyle",
+  "laureates": [
+   {
+    "name": "Niels Ryberg Finsen",
+    "born": "1860",
+    "died": "1904",
+    "birth": "Faroe Adaları (Danimarka)",
+    "aff": "Finsen Medical Light Institute, Danimarka",
+    "portion": "Ödülün tamamı",
+    "motivation": "Hastalıkların, özellikle lupus vulgarisin yoğunlaştırılmış ışık ışınımıyla tedavisine katkısı ve bununla tıp bilimine yeni bir yol açması nedeniyle",
+    "url": "https://www.nobelprize.org/laureate/295"
+   }
+  ]
+ },
+ "1904": {
+  "motivation": "Sindirim fizyolojisi konusundaki çalışmalarının tanınmasında, konunun hayati yönleriyle ilgili bilginin genişletilmesindeki çalışmaları dolayısıyla",
+  "laureates": [
+   {
+    "name": "Ivan Pavlov",
+    "born": "1849",
+    "died": "1936",
+    "birth": "Rusya",
+    "aff": "Military Medical Academy, Rusya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Sindirim fizyolojisi konusundaki çalışmalarının tanınmasında, konunun hayati yönleriyle ilgili bilginin genişletilmesindeki çalışmaları dolayısıyla",
+    "url": "https://www.nobelprize.org/laureate/296"
+   }
+  ]
+ },
+ "1905": {
+  "motivation": "Tüberkülozla ilgili araştırma ve keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Robert Koch",
+    "born": "1843",
+    "died": "1910",
+    "birth": "Almanya",
+    "aff": "Institute for Infectious Diseases, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Tüberkülozla ilgili araştırma ve keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/297"
+   }
+  ]
+ },
+ "1906": {
+  "motivation": "Sinir sistemi yapısı üzerine yapılan çalışmalardan dolayı",
+  "laureates": [
+   {
+    "name": "Camillo Golgi",
+    "born": "1843",
+    "died": "1926",
+    "birth": "İtalya",
+    "aff": "Pavia University, İtalya",
+    "portion": "Ödülün yarısı",
+    "motivation": "Sinir sistemi yapısı üzerine yapılan çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/298"
+   },
+   {
+    "name": "Santiago Ramón y Cajal",
+    "born": "1852",
+    "died": "1934",
+    "birth": "İspanya",
+    "aff": "Madrid University, İspanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "Sinir sistemi yapısı üzerine yapılan çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/299"
+   }
+  ]
+ },
+ "1907": {
+  "motivation": "Protozoanın hastalıklara neden olmadaki rolü üzerine yaptığı çalışmalar dolayısıyla",
+  "laureates": [
+   {
+    "name": "Alphonse Laveran",
+    "born": "1845",
+    "died": "1922",
+    "birth": "Fransa",
+    "aff": "Institut Pasteur, Fransa",
+    "portion": "Ödülün tamamı",
+    "motivation": "Protozoanın hastalıklara neden olmadaki rolü üzerine yaptığı çalışmalar dolayısıyla",
+    "url": "https://www.nobelprize.org/laureate/300"
+   }
+  ]
+ },
+ "1908": {
+  "motivation": "Bağışıklık sisteminin anlaşılması üzerine yapılan çalışmalardan dolayı",
+  "laureates": [
+   {
+    "name": "Ilya Mechnikov",
+    "born": "1845",
+    "died": "1916",
+    "birth": "Rus İmparatorluğu (bugün Ukrayna)",
+    "aff": "Institut Pasteur, Fransa",
+    "portion": "Ödülün yarısı",
+    "motivation": "Bağışıklık sisteminin anlaşılması üzerine yapılan çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/301"
+   },
+   {
+    "name": "Paul Ehrlich",
+    "born": "1854",
+    "died": "1915",
+    "birth": "Prusya (bugün Polonya)",
+    "aff": "Goettingen University, Almanya · Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy), Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "Bağışıklık sisteminin anlaşılması üzerine yapılan çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/302"
+   }
+  ]
+ },
+ "1909": {
+  "motivation": "Tiroid bezinin fizyolojisi, patolojisi ve cerrahisi konusundaki çalışmaları için",
+  "laureates": [
+   {
+    "name": "Theodor Kocher",
+    "born": "1841",
+    "died": "1917",
+    "birth": "İsviçre",
+    "aff": "Berne University, İsviçre",
+    "portion": "Ödülün tamamı",
+    "motivation": "Tiroid bezinin fizyolojisi, patolojisi ve cerrahisi konusundaki çalışmaları için",
+    "url": "https://www.nobelprize.org/laureate/303"
+   }
+  ]
+ },
+ "1910": {
+  "motivation": "Nükleik maddeler de dahil olmak üzere proteinler üzerinde yaptığı çalışmalar sayesinde hücre kimyası hakkındaki bilgilerimize sağladığı katkıları nedeniyle",
+  "laureates": [
+   {
+    "name": "Albrecht Kossel",
+    "born": "1853",
+    "died": "1927",
+    "birth": "Mecklenburg (bugün Almanya)",
+    "aff": "University of Heidelberg, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Nükleik maddeler de dahil olmak üzere proteinler üzerinde yaptığı çalışmalar sayesinde hücre kimyası hakkındaki bilgilerimize sağladığı katkıları nedeniyle",
+    "url": "https://www.nobelprize.org/laureate/304"
+   }
+  ]
+ },
+ "1911": {
+  "motivation": "Göz diyoptrisi ile ilgili yaptığı çalışmaları için",
+  "laureates": [
+   {
+    "name": "Allvar Gullstrand",
+    "born": "1862",
+    "died": "1930",
+    "birth": "İsveç",
+    "aff": "Uppsala University, İsveç",
+    "portion": "Ödülün tamamı",
+    "motivation": "Göz diyoptrisi ile ilgili yaptığı çalışmaları için",
+    "url": "https://www.nobelprize.org/laureate/305"
+   }
+  ]
+ },
+ "1912": {
+  "motivation": "Damar sütürü, kan damarı ve organ transplantasyonu ile ilgili yaptığı çalışmalardan dolayı",
+  "laureates": [
+   {
+    "name": "Alexis Carrel",
+    "born": "1873",
+    "died": "1944",
+    "birth": "Fransa",
+    "aff": "Rockefeller Institute for Medical Research, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "Damar sütürü, kan damarı ve organ transplantasyonu ile ilgili yaptığı çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/306"
+   }
+  ]
+ },
+ "1913": {
+  "motivation": "Anafilaksi ile ilgili çalışmalarından dolayı",
+  "laureates": [
+   {
+    "name": "Charles Richet",
+    "born": "1850",
+    "died": "1935",
+    "birth": "Fransa",
+    "aff": "Sorbonne University, Fransa",
+    "portion": "Ödülün tamamı",
+    "motivation": "Anafilaksi ile ilgili çalışmalarından dolayı",
+    "url": "https://www.nobelprize.org/laureate/307"
+   }
+  ]
+ },
+ "1914": {
+  "motivation": "Vestibüler aparatın patolojisi ve fizyolojisiyle ilgili yaptığı çalışmalardan dolayı",
+  "laureates": [
+   {
+    "name": "Robert Bárány",
+    "born": "1876",
+    "died": "1936",
+    "birth": "Avusturya",
+    "aff": "Vienna University, Avusturya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Vestibüler aparatın patolojisi ve fizyolojisiyle ilgili yaptığı çalışmalardan dolayı",
+    "url": "https://www.nobelprize.org/laureate/308"
+   }
+  ]
+ },
+ "1919": {
+  "motivation": "Bağışıklıkla ilgili keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Jules Bordet",
+    "born": "1870",
+    "died": "1961",
+    "birth": "Belçika",
+    "aff": "Brussels University, Belçika",
+    "portion": "Ödülün tamamı",
+    "motivation": "Bağışıklıkla ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/309"
+   }
+  ]
+ },
+ "1920": {
+  "motivation": "Kılcal damarları düzenleyen motor mekanizmayı keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "August Krogh",
+    "born": "1874",
+    "died": "1949",
+    "birth": "Danimarka",
+    "aff": "Copenhagen University, Danimarka",
+    "portion": "Ödülün tamamı",
+    "motivation": "Kılcal damarları düzenleyen motor mekanizmayı keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/310"
+   }
+  ]
+ },
+ "1922": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Archibald V. Hill",
+    "born": "1886",
+    "died": "1977",
+    "birth": "Birleşik Krallık",
+    "aff": "London University, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "Kasta ısı üretimiyle ilgili keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/311"
+   },
+   {
+    "name": "Otto Meyerhof",
+    "born": "1884",
+    "died": "1951",
+    "birth": "Almanya",
+    "aff": "Kiel University, Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "Kasta oksijen tüketimi ile laktik asit metabolizması arasındaki sabit ilişkiyi keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/312"
+   }
+  ]
+ },
+ "1923": {
+  "motivation": "İnsülinin keşfinden dolayı",
+  "laureates": [
+   {
+    "name": "Frederick G. Banting",
+    "born": "1891",
+    "died": "1941",
+    "birth": "Kanada",
+    "aff": "University of Toronto, Kanada",
+    "portion": "Ödülün yarısı",
+    "motivation": "İnsülinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/313"
+   },
+   {
+    "name": "John Macleod",
+    "born": "1876",
+    "died": "1935",
+    "birth": "İskoçya",
+    "aff": "University of Toronto, Kanada",
+    "portion": "Ödülün yarısı",
+    "motivation": "İnsülinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/314"
+   }
+  ]
+ },
+ "1924": {
+  "motivation": "Elektrokardiyogramın mekanizmasını keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Willem Einthoven",
+    "born": "1860",
+    "died": "1927",
+    "birth": "Cava, Hollanda Doğu Hint Adaları (bugün Endonezya)",
+    "aff": "Leiden University, Hollanda",
+    "portion": "Ödülün tamamı",
+    "motivation": "Elektrokardiyogramın mekanizmasını keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/315"
+   }
+  ]
+ },
+ "1926": {
+  "motivation": "Spiroptera karsinomunu keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Johannes Fibiger",
+    "born": "1867",
+    "died": "1928",
+    "birth": "Danimarka",
+    "aff": "Copenhagen University, Danimarka",
+    "portion": "Ödülün tamamı",
+    "motivation": "Spiroptera karsinomunu keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/316"
+   }
+  ]
+ },
+ "1927": {
+  "motivation": "Dementia paralytica tedavisinde sıtma aşılamasının tedavi edici değerini keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Julius Wagner-Jauregg",
+    "born": "1857",
+    "died": "1940",
+    "birth": "Avusturya",
+    "aff": "Vienna University, Avusturya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Dementia paralytica tedavisinde sıtma aşılamasının tedavi edici değerini keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/317"
+   }
+  ]
+ },
+ "1928": {
+  "motivation": "Tifüs üzerine çalışmalarından dolayı",
+  "laureates": [
+   {
+    "name": "Charles Nicolle",
+    "born": "1866",
+    "died": "1936",
+    "birth": "Fransa",
+    "aff": "Institut Pasteur, Tunus",
+    "portion": "Ödülün tamamı",
+    "motivation": "Tifüs üzerine çalışmalarından dolayı",
+    "url": "https://www.nobelprize.org/laureate/318"
+   }
+  ]
+ },
+ "1929": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Christiaan Eijkman",
+    "born": "1858",
+    "died": "1930",
+    "birth": "Hollanda",
+    "aff": "Utrecht University, Hollanda",
+    "portion": "Ödülün yarısı",
+    "motivation": "Antinöritik vitamini keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/319"
+   },
+   {
+    "name": "Sir Frederick Hopkins",
+    "born": "1861",
+    "died": "1947",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Cambridge, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "Büyümeyi uyaran vitaminleri keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/320"
+   }
+  ]
+ },
+ "1930": {
+  "motivation": "İnsan kan gruplarını keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Karl Landsteiner",
+    "born": "1868",
+    "died": "1943",
+    "birth": "Avusturya İmparatorluğu",
+    "aff": "Rockefeller Institute for Medical Research, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "İnsan kan gruplarını keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/321"
+   }
+  ]
+ },
+ "1931": {
+  "motivation": "Solunum enziminin doğasını ve etki biçimini keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Otto Warburg",
+    "born": "1883",
+    "died": "1970",
+    "birth": "Almanya",
+    "aff": "Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Solunum enziminin doğasını ve etki biçimini keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/322"
+   }
+  ]
+ },
+ "1932": {
+  "motivation": "Nöronların işlevlerine ilişkin keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Sir Charles Sherrington",
+    "born": "1857",
+    "died": "1952",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Oxford, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "Nöronların işlevlerine ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/323"
+   },
+   {
+    "name": "Edgar Adrian",
+    "born": "1889",
+    "died": "1977",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Cambridge, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "Nöronların işlevlerine ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/324"
+   }
+  ]
+ },
+ "1933": {
+  "motivation": "Kalıtımda kromozomun oynadığı rolle ilgili keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Thomas H. Morgan",
+    "born": "1866",
+    "died": "1945",
+    "birth": "ABD",
+    "aff": "California Institute of Technology (Caltech), ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "Kalıtımda kromozomun oynadığı rolle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/325"
+   }
+  ]
+ },
+ "1934": {
+  "motivation": "Anemi vakalarında karaciğer tedavisiyle ilgili keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "George H. Whipple",
+    "born": "1878",
+    "died": "1976",
+    "birth": "ABD",
+    "aff": "University of Rochester, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Anemi vakalarında karaciğer tedavisiyle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/326"
+   },
+   {
+    "name": "George R. Minot",
+    "born": "1885",
+    "died": "1950",
+    "birth": "ABD",
+    "aff": "Harvard University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Anemi vakalarında karaciğer tedavisiyle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/327"
+   },
+   {
+    "name": "William P. Murphy",
+    "born": "1892",
+    "died": "1987",
+    "birth": "ABD",
+    "aff": "Harvard University, ABD · Peter Brent Brigham Hospital, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Anemi vakalarında karaciğer tedavisiyle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/328"
+   }
+  ]
+ },
+ "1935": {
+  "motivation": "Embriyonik gelişimdeki organizatör etkisini keşfetmesinden dolayı",
+  "laureates": [
+   {
+    "name": "Hans Spemann",
+    "born": "1869",
+    "died": "1941",
+    "birth": "Württemberg (bugün Almanya)",
+    "aff": "University of Freiburg im Breisgau, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Embriyonik gelişimdeki organizatör etkisini keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/329"
+   }
+  ]
+ },
+ "1936": {
+  "motivation": "Sinir uyarılarının kimyasal iletimiyle ilgili keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Sir Henry Dale",
+    "born": "1875",
+    "died": "1968",
+    "birth": "Birleşik Krallık",
+    "aff": "National Institute for Medical Research, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "Sinir uyarılarının kimyasal iletimiyle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/330"
+   },
+   {
+    "name": "Otto Loewi",
+    "born": "1873",
+    "died": "1961",
+    "birth": "Almanya",
+    "aff": "Graz University, Avusturya",
+    "portion": "Ödülün yarısı",
+    "motivation": "Sinir uyarılarının kimyasal iletimiyle ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/331"
+   }
+  ]
+ },
+ "1937": {
+  "motivation": "Biyolojik yanma süreçleriyle, özellikle C vitamini ve fumarik asidin katalizi ile ilgili keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Albert Szent-Györgyi",
+    "born": "1893",
+    "died": "1986",
+    "birth": "Avusturya-Macaristan",
+    "aff": "Szeged University, Macaristan",
+    "portion": "Ödülün tamamı",
+    "motivation": "Biyolojik yanma süreçleriyle, özellikle C vitamini ve fumarik asidin katalizi ile ilgili keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/332"
+   }
+  ]
+ },
+ "1938": {
+  "motivation": "Solunumun düzenlenmesinde sinüs ve aort mekanizmalarının oynadığı rolün keşfinden dolayı",
+  "laureates": [
+   {
+    "name": "Corneille Heymans",
+    "born": "1892",
+    "died": "1968",
+    "birth": "Belçika",
+    "aff": "Ghent University, Belçika",
+    "portion": "Ödülün tamamı",
+    "motivation": "Solunumun düzenlenmesinde sinüs ve aort mekanizmalarının oynadığı rolün keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/333"
+   }
+  ]
+ },
+ "1939": {
+  "motivation": "Prontosilin antibakteriyel etkilerinin keşfinden dolayı",
+  "laureates": [
+   {
+    "name": "Gerhard Domagk",
+    "born": "1895",
+    "died": "1964",
+    "birth": "Almanya (bugün Polonya)",
+    "aff": "Munster University, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "Prontosilin antibakteriyel etkilerinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/334"
+   }
+  ]
+ },
+ "1943": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Henrik Dam",
+    "born": "1895",
+    "died": "1976",
+    "birth": "Danimarka",
+    "aff": "Polytechnic Institute, Danimarka",
+    "portion": "Ödülün yarısı",
+    "motivation": "K vitaminini keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/335"
+   },
+   {
+    "name": "Edward A. Doisy",
+    "born": "1893",
+    "died": "1986",
+    "birth": "ABD",
+    "aff": "Saint Louis University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "K vitamininin kimyasal yapısını keşfetmesinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/336"
+   }
+  ]
+ },
+ "1944": {
+  "motivation": "Tekil sinir liflerinin yüksek derecede farklılaşmış işlevlerine ilişkin keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Joseph Erlanger",
+    "born": "1874",
+    "died": "1965",
+    "birth": "ABD",
+    "aff": "Washington University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "Tekil sinir liflerinin yüksek derecede farklılaşmış işlevlerine ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/337"
+   },
+   {
+    "name": "Herbert S. Gasser",
+    "born": "1888",
+    "died": "1963",
+    "birth": "ABD",
+    "aff": "Rockefeller Institute for Medical Research, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "Tekil sinir liflerinin yüksek derecede farklılaşmış işlevlerine ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/338"
+   }
+  ]
+ },
+ "1945": {
+  "motivation": "Penisilinin ve çeşitli enfeksiyon hastalıklarındaki iyileştirici etkisinin keşfinden dolayı",
+  "laureates": [
+   {
+    "name": "Sir Alexander Fleming",
+    "born": "1881",
+    "died": "1955",
+    "birth": "İskoçya",
+    "aff": "London University, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Penisilinin ve çeşitli enfeksiyon hastalıklarındaki iyileştirici etkisinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/339"
+   },
+   {
+    "name": "Ernst B. Chain",
+    "born": "1906",
+    "died": "1979",
+    "birth": "Almanya",
+    "aff": "University of Oxford, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Penisilinin ve çeşitli enfeksiyon hastalıklarındaki iyileştirici etkisinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/340"
+   },
+   {
+    "name": "Sir Howard Florey",
+    "born": "1898",
+    "died": "1968",
+    "birth": "Avustralya",
+    "aff": "University of Oxford, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "Penisilinin ve çeşitli enfeksiyon hastalıklarındaki iyileştirici etkisinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/341"
+   }
+  ]
+ },
+ "1946": {
+  "motivation": "X ışını ışınlamasıyla mutasyon oluşturulabildiğinin keşfinden dolayı",
+  "laureates": [
+   {
+    "name": "Hermann J. Muller",
+    "born": "1890",
+    "died": "1967",
+    "birth": "ABD",
+    "aff": "Indiana University, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "X ışını ışınlamasıyla mutasyon oluşturulabildiğinin keşfinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/342"
+   }
+  ]
+ },
+ "1947": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Carl Cori",
+    "born": "1896",
+    "died": "1984",
+    "birth": "Avusturya-Macaristan (bugün Çekya)",
+    "aff": "Washington University, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery of the course of the catalytic conversion of glycogen",
+    "url": "https://www.nobelprize.org/laureate/343"
+   },
+   {
+    "name": "Gerty Cori",
+    "born": "1896",
+    "died": "1957",
+    "birth": "Avusturya-Macaristan (bugün Çekya)",
+    "aff": "Washington University, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery of the course of the catalytic conversion of glycogen",
+    "url": "https://www.nobelprize.org/laureate/344"
+   },
+   {
+    "name": "Bernardo Houssay",
+    "born": "1887",
+    "died": "1971",
+    "birth": "Arjantin",
+    "aff": "Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine), Arjantin",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar",
+    "url": "https://www.nobelprize.org/laureate/345"
+   }
+  ]
+ },
+ "1948": {
+  "motivation": "for his discovery of the high efficiency of DDT as a contact poison against several arthropods",
+  "laureates": [
+   {
+    "name": "Paul Müller",
+    "born": "1899",
+    "died": "1965",
+    "birth": "İsviçre",
+    "aff": "Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.), İsviçre",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discovery of the high efficiency of DDT as a contact poison against several arthropods",
+    "url": "https://www.nobelprize.org/laureate/346"
+   }
+  ]
+ },
+ "1949": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Walter Hess",
+    "born": "1881",
+    "died": "1973",
+    "birth": "İsviçre",
+    "aff": "University of Zurich, İsviçre",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs",
+    "url": "https://www.nobelprize.org/laureate/347"
+   },
+   {
+    "name": "Egas Moniz",
+    "born": "1874",
+    "died": "1955",
+    "birth": "Portekiz",
+    "aff": "University of Lisbon, Portekiz · Neurological Institute, Portekiz",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of the therapeutic value of leucotomy in certain psychoses",
+    "url": "https://www.nobelprize.org/laureate/348"
+   }
+  ]
+ },
+ "1950": {
+  "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
+  "laureates": [
+   {
+    "name": "Edward C. Kendall",
+    "born": "1886",
+    "died": "1972",
+    "birth": "ABD",
+    "aff": "Mayo Clinic, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
+    "url": "https://www.nobelprize.org/laureate/349"
+   },
+   {
+    "name": "Tadeus Reichstein",
+    "born": "1897",
+    "died": "1996",
+    "birth": "Polonya",
+    "aff": "Basel University, İsviçre",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
+    "url": "https://www.nobelprize.org/laureate/350"
+   },
+   {
+    "name": "Philip S. Hench",
+    "born": "1896",
+    "died": "1965",
+    "birth": "ABD",
+    "aff": "Mayo Clinic, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
+    "url": "https://www.nobelprize.org/laureate/351"
+   }
+  ]
+ },
+ "1951": {
+  "motivation": "for his discoveries concerning yellow fever and how to combat it",
+  "laureates": [
+   {
+    "name": "Max Theiler",
+    "born": "1899",
+    "died": "1972",
+    "birth": "Güney Afrika",
+    "aff": "Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries concerning yellow fever and how to combat it",
+    "url": "https://www.nobelprize.org/laureate/352"
+   }
+  ]
+ },
+ "1952": {
+  "motivation": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis",
+  "laureates": [
+   {
+    "name": "Selman A. Waksman",
+    "born": "1888",
+    "died": "1973",
+    "birth": "Rus İmparatorluğu (bugün Ukrayna)",
+    "aff": "Rutgers University, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis",
+    "url": "https://www.nobelprize.org/laureate/353"
+   }
+  ]
+ },
+ "1953": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Hans Krebs",
+    "born": "1900",
+    "died": "1981",
+    "birth": "Almanya",
+    "aff": "Sheffield University, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of the citric acid cycle",
+    "url": "https://www.nobelprize.org/laureate/354"
+   },
+   {
+    "name": "Fritz Lipmann",
+    "born": "1899",
+    "died": "1986",
+    "birth": "Almanya (bugün Rusya)",
+    "aff": "Harvard Medical School, ABD · Massachusetts General Hospital, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of co-enzyme A and its importance for intermediary metabolism",
+    "url": "https://www.nobelprize.org/laureate/355"
+   }
+  ]
+ },
+ "1954": {
+  "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
+  "laureates": [
+   {
+    "name": "John F. Enders",
+    "born": "1897",
+    "died": "1985",
+    "birth": "ABD",
+    "aff": "Harvard Medical School, ABD · Research Division of Infectious Diseases, Children's Medical Center, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
+    "url": "https://www.nobelprize.org/laureate/356"
+   },
+   {
+    "name": "Thomas H. Weller",
+    "born": "1915",
+    "died": "2008",
+    "birth": "ABD",
+    "aff": "Research Division of Infectious Diseases, Children's Medical Center, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
+    "url": "https://www.nobelprize.org/laureate/357"
+   },
+   {
+    "name": "Frederick C. Robbins",
+    "born": "1916",
+    "died": "2003",
+    "birth": "ABD",
+    "aff": "Western Reserve University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
+    "url": "https://www.nobelprize.org/laureate/358"
+   }
+  ]
+ },
+ "1955": {
+  "motivation": "for his discoveries concerning the nature and mode of action of oxidation enzymes",
+  "laureates": [
+   {
+    "name": "Hugo Theorell",
+    "born": "1903",
+    "died": "1982",
+    "birth": "İsveç",
+    "aff": "Karolinska Institutet, Nobel Medical Institute, İsveç",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries concerning the nature and mode of action of oxidation enzymes",
+    "url": "https://www.nobelprize.org/laureate/359"
+   }
+  ]
+ },
+ "1956": {
+  "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
+  "laureates": [
+   {
+    "name": "André F. Cournand",
+    "born": "1895",
+    "died": "1988",
+    "birth": "Fransa",
+    "aff": "Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
+    "url": "https://www.nobelprize.org/laureate/360"
+   },
+   {
+    "name": "Werner Forssmann",
+    "born": "1904",
+    "died": "1979",
+    "birth": "Almanya",
+    "aff": "Mainz University, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
+    "url": "https://www.nobelprize.org/laureate/361"
+   },
+   {
+    "name": "Dickinson W. Richards",
+    "born": "1895",
+    "died": "1973",
+    "birth": "ABD",
+    "aff": "Columbia University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
+    "url": "https://www.nobelprize.org/laureate/362"
+   }
+  ]
+ },
+ "1957": {
+  "motivation": "for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles",
+  "laureates": [
+   {
+    "name": "Daniel Bovet",
+    "born": "1907",
+    "died": "1992",
+    "birth": "İsviçre",
+    "aff": "Istituto Superiore di Sanità (Chief Institute of Public Health), İtalya",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles",
+    "url": "https://www.nobelprize.org/laureate/363"
+   }
+  ]
+ },
+ "1958": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "George Beadle",
+    "born": "1903",
+    "died": "1989",
+    "birth": "ABD",
+    "aff": "California Institute of Technology (Caltech), ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery that genes act by regulating definite chemical events",
+    "url": "https://www.nobelprize.org/laureate/364"
+   },
+   {
+    "name": "Edward Tatum",
+    "born": "1909",
+    "died": "1975",
+    "birth": "ABD",
+    "aff": "Rockefeller Institute for Medical Research, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery that genes act by regulating definite chemical events",
+    "url": "https://www.nobelprize.org/laureate/365"
+   },
+   {
+    "name": "Joshua Lederberg",
+    "born": "1925",
+    "died": "2008",
+    "birth": "ABD",
+    "aff": "University of Wisconsin, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria",
+    "url": "https://www.nobelprize.org/laureate/366"
+   }
+  ]
+ },
+ "1959": {
+  "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid",
+  "laureates": [
+   {
+    "name": "Severo Ochoa",
+    "born": "1905",
+    "died": "1993",
+    "birth": "İspanya",
+    "aff": "New York University, College of Medicine, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid",
+    "url": "https://www.nobelprize.org/laureate/367"
+   },
+   {
+    "name": "Arthur Kornberg",
+    "born": "1918",
+    "died": "2007",
+    "birth": "ABD",
+    "aff": "Stanford University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid",
+    "url": "https://www.nobelprize.org/laureate/368"
+   }
+  ]
+ },
+ "1960": {
+  "motivation": "for discovery of acquired immunological tolerance",
+  "laureates": [
+   {
+    "name": "Sir Frank Macfarlane Burnet",
+    "born": "1899",
+    "died": "1985",
+    "birth": "Avustralya",
+    "aff": "Walter and Eliza Hall Institute for Medical Research, Avustralya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for discovery of acquired immunological tolerance",
+    "url": "https://www.nobelprize.org/laureate/369"
+   },
+   {
+    "name": "Peter Medawar",
+    "born": "1915",
+    "died": "1987",
+    "birth": "Brezilya",
+    "aff": "University College, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for discovery of acquired immunological tolerance",
+    "url": "https://www.nobelprize.org/laureate/370"
+   }
+  ]
+ },
+ "1961": {
+  "motivation": "for his discoveries of the physical mechanism of stimulation within the cochlea",
+  "laureates": [
+   {
+    "name": "Georg von Békésy",
+    "born": "1899",
+    "died": "1972",
+    "birth": "Macaristan",
+    "aff": "Harvard University, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries of the physical mechanism of stimulation within the cochlea",
+    "url": "https://www.nobelprize.org/laureate/371"
+   }
+  ]
+ },
+ "1962": {
+  "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
+  "laureates": [
+   {
+    "name": "Francis Crick",
+    "born": "1916",
+    "died": "2004",
+    "birth": "Birleşik Krallık",
+    "aff": "MRC Laboratory of Molecular Biology, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
+    "url": "https://www.nobelprize.org/laureate/372"
+   },
+   {
+    "name": "James Watson",
+    "born": "1928",
+    "died": "2025",
+    "birth": "ABD",
+    "aff": "Harvard University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
+    "url": "https://www.nobelprize.org/laureate/373"
+   },
+   {
+    "name": "Maurice Wilkins",
+    "born": "1916",
+    "died": "2004",
+    "birth": "Yeni Zelanda",
+    "aff": "London University, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
+    "url": "https://www.nobelprize.org/laureate/374"
+   }
+  ]
+ },
+ "1963": {
+  "motivation": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
+  "laureates": [
+   {
+    "name": "Sir John Eccles",
+    "born": "1903",
+    "died": "1997",
+    "birth": "Avustralya",
+    "aff": "Australian National University, Avustralya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
+    "url": "https://www.nobelprize.org/laureate/375"
+   },
+   {
+    "name": "Alan Hodgkin",
+    "born": "1914",
+    "died": "1998",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Cambridge, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
+    "url": "https://www.nobelprize.org/laureate/376"
+   },
+   {
+    "name": "Andrew Huxley",
+    "born": "1917",
+    "died": "2012",
+    "birth": "Birleşik Krallık",
+    "aff": "University College, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
+    "url": "https://www.nobelprize.org/laureate/377"
+   }
+  ]
+ },
+ "1964": {
+  "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism",
+  "laureates": [
+   {
+    "name": "Konrad Bloch",
+    "born": "1912",
+    "died": "2000",
+    "birth": "Almanya (bugün Polonya)",
+    "aff": "Harvard University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism",
+    "url": "https://www.nobelprize.org/laureate/378"
+   },
+   {
+    "name": "Feodor Lynen",
+    "born": "1911",
+    "died": "1979",
+    "birth": "Almanya",
+    "aff": "Max-Planck-Institut für Zellchemie, Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism",
+    "url": "https://www.nobelprize.org/laureate/379"
+   }
+  ]
+ },
+ "1965": {
+  "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
+  "laureates": [
+   {
+    "name": "François Jacob",
+    "born": "1920",
+    "died": "2013",
+    "birth": "Fransa",
+    "aff": "Institut Pasteur, Fransa",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
+    "url": "https://www.nobelprize.org/laureate/380"
+   },
+   {
+    "name": "André Lwoff",
+    "born": "1902",
+    "died": "1994",
+    "birth": "Fransa",
+    "aff": "Institut Pasteur, Fransa",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
+    "url": "https://www.nobelprize.org/laureate/381"
+   },
+   {
+    "name": "Jacques Monod",
+    "born": "1910",
+    "died": "1976",
+    "birth": "Fransa",
+    "aff": "Institut Pasteur, Fransa",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
+    "url": "https://www.nobelprize.org/laureate/382"
+   }
+  ]
+ },
+ "1966": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Peyton Rous",
+    "born": "1879",
+    "died": "1970",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of tumour-inducing viruses",
+    "url": "https://www.nobelprize.org/laureate/383"
+   },
+   {
+    "name": "Charles B. Huggins",
+    "born": "1901",
+    "died": "1997",
+    "birth": "Kanada",
+    "aff": "University of Chicago, Ben May Laboratory for Cancer Research, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discoveries concerning hormonal treatment of prostatic cancer",
+    "url": "https://www.nobelprize.org/laureate/384"
+   }
+  ]
+ },
+ "1967": {
+  "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
+  "laureates": [
+   {
+    "name": "Ragnar Granit",
+    "born": "1900",
+    "died": "1991",
+    "birth": "Rus İmparatorluğu (bugün Finlandiya)",
+    "aff": "Karolinska Institutet, İsveç",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
+    "url": "https://www.nobelprize.org/laureate/385"
+   },
+   {
+    "name": "Keffer Hartline",
+    "born": "1903",
+    "died": "1983",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
+    "url": "https://www.nobelprize.org/laureate/386"
+   },
+   {
+    "name": "George Wald",
+    "born": "1906",
+    "died": "1997",
+    "birth": "ABD",
+    "aff": "Harvard University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
+    "url": "https://www.nobelprize.org/laureate/387"
+   }
+  ]
+ },
+ "1968": {
+  "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
+  "laureates": [
+   {
+    "name": "Robert W. Holley",
+    "born": "1922",
+    "died": "1993",
+    "birth": "ABD",
+    "aff": "Cornell University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
+    "url": "https://www.nobelprize.org/laureate/388"
+   },
+   {
+    "name": "H. Gobind Khorana",
+    "born": "1922",
+    "died": "2011",
+    "birth": "Hindistan",
+    "aff": "University of Wisconsin, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
+    "url": "https://www.nobelprize.org/laureate/389"
+   },
+   {
+    "name": "Marshall W. Nirenberg",
+    "born": "1927",
+    "died": "2010",
+    "birth": "ABD",
+    "aff": "National Institutes of Health, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
+    "url": "https://www.nobelprize.org/laureate/390"
+   }
+  ]
+ },
+ "1969": {
+  "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
+  "laureates": [
+   {
+    "name": "Max Delbrück",
+    "born": "1906",
+    "died": "1981",
+    "birth": "Almanya",
+    "aff": "California Institute of Technology (Caltech), ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
+    "url": "https://www.nobelprize.org/laureate/391"
+   },
+   {
+    "name": "Alfred D. Hershey",
+    "born": "1908",
+    "died": "1997",
+    "birth": "ABD",
+    "aff": "Carnegie Institution of Washington, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
+    "url": "https://www.nobelprize.org/laureate/392"
+   },
+   {
+    "name": "Salvador E. Luria",
+    "born": "1912",
+    "died": "1991",
+    "birth": "İtalya",
+    "aff": "Massachusetts Institute of Technology (MIT), ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
+    "url": "https://www.nobelprize.org/laureate/393"
+   }
+  ]
+ },
+ "1970": {
+  "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
+  "laureates": [
+   {
+    "name": "Sir Bernard Katz",
+    "born": "1911",
+    "died": "2003",
+    "birth": "Almanya",
+    "aff": "University College, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
+    "url": "https://www.nobelprize.org/laureate/394"
+   },
+   {
+    "name": "Ulf von Euler",
+    "born": "1905",
+    "died": "1983",
+    "birth": "İsveç",
+    "aff": "Karolinska Institutet, İsveç",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
+    "url": "https://www.nobelprize.org/laureate/395"
+   },
+   {
+    "name": "Julius Axelrod",
+    "born": "1912",
+    "died": "2004",
+    "birth": "ABD",
+    "aff": "National Institutes of Health, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
+    "url": "https://www.nobelprize.org/laureate/396"
+   }
+  ]
+ },
+ "1971": {
+  "motivation": "for his discoveries concerning the mechanisms of the action of hormones",
+  "laureates": [
+   {
+    "name": "Earl W. Sutherland, Jr.",
+    "born": "1915",
+    "died": "1974",
+    "birth": "ABD",
+    "aff": "Vanderbilt University, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries concerning the mechanisms of the action of hormones",
+    "url": "https://www.nobelprize.org/laureate/397"
+   }
+  ]
+ },
+ "1972": {
+  "motivation": "for their discoveries concerning the chemical structure of antibodies",
+  "laureates": [
+   {
+    "name": "Gerald M. Edelman",
+    "born": "1929",
+    "died": "2014",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the chemical structure of antibodies",
+    "url": "https://www.nobelprize.org/laureate/398"
+   },
+   {
+    "name": "Rodney R. Porter",
+    "born": "1917",
+    "died": "1985",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Oxford, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the chemical structure of antibodies",
+    "url": "https://www.nobelprize.org/laureate/399"
+   }
+  ]
+ },
+ "1973": {
+  "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+  "laureates": [
+   {
+    "name": "Karl von Frisch",
+    "born": "1886",
+    "died": "1982",
+    "birth": "Avusturya",
+    "aff": "Zoologisches Institut der Universität München, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+    "url": "https://www.nobelprize.org/laureate/400"
+   },
+   {
+    "name": "Konrad Lorenz",
+    "born": "1903",
+    "died": "1989",
+    "birth": "Avusturya",
+    "aff": "Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie, Avusturya · Max-Planck-Institut für Verhaltensphysiologie, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+    "url": "https://www.nobelprize.org/laureate/401"
+   },
+   {
+    "name": "Nikolaas Tinbergen",
+    "born": "1907",
+    "died": "1988",
+    "birth": "Hollanda",
+    "aff": "University of Oxford, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+    "url": "https://www.nobelprize.org/laureate/402"
+   }
+  ]
+ },
+ "1974": {
+  "motivation": "for their discoveries concerning the structural and functional organization of the cell",
+  "laureates": [
+   {
+    "name": "Albert Claude",
+    "born": "1898",
+    "died": "1983",
+    "birth": "Belçika",
+    "aff": "Université Catholique de Louvain, Belçika",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the structural and functional organization of the cell",
+    "url": "https://www.nobelprize.org/laureate/403"
+   },
+   {
+    "name": "Christian de Duve",
+    "born": "1917",
+    "died": "2013",
+    "birth": "Birleşik Krallık",
+    "aff": "Rockefeller University, ABD · Université Catholique de Louvain, Belçika",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the structural and functional organization of the cell",
+    "url": "https://www.nobelprize.org/laureate/404"
+   },
+   {
+    "name": "George E. Palade",
+    "born": "1912",
+    "died": "2008",
+    "birth": "Romanya",
+    "aff": "Yale University, School of Medicine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the structural and functional organization of the cell",
+    "url": "https://www.nobelprize.org/laureate/405"
+   }
+  ]
+ },
+ "1975": {
+  "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
+  "laureates": [
+   {
+    "name": "David Baltimore",
+    "born": "1938",
+    "died": "2025",
+    "birth": "ABD",
+    "aff": "Massachusetts Institute of Technology (MIT), ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
+    "url": "https://www.nobelprize.org/laureate/406"
+   },
+   {
+    "name": "Renato Dulbecco",
+    "born": "1914",
+    "died": "2012",
+    "birth": "İtalya",
+    "aff": "Imperial Cancer Research Fund Laboratory, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
+    "url": "https://www.nobelprize.org/laureate/407"
+   },
+   {
+    "name": "Howard M. Temin",
+    "born": "1934",
+    "died": "1994",
+    "birth": "ABD",
+    "aff": "University of Wisconsin, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
+    "url": "https://www.nobelprize.org/laureate/408"
+   }
+  ]
+ },
+ "1976": {
+  "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
+  "laureates": [
+   {
+    "name": "Baruch S. Blumberg",
+    "born": "1925",
+    "died": "2011",
+    "birth": "ABD",
+    "aff": "The Institute for Cancer Research, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
+    "url": "https://www.nobelprize.org/laureate/409"
+   },
+   {
+    "name": "D. Carleton Gajdusek",
+    "born": "1923",
+    "died": "2008",
+    "birth": "ABD",
+    "aff": "National Institutes of Health, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
+    "url": "https://www.nobelprize.org/laureate/410"
+   }
+  ]
+ },
+ "1977": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Roger Guillemin",
+    "born": "1924",
+    "died": "2024",
+    "birth": "Fransa",
+    "aff": "The Salk Institute, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning the peptide hormone production of the brain",
+    "url": "https://www.nobelprize.org/laureate/411"
+   },
+   {
+    "name": "Andrew V. Schally",
+    "born": "1926",
+    "died": "2024",
+    "birth": "Polonya (bugün Litvanya)",
+    "aff": "Veterans Administration Hospital, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning the peptide hormone production of the brain",
+    "url": "https://www.nobelprize.org/laureate/412"
+   },
+   {
+    "name": "Rosalyn Yalow",
+    "born": "1921",
+    "died": "2011",
+    "birth": "ABD",
+    "aff": "Veterans Administration Hospital, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the development of radioimmunoassays of peptide hormones",
+    "url": "https://www.nobelprize.org/laureate/413"
+   }
+  ]
+ },
+ "1978": {
+  "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
+  "laureates": [
+   {
+    "name": "Werner Arber",
+    "born": "1929",
+    "died": "",
+    "birth": "İsviçre",
+    "aff": "Biozentrum der Universität, İsviçre",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
+    "url": "https://www.nobelprize.org/laureate/414"
+   },
+   {
+    "name": "Daniel Nathans",
+    "born": "1928",
+    "died": "1999",
+    "birth": "ABD",
+    "aff": "Johns Hopkins University School of Medicine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
+    "url": "https://www.nobelprize.org/laureate/415"
+   },
+   {
+    "name": "Hamilton O. Smith",
+    "born": "1931",
+    "died": "2025",
+    "birth": "ABD",
+    "aff": "Johns Hopkins University School of Medicine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
+    "url": "https://www.nobelprize.org/laureate/416"
+   }
+  ]
+ },
+ "1979": {
+  "motivation": "for the development of computer assisted tomography",
+  "laureates": [
+   {
+    "name": "Allan M. Cormack",
+    "born": "1924",
+    "died": "1998",
+    "birth": "Güney Afrika",
+    "aff": "Tufts University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the development of computer assisted tomography",
+    "url": "https://www.nobelprize.org/laureate/417"
+   },
+   {
+    "name": "Godfrey N. Hounsfield",
+    "born": "1919",
+    "died": "2004",
+    "birth": "Birleşik Krallık",
+    "aff": "Central Research Laboratories, EMI, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the development of computer assisted tomography",
+    "url": "https://www.nobelprize.org/laureate/418"
+   }
+  ]
+ },
+ "1980": {
+  "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
+  "laureates": [
+   {
+    "name": "Baruj Benacerraf",
+    "born": "1920",
+    "died": "2011",
+    "birth": "Venezuela",
+    "aff": "Harvard Medical School, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
+    "url": "https://www.nobelprize.org/laureate/419"
+   },
+   {
+    "name": "Jean Dausset",
+    "born": "1916",
+    "died": "2009",
+    "birth": "Fransa",
+    "aff": "Université de Paris, Laboratoire Immuno-Hématologie, Fransa",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
+    "url": "https://www.nobelprize.org/laureate/420"
+   },
+   {
+    "name": "George D. Snell",
+    "born": "1903",
+    "died": "1996",
+    "birth": "ABD",
+    "aff": "Jackson Laboratory, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
+    "url": "https://www.nobelprize.org/laureate/421"
+   }
+  ]
+ },
+ "1981": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Roger W. Sperry",
+    "born": "1913",
+    "died": "1994",
+    "birth": "ABD",
+    "aff": "California Institute of Technology (Caltech), ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discoveries concerning the functional specialization of the cerebral hemispheres",
+    "url": "https://www.nobelprize.org/laureate/422"
+   },
+   {
+    "name": "David H. Hubel",
+    "born": "1926",
+    "died": "2013",
+    "birth": "Kanada",
+    "aff": "Harvard Medical School, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning information processing in the visual system",
+    "url": "https://www.nobelprize.org/laureate/423"
+   },
+   {
+    "name": "Torsten N. Wiesel",
+    "born": "1924",
+    "died": "",
+    "birth": "İsveç",
+    "aff": "Harvard Medical School, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning information processing in the visual system",
+    "url": "https://www.nobelprize.org/laureate/424"
+   }
+  ]
+ },
+ "1982": {
+  "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
+  "laureates": [
+   {
+    "name": "Sune K. Bergström",
+    "born": "1916",
+    "died": "2004",
+    "birth": "İsveç",
+    "aff": "Karolinska Institutet, İsveç",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
+    "url": "https://www.nobelprize.org/laureate/425"
+   },
+   {
+    "name": "Bengt I. Samuelsson",
+    "born": "1934",
+    "died": "2024",
+    "birth": "İsveç",
+    "aff": "Karolinska Institutet, İsveç",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
+    "url": "https://www.nobelprize.org/laureate/426"
+   },
+   {
+    "name": "John R. Vane",
+    "born": "1927",
+    "died": "2004",
+    "birth": "Birleşik Krallık",
+    "aff": "The Wellcome Research Laboratories, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
+    "url": "https://www.nobelprize.org/laureate/427"
+   }
+  ]
+ },
+ "1983": {
+  "motivation": "for her discovery of mobile genetic elements",
+  "laureates": [
+   {
+    "name": "Barbara McClintock",
+    "born": "1902",
+    "died": "1992",
+    "birth": "ABD",
+    "aff": "Cold Spring Harbor Laboratory, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for her discovery of mobile genetic elements",
+    "url": "https://www.nobelprize.org/laureate/428"
+   }
+  ]
+ },
+ "1984": {
+  "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
+  "laureates": [
+   {
+    "name": "Niels K. Jerne",
+    "born": "1911",
+    "died": "1994",
+    "birth": "Birleşik Krallık",
+    "aff": "Basel Institute for Immunology, İsviçre",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
+    "url": "https://www.nobelprize.org/laureate/429"
+   },
+   {
+    "name": "Georges J.F. Köhler",
+    "born": "1946",
+    "died": "1995",
+    "birth": "Almanya",
+    "aff": "Basel Institute for Immunology, İsviçre",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
+    "url": "https://www.nobelprize.org/laureate/430"
+   },
+   {
+    "name": "César Milstein",
+    "born": "1927",
+    "died": "2002",
+    "birth": "Arjantin",
+    "aff": "MRC Laboratory of Molecular Biology, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
+    "url": "https://www.nobelprize.org/laureate/431"
+   }
+  ]
+ },
+ "1985": {
+  "motivation": "for their discoveries concerning the regulation of cholesterol metabolism",
+  "laureates": [
+   {
+    "name": "Michael S. Brown",
+    "born": "1941",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of Texas Southwestern Medical Center at Dallas, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the regulation of cholesterol metabolism",
+    "url": "https://www.nobelprize.org/laureate/432"
+   },
+   {
+    "name": "Joseph L. Goldstein",
+    "born": "1940",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of Texas Southwestern Medical Center at Dallas, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the regulation of cholesterol metabolism",
+    "url": "https://www.nobelprize.org/laureate/433"
+   }
+  ]
+ },
+ "1986": {
+  "motivation": "for their discoveries of growth factors",
+  "laureates": [
+   {
+    "name": "Stanley Cohen",
+    "born": "1922",
+    "died": "2020",
+    "birth": "ABD",
+    "aff": "Vanderbilt University School of Medicine, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of growth factors",
+    "url": "https://www.nobelprize.org/laureate/434"
+   },
+   {
+    "name": "Rita Levi-Montalcini",
+    "born": "1909",
+    "died": "2012",
+    "birth": "İtalya",
+    "aff": "Institute of Cell Biology of the C.N.R., İtalya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of growth factors",
+    "url": "https://www.nobelprize.org/laureate/435"
+   }
+  ]
+ },
+ "1987": {
+  "motivation": "for his discovery of the genetic principle for generation of antibody diversity",
+  "laureates": [
+   {
+    "name": "Susumu Tonegawa",
+    "born": "1939",
+    "died": "2026",
+    "birth": "Japonya",
+    "aff": "Massachusetts Institute of Technology (MIT), ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discovery of the genetic principle for generation of antibody diversity",
+    "url": "https://www.nobelprize.org/laureate/436"
+   }
+  ]
+ },
+ "1988": {
+  "motivation": "for their discoveries of important principles for drug treatment",
+  "laureates": [
+   {
+    "name": "Sir James W. Black",
+    "born": "1924",
+    "died": "2010",
+    "birth": "İskoçya",
+    "aff": "London University, King's College Hospital Medical School, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of important principles for drug treatment",
+    "url": "https://www.nobelprize.org/laureate/437"
+   },
+   {
+    "name": "Gertrude B. Elion",
+    "born": "1918",
+    "died": "1999",
+    "birth": "ABD",
+    "aff": "Wellcome Research Laboratories, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of important principles for drug treatment",
+    "url": "https://www.nobelprize.org/laureate/438"
+   },
+   {
+    "name": "George H. Hitchings",
+    "born": "1905",
+    "died": "1998",
+    "birth": "ABD",
+    "aff": "Wellcome Research Laboratories, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of important principles for drug treatment",
+    "url": "https://www.nobelprize.org/laureate/439"
+   }
+  ]
+ },
+ "1989": {
+  "motivation": "for their discovery of the cellular origin of retroviral oncogenes",
+  "laureates": [
+   {
+    "name": "J. Michael Bishop",
+    "born": "1936",
+    "died": "2026",
+    "birth": "ABD",
+    "aff": "University of California School of Medicine, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the cellular origin of retroviral oncogenes",
+    "url": "https://www.nobelprize.org/laureate/440"
+   },
+   {
+    "name": "Harold E. Varmus",
+    "born": "1939",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of California School of Medicine, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the cellular origin of retroviral oncogenes",
+    "url": "https://www.nobelprize.org/laureate/441"
+   }
+  ]
+ },
+ "1990": {
+  "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease",
+  "laureates": [
+   {
+    "name": "Joseph E. Murray",
+    "born": "1919",
+    "died": "2012",
+    "birth": "ABD",
+    "aff": "Brigham and Women's Hospital, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease",
+    "url": "https://www.nobelprize.org/laureate/442"
+   },
+   {
+    "name": "E. Donnall Thomas",
+    "born": "1920",
+    "died": "2012",
+    "birth": "ABD",
+    "aff": "Fred Hutchinson Cancer Research Center, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease",
+    "url": "https://www.nobelprize.org/laureate/443"
+   }
+  ]
+ },
+ "1991": {
+  "motivation": "for their discoveries concerning the function of single ion channels in cells",
+  "laureates": [
+   {
+    "name": "Erwin Neher",
+    "born": "1944",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "Max-Planck-Institut für Biophysikalische Chemie, Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the function of single ion channels in cells",
+    "url": "https://www.nobelprize.org/laureate/444"
+   },
+   {
+    "name": "Bert Sakmann",
+    "born": "1942",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "Max-Planck-Institut für medizinische Forschung, Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the function of single ion channels in cells",
+    "url": "https://www.nobelprize.org/laureate/445"
+   }
+  ]
+ },
+ "1992": {
+  "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism",
+  "laureates": [
+   {
+    "name": "Edmond H. Fischer",
+    "born": "1920",
+    "died": "2021",
+    "birth": "Çin",
+    "aff": "University of Washington, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism",
+    "url": "https://www.nobelprize.org/laureate/446"
+   },
+   {
+    "name": "Edwin G. Krebs",
+    "born": "1918",
+    "died": "2009",
+    "birth": "ABD",
+    "aff": "University of Washington, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism",
+    "url": "https://www.nobelprize.org/laureate/447"
+   }
+  ]
+ },
+ "1993": {
+  "motivation": "for their discoveries of split genes",
+  "laureates": [
+   {
+    "name": "Richard J. Roberts",
+    "born": "1943",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "New England Biolabs, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of split genes",
+    "url": "https://www.nobelprize.org/laureate/448"
+   },
+   {
+    "name": "Phillip A. Sharp",
+    "born": "1944",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Massachusetts Institute of Technology (MIT), Center for Cancer Research, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of split genes",
+    "url": "https://www.nobelprize.org/laureate/449"
+   }
+  ]
+ },
+ "1994": {
+  "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells",
+  "laureates": [
+   {
+    "name": "Alfred G. Gilman",
+    "born": "1941",
+    "died": "2015",
+    "birth": "ABD",
+    "aff": "University of Texas Southwestern Medical Center at Dallas, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells",
+    "url": "https://www.nobelprize.org/laureate/450"
+   },
+   {
+    "name": "Martin Rodbell",
+    "born": "1925",
+    "died": "1998",
+    "birth": "ABD",
+    "aff": "National Institute of Environmental Health Sciences, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells",
+    "url": "https://www.nobelprize.org/laureate/451"
+   }
+  ]
+ },
+ "1995": {
+  "motivation": "for their discoveries concerning the genetic control of early embryonic development",
+  "laureates": [
+   {
+    "name": "Edward B. Lewis",
+    "born": "1918",
+    "died": "2004",
+    "birth": "ABD",
+    "aff": "California Institute of Technology (Caltech), ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
+    "url": "https://www.nobelprize.org/laureate/452"
+   },
+   {
+    "name": "Christiane Nüsslein-Volhard",
+    "born": "1942",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "Max-Planck-Institut für Entwicklungsbiologie, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
+    "url": "https://www.nobelprize.org/laureate/453"
+   },
+   {
+    "name": "Eric F. Wieschaus",
+    "born": "1947",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Princeton University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
+    "url": "https://www.nobelprize.org/laureate/454"
+   }
+  ]
+ },
+ "1996": {
+  "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence",
+  "laureates": [
+   {
+    "name": "Peter C. Doherty",
+    "born": "1940",
+    "died": "",
+    "birth": "Avustralya",
+    "aff": "St. Jude Children's Research Hospital, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence",
+    "url": "https://www.nobelprize.org/laureate/455"
+   },
+   {
+    "name": "Rolf M. Zinkernagel",
+    "born": "1944",
+    "died": "",
+    "birth": "İsviçre",
+    "aff": "University of Zurich, Institute of Experimental Immunology, İsviçre",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence",
+    "url": "https://www.nobelprize.org/laureate/456"
+   }
+  ]
+ },
+ "1997": {
+  "motivation": "for his discovery of Prions - a new biological principle of infection",
+  "laureates": [
+   {
+    "name": "Stanley B. Prusiner",
+    "born": "1942",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of California School of Medicine, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discovery of Prions - a new biological principle of infection",
+    "url": "https://www.nobelprize.org/laureate/457"
+   }
+  ]
+ },
+ "1998": {
+  "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
+  "laureates": [
+   {
+    "name": "Robert F. Furchgott",
+    "born": "1916",
+    "died": "2009",
+    "birth": "ABD",
+    "aff": "SUNY Health Science Center, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
+    "url": "https://www.nobelprize.org/laureate/458"
+   },
+   {
+    "name": "Louis J. Ignarro",
+    "born": "1941",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of California School of Medicine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
+    "url": "https://www.nobelprize.org/laureate/459"
+   },
+   {
+    "name": "Ferid Murad",
+    "born": "1936",
+    "died": "2023",
+    "birth": "ABD",
+    "aff": "University of Texas Medical School at Houston, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
+    "url": "https://www.nobelprize.org/laureate/460"
+   }
+  ]
+ },
+ "1999": {
+  "motivation": "for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell",
+  "laureates": [
+   {
+    "name": "Günter Blobel",
+    "born": "1936",
+    "died": "2018",
+    "birth": "Almanya (bugün Polonya)",
+    "aff": "Rockefeller University, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün tamamı",
+    "motivation": "for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell",
+    "url": "https://www.nobelprize.org/laureate/461"
+   }
+  ]
+ },
+ "2000": {
+  "motivation": "for their discoveries concerning signal transduction in the nervous system",
+  "laureates": [
+   {
+    "name": "Arvid Carlsson",
+    "born": "1923",
+    "died": "2018",
+    "birth": "İsveç",
+    "aff": "Göteborg University, İsveç",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning signal transduction in the nervous system",
+    "url": "https://www.nobelprize.org/laureate/722"
+   },
+   {
+    "name": "Paul Greengard",
+    "born": "1925",
+    "died": "2019",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning signal transduction in the nervous system",
+    "url": "https://www.nobelprize.org/laureate/723"
+   },
+   {
+    "name": "Eric Kandel",
+    "born": "1929",
+    "died": "",
+    "birth": "Avusturya",
+    "aff": "Columbia University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning signal transduction in the nervous system",
+    "url": "https://www.nobelprize.org/laureate/724"
+   }
+  ]
+ },
+ "2001": {
+  "motivation": "for their discoveries of key regulators of the cell cycle",
+  "laureates": [
+   {
+    "name": "Leland Hartwell",
+    "born": "1939",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Fred Hutchinson Cancer Research Center, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of key regulators of the cell cycle",
+    "url": "https://www.nobelprize.org/laureate/735"
+   },
+   {
+    "name": "Tim Hunt",
+    "born": "1943",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "Imperial Cancer Research Fund, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of key regulators of the cell cycle",
+    "url": "https://www.nobelprize.org/laureate/736"
+   },
+   {
+    "name": "Sir Paul Nurse",
+    "born": "1949",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "Imperial Cancer Research Fund, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of key regulators of the cell cycle",
+    "url": "https://www.nobelprize.org/laureate/737"
+   }
+  ]
+ },
+ "2002": {
+  "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death",
+  "laureates": [
+   {
+    "name": "Sydney Brenner",
+    "born": "1927",
+    "died": "2019",
+    "birth": "Güney Afrika",
+    "aff": "The Molecular Sciences Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death",
+    "url": "https://www.nobelprize.org/laureate/750"
+   },
+   {
+    "name": "H. Robert Horvitz",
+    "born": "1947",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Massachusetts Institute of Technology (MIT), ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death",
+    "url": "https://www.nobelprize.org/laureate/751"
+   },
+   {
+    "name": "John E. Sulston",
+    "born": "1942",
+    "died": "2018",
+    "birth": "Birleşik Krallık",
+    "aff": "The Wellcome Trust Sanger Institute, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death",
+    "url": "https://www.nobelprize.org/laureate/752"
+   }
+  ]
+ },
+ "2003": {
+  "motivation": "for their discoveries concerning magnetic resonance imaging",
+  "laureates": [
+   {
+    "name": "Paul C. Lauterbur",
+    "born": "1929",
+    "died": "2007",
+    "birth": "ABD",
+    "aff": "University of Illinois, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning magnetic resonance imaging",
+    "url": "https://www.nobelprize.org/laureate/764"
+   },
+   {
+    "name": "Sir Peter Mansfield",
+    "born": "1933",
+    "died": "2017",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Nottingham, School of Physics and Astronomy, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries concerning magnetic resonance imaging",
+    "url": "https://www.nobelprize.org/laureate/765"
+   }
+  ]
+ },
+ "2004": {
+  "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
+  "laureates": [
+   {
+    "name": "Richard Axel",
+    "born": "1946",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Columbia University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
+    "url": "https://www.nobelprize.org/laureate/774"
+   },
+   {
+    "name": "Linda B. Buck",
+    "born": "1947",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Fred Hutchinson Cancer Research Center, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
+    "url": "https://www.nobelprize.org/laureate/775"
+   }
+  ]
+ },
+ "2005": {
+  "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+  "laureates": [
+   {
+    "name": "Barry J. Marshall",
+    "born": "1951",
+    "died": "",
+    "birth": "Avustralya",
+    "aff": "NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre, Avustralya · University of Western Australia, Avustralya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+    "url": "https://www.nobelprize.org/laureate/789"
+   },
+   {
+    "name": "J. Robin Warren",
+    "born": "1937",
+    "died": "2024",
+    "birth": "Avustralya",
+    "aff": "",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+    "url": "https://www.nobelprize.org/laureate/790"
+   }
+  ]
+ },
+ "2006": {
+  "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
+  "laureates": [
+   {
+    "name": "Andrew Z. Fire",
+    "born": "1959",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Stanford University School of Medicine, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
+    "url": "https://www.nobelprize.org/laureate/802"
+   },
+   {
+    "name": "Craig C. Mello",
+    "born": "1960",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of Massachusetts Medical School, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
+    "url": "https://www.nobelprize.org/laureate/803"
+   }
+  ]
+ },
+ "2007": {
+  "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+  "laureates": [
+   {
+    "name": "Mario R. Capecchi",
+    "born": "1937",
+    "died": "",
+    "birth": "İtalya",
+    "aff": "University of Utah, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+    "url": "https://www.nobelprize.org/laureate/811"
+   },
+   {
+    "name": "Sir Martin J. Evans",
+    "born": "1941",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "Cardiff University, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+    "url": "https://www.nobelprize.org/laureate/812"
+   },
+   {
+    "name": "Oliver Smithies",
+    "born": "1925",
+    "died": "2017",
+    "birth": "Birleşik Krallık",
+    "aff": "University of North Carolina, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+    "url": "https://www.nobelprize.org/laureate/813"
+   }
+  ]
+ },
+ "2008": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Harald zur Hausen",
+    "born": "1936",
+    "died": "2023",
+    "birth": "Almanya",
+    "aff": "German Cancer Research Center, Almanya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of human papilloma viruses causing cervical cancer",
+    "url": "https://www.nobelprize.org/laureate/823"
+   },
+   {
+    "name": "Françoise Barré-Sinoussi",
+    "born": "1947",
+    "died": "",
+    "birth": "Fransa",
+    "aff": "Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur, Fransa",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery of human immunodeficiency virus",
+    "url": "https://www.nobelprize.org/laureate/824"
+   },
+   {
+    "name": "Luc Montagnier",
+    "born": "1932",
+    "died": "2022",
+    "birth": "Fransa",
+    "aff": "World Foundation for AIDS Research and Prevention, Fransa",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discovery of human immunodeficiency virus",
+    "url": "https://www.nobelprize.org/laureate/825"
+   }
+  ]
+ },
+ "2009": {
+  "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+  "laureates": [
+   {
+    "name": "Elizabeth H. Blackburn",
+    "born": "1948",
+    "died": "",
+    "birth": "Avustralya",
+    "aff": "University of California, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+    "url": "https://www.nobelprize.org/laureate/835"
+   },
+   {
+    "name": "Carol W. Greider",
+    "born": "1961",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Johns Hopkins University School of Medicine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+    "url": "https://www.nobelprize.org/laureate/836"
+   },
+   {
+    "name": "Jack W. Szostak",
+    "born": "1952",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "Harvard Medical School, ABD · Massachusetts General Hospital, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+    "url": "https://www.nobelprize.org/laureate/837"
+   }
+  ]
+ },
+ "2010": {
+  "motivation": "for the development of in vitro fertilization",
+  "laureates": [
+   {
+    "name": "Robert G. Edwards",
+    "born": "1925",
+    "died": "2013",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Cambridge, Birleşik Krallık",
+    "portion": "Ödülün tamamı",
+    "motivation": "for the development of in vitro fertilization",
+    "url": "https://www.nobelprize.org/laureate/848"
+   }
+  ]
+ },
+ "2011": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "Bruce A. Beutler",
+    "born": "1957",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of Texas Southwestern Medical Center at Dallas, ABD · The Scripps Research Institute, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning the activation of innate immunity",
+    "url": "https://www.nobelprize.org/laureate/861"
+   },
+   {
+    "name": "Jules A. Hoffmann",
+    "born": "1941",
+    "died": "",
+    "birth": "Lüksemburg",
+    "aff": "University of Strasbourg, Fransa",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning the activation of innate immunity",
+    "url": "https://www.nobelprize.org/laureate/862"
+   },
+   {
+    "name": "Ralph M. Steinman",
+    "born": "1943",
+    "died": "2011",
+    "birth": "Kanada",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity",
+    "url": "https://www.nobelprize.org/laureate/863"
+   }
+  ]
+ },
+ "2012": {
+  "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
+  "laureates": [
+   {
+    "name": "Sir John B. Gurdon",
+    "born": "1933",
+    "died": "2025",
+    "birth": "Birleşik Krallık",
+    "aff": "Gurdon Institute, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
+    "url": "https://www.nobelprize.org/laureate/874"
+   },
+   {
+    "name": "Shinya Yamanaka",
+    "born": "1962",
+    "died": "",
+    "birth": "Japonya",
+    "aff": "Kyoto University, Japonya · Gladstone Institutes, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
+    "url": "https://www.nobelprize.org/laureate/875"
+   }
+  ]
+ },
+ "2013": {
+  "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+  "laureates": [
+   {
+    "name": "James E. Rothman",
+    "born": "1950",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Yale University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+    "url": "https://www.nobelprize.org/laureate/884"
+   },
+   {
+    "name": "Randy W. Schekman",
+    "born": "1948",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of California, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+    "url": "https://www.nobelprize.org/laureate/885"
+   },
+   {
+    "name": "Thomas C. Südhof",
+    "born": "1955",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "Stanford University, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+    "url": "https://www.nobelprize.org/laureate/886"
+   }
+  ]
+ },
+ "2014": {
+  "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+  "laureates": [
+   {
+    "name": "John O'Keefe",
+    "born": "1939",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University College, Birleşik Krallık",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+    "url": "https://www.nobelprize.org/laureate/903"
+   },
+   {
+    "name": "May-Britt Moser",
+    "born": "1963",
+    "died": "",
+    "birth": "Norveç",
+    "aff": "Norwegian University of Science and Technology (NTNU), Norveç",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+    "url": "https://www.nobelprize.org/laureate/904"
+   },
+   {
+    "name": "Edvard I. Moser",
+    "born": "1962",
+    "died": "",
+    "birth": "Norveç",
+    "aff": "Norwegian University of Science and Technology (NTNU), Norveç",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+    "url": "https://www.nobelprize.org/laureate/905"
+   }
+  ]
+ },
+ "2015": {
+  "motivation": "",
+  "laureates": [
+   {
+    "name": "William C. Campbell",
+    "born": "1930",
+    "died": "",
+    "birth": "İrlanda",
+    "aff": "Drew University, ABD",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+    "url": "https://www.nobelprize.org/laureate/916"
+   },
+   {
+    "name": "Satoshi Ōmura",
+    "born": "1935",
+    "died": "",
+    "birth": "Japonya",
+    "aff": "Kitasato University, Japonya",
+    "portion": "Ödülün dörtte biri",
+    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+    "url": "https://www.nobelprize.org/laureate/917"
+   },
+   {
+    "name": "Tu Youyou",
+    "born": "1930",
+    "died": "",
+    "birth": "Çin",
+    "aff": "China Academy of Traditional Chinese Medicine, Çin",
+    "portion": "Ödülün yarısı",
+    "motivation": "for her discoveries concerning a novel therapy against Malaria",
+    "url": "https://www.nobelprize.org/laureate/918"
+   }
+  ]
+ },
+ "2016": {
+  "motivation": "for his discoveries of mechanisms for autophagy",
+  "laureates": [
+   {
+    "name": "Yoshinori Ohsumi",
+    "born": "1945",
+    "died": "",
+    "birth": "Japonya",
+    "aff": "Tokyo Institute of Technology, Japonya",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries of mechanisms for autophagy",
+    "url": "https://www.nobelprize.org/laureate/927"
+   }
+  ]
+ },
+ "2017": {
+  "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+  "laureates": [
+   {
+    "name": "Jeffrey C. Hall",
+    "born": "1945",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of Maine, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+    "url": "https://www.nobelprize.org/laureate/938"
+   },
+   {
+    "name": "Michael Rosbash",
+    "born": "1944",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Brandeis University, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+    "url": "https://www.nobelprize.org/laureate/939"
+   },
+   {
+    "name": "Michael W. Young",
+    "born": "1949",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+    "url": "https://www.nobelprize.org/laureate/940"
+   }
+  ]
+ },
+ "2018": {
+  "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+  "laureates": [
+   {
+    "name": "James P. Allison",
+    "born": "1948",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Parker Institute for Cancer Immunotherapy, ABD · University of Texas MD Anderson Cancer Center, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+    "url": "https://www.nobelprize.org/laureate/958"
+   },
+   {
+    "name": "Tasuku Honjo",
+    "born": "1942",
+    "died": "",
+    "birth": "Japonya",
+    "aff": "Kyoto University, Japonya",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+    "url": "https://www.nobelprize.org/laureate/959"
+   }
+  ]
+ },
+ "2019": {
+  "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+  "laureates": [
+   {
+    "name": "William G. Kaelin Jr",
+    "born": "1957",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Harvard Medical School, ABD · Howard Hughes Medical Institute, ABD · Dana-Farber Cancer Institute, ABD · Brigham and Women's Hospital, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+    "url": "https://www.nobelprize.org/laureate/970"
+   },
+   {
+    "name": "Sir Peter J. Ratcliffe",
+    "born": "1954",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Oxford, Birleşik Krallık · Francis Crick Institute, Birleşik Krallık",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+    "url": "https://www.nobelprize.org/laureate/971"
+   },
+   {
+    "name": "Gregg L. Semenza",
+    "born": "1956",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Johns Hopkins University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+    "url": "https://www.nobelprize.org/laureate/972"
+   }
+  ]
+ },
+ "2020": {
+  "motivation": "for the discovery of Hepatitis C virus",
+  "laureates": [
+   {
+    "name": "Harvey J. Alter",
+    "born": "1935",
+    "died": "",
+    "birth": "ABD",
+    "aff": "National Institutes of Health, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of Hepatitis C virus",
+    "url": "https://www.nobelprize.org/laureate/985"
+   },
+   {
+    "name": "Michael Houghton",
+    "born": "1949",
+    "died": "",
+    "birth": "Birleşik Krallık",
+    "aff": "University of Alberta, Kanada",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of Hepatitis C virus",
+    "url": "https://www.nobelprize.org/laureate/986"
+   },
+   {
+    "name": "Charles M. Rice",
+    "born": "1952",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Rockefeller University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for the discovery of Hepatitis C virus",
+    "url": "https://www.nobelprize.org/laureate/987"
+   }
+  ]
+ },
+ "2021": {
+  "motivation": "for their discoveries of receptors for temperature and touch",
+  "laureates": [
+   {
+    "name": "David Julius",
+    "born": "1955",
+    "died": "",
+    "birth": "ABD",
+    "aff": "University of California, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of receptors for temperature and touch",
+    "url": "https://www.nobelprize.org/laureate/997"
+   },
+   {
+    "name": "Ardem Patapoutian",
+    "born": "1967",
+    "died": "",
+    "birth": "Lübnan",
+    "aff": "Scripps Research, ABD · Howard Hughes Medical Institute, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for their discoveries of receptors for temperature and touch",
+    "url": "https://www.nobelprize.org/laureate/998"
+   }
+  ]
+ },
+ "2022": {
+  "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+  "laureates": [
+   {
+    "name": "Svante Pääbo",
+    "born": "1955",
+    "died": "",
+    "birth": "İsveç",
+    "aff": "Max Planck Institute for Evolutionary Anthropology, Almanya · Okinawa Institute of Science and Technology, Japonya · Leipzig University, Almanya",
+    "portion": "Ödülün tamamı",
+    "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+    "url": "https://www.nobelprize.org/laureate/1011"
+   }
+  ]
+ },
+ "2023": {
+  "motivation": "COVID-19'a karşı etkili mRNA aşılarının geliştirilmesini mümkün kılan nükleozit baz modifikasyonlarına ilişkin keşiflerinden dolayı",
+  "laureates": [
+   {
+    "name": "Katalin Karikó",
+    "born": "1955",
+    "died": "",
+    "birth": "Macaristan",
+    "aff": "Szeged University, Macaristan · University of Pennsylvania, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "COVID-19'a karşı etkili mRNA aşılarının geliştirilmesini mümkün kılan nükleozit baz modifikasyonlarına ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/1024"
+   },
+   {
+    "name": "Drew Weissman",
+    "born": "1959",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Penn Institute for RNA Innovations, University of Pennsylvania, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "COVID-19'a karşı etkili mRNA aşılarının geliştirilmesini mümkün kılan nükleozit baz modifikasyonlarına ilişkin keşiflerinden dolayı",
+    "url": "https://www.nobelprize.org/laureate/1025"
+   }
+  ]
+ },
+ "2024": {
+  "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+  "laureates": [
+   {
+    "name": "Victor Ambros",
+    "born": "1953",
+    "died": "",
+    "birth": "ABD",
+    "aff": "UMass Chan Medical School, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+    "url": "https://www.nobelprize.org/laureate/1035"
+   },
+   {
+    "name": "Gary Ruvkun",
+    "born": "1952",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Massachusetts General Hospital, ABD · Harvard Medical School, ABD",
+    "portion": "Ödülün yarısı",
+    "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+    "url": "https://www.nobelprize.org/laureate/1036"
+   }
+  ]
+ },
+ "2025": {
+  "motivation": "for their discoveries concerning peripheral immune tolerance",
+  "laureates": [
+   {
+    "name": "Mary E. Brunkow",
+    "born": "1961",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Institute for Systems Biology, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning peripheral immune tolerance",
+    "url": "https://www.nobelprize.org/laureate/1047"
+   },
+   {
+    "name": "Fred Ramsdell",
+    "born": "1960",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Sonoma Biotherapeutics, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning peripheral immune tolerance",
+    "url": "https://www.nobelprize.org/laureate/1048"
+   },
+   {
+    "name": "Shimon Sakaguchi",
+    "born": "1951",
+    "died": "",
+    "birth": "Japonya",
+    "aff": "The University of Osaka, Japonya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning peripheral immune tolerance",
+    "url": "https://www.nobelprize.org/laureate/1049"
+   }
+  ]
+ },
+ "2026": {
+  "motivation": "for their discoveries concerning light-gated ion channels and optogenetics",
+  "laureates": [
+   {
+    "name": "Karl Deisseroth",
+    "born": "1971",
+    "died": "",
+    "birth": "ABD",
+    "aff": "Howard Hughes Medical Institute, ABD · Stanford University, ABD",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning light-gated ion channels and optogenetics",
+    "url": "https://www.nobelprize.org/laureate/1061"
+   },
+   {
+    "name": "Peter Hegemann",
+    "born": "1954",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "Humboldt University of Berlin, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning light-gated ion channels and optogenetics",
+    "url": "https://www.nobelprize.org/laureate/1062"
+   },
+   {
+    "name": "Georg Nagel",
+    "born": "1953",
+    "died": "",
+    "birth": "Almanya",
+    "aff": "University of Würzburg, Almanya",
+    "portion": "Ödülün üçte biri",
+    "motivation": "for their discoveries concerning light-gated ion channels and optogenetics",
+    "url": "https://www.nobelprize.org/laureate/1063"
+   }
+  ]
+ }
+}

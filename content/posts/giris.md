@@ -1,7 +1,16 @@
 ---
+aliases: ["/posts/giris/"]
 title: "Giriş - Alfred Nobel"
-date: 2019-02-21
+date: 2019-02-22
 draft: false
+youtube: "YAzf_pMZBdU"
+episode: "Giris"
+audio: "https://anchor.fm/s/9647d9c/podcast/play/2460413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-22%2F10353030-44100-2-70a1e75871ffc.mp3"
+spotify: "https://podcasters.spotify.com/pod/show/nobelcast/episodes/Giri---Alfred-Nobel-e39j9t"
+duration: "01:16:17"
+poster: "/posters/Giris.jpg"
+bg: "EFEDDD"
+ink: "111111"
 ---
 
 **Referanslar**
