@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Bu bölümde Koç Üniversitesi'nde bizimle beraber doktora yapan arkadaşımız sevgili Fidan Şeker'i konuk ettik. Onunla lisansüstü hayatı ve genel olarak bu bilimsel süreci irdeledik. Neymiş ya bu doktora!

@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Bu intron bölümünde Nobel ödülleri hakkında ilginç istatistikler paylaşıyoruz. Hap şeklinde, suyla içilmesi gereken bilgiler.

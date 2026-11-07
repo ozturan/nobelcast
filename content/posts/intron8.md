@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Filmlerde ne kadar bilim var? Peki ya bilimlerde ne kadar film var? Filmlerin bilimsel yönlerini irdeledik.

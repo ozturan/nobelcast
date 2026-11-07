@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Bu bölümde de kaliteli boş yaptık. Konu konuyu açar diyenlere, muhabbet sevenlere, ortaya karışık!

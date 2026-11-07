@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Bu bölümde bilimin en eğlenceli, en absürt ama en yaratıcı tarafına, yani Ig Nobel Ödülleri'ne konuk oluyoruz. Her yıl Harvard Üniversitesi'nde düzenlenen bu tören, "önce güldüren, sonra düşündüren" çalışmalara veriliyor.

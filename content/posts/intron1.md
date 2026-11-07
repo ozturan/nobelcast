@@ -13,4 +13,4 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Biographical information not found.
+Uzun bir süre sonra herkese merhaba! Bu bölümde sessiz sedasız geçen bu ayların hesabını verdik, gelecek ödül bölümlerinin de sözünü verdik. Kayda geçsin :)
