@@ -16,7 +16,11 @@
     document.querySelectorAll(".pl").forEach(function(p){var me=!!S&&p.dataset.src===S.src,t=me?c[0]:saved(p.dataset.src),d=me?c[1]:dur(p);
       p.classList.toggle("on",me&&on);q(p,".pp").setAttribute("aria-label",me&&on?"Duraklat":"Oynat");
       q(p,".fill").style.width=(d?Math.min(100,t/d*100):0)+"%";q(p,".t").textContent=fmt(t);q(p,".sp").textContent=rate+"x"});
-    if(on&&Date.now()-saveT>4000){saveT=Date.now();save(S.src,c[0])}}
+    if(on&&Date.now()-saveT>4000){saveT=Date.now();save(S.src,c[0])}
+    var pe=document.querySelector("#page .ep .pl"),cs=pe&&document.querySelector("#page .chs");
+    if(cs){var me=!!S&&S.src===pe.dataset.src,t=me?c[0]:saved(pe.dataset.src);
+      cs.querySelectorAll(".cb a").forEach(function(x){var s0=+x.dataset.t,e0=+x.dataset.e||s0+1;q(x,"span").style.width=Math.max(0,Math.min(100,(t-s0)/(e0-s0)*100))+"%"});
+      cs.querySelectorAll(".ch li").forEach(function(x){x.classList.toggle("on",(me||t>0)&&t>=+x.dataset.t&&t<(+x.dataset.e||1e9))})}}
   function thumb(){if(!S)return null;var p=[].find.call(document.querySelectorAll("#page .pl"),function(p){return p.dataset.src===S.src}),r=p&&p.closest(".r");return r&&q(r,".th")}
   function clip(){var th=thumb();if(!th||!S.clip)return null;var v=q(th,"video");if(!v){v=document.createElement("video");v.muted=true;v.loop=true;v.playsInline=true;v.src=S.clip;th.appendChild(v)}return v}
   function place(){raf=0;

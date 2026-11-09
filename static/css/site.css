@@ -62,9 +62,9 @@ header .in{padding-top:44px;padding-bottom:28px}
 .r h1{margin:0;font:inherit}
 .pt{margin:0 0 18px;font:400 34px "American Typewriter",Cutive,serif}
 .nx{opacity:.8}.nx .tag{display:inline-block;margin-right:8px;padding:3px 8px;border:1px solid currentColor;border-radius:10px;font-size:12px;line-height:1;vertical-align:1px}
-.ch{list-style:none;margin:14px 0 0;padding:0;columns:2;column-gap:32px;font-size:15px}
-.ch li{display:flex;gap:10px;padding:2px 0;break-inside:avoid}
-.ch a{flex:none;min-width:52px;font-variant-numeric:tabular-nums;text-decoration:underline;text-underline-offset:2px;opacity:.85}.ch a:hover{opacity:1}
+
+
+
 @media (max-width:600px){.ch{columns:1}}
 .nw{margin:8px 0 0}.nw .nm a{text-decoration:none}.nw .nm a:hover{text-decoration:underline}.nw .nm small{margin-left:6px;color:#777;font-size:13px;white-space:nowrap}
 .st{margin:44px 0 6px;font:400 26px "American Typewriter",Cutive,serif}
@@ -87,3 +87,19 @@ header .in{padding-top:44px;padding-bottom:28px}
 .nw .nm em{display:block;margin-left:16px;font-style:normal;font-size:13px;color:#777;line-height:1.3}
 .nw .bio{margin:0 0 14px 16px;font-size:15px}.nw .bio p{margin:0 0 8px}.nw .ar{font-size:13px}.nw .ar a{color:#555}
 @media (max-width:600px){.nw summary{grid-template-columns:minmax(0,1fr) auto;gap:4px 10px}.nw summary .nm{grid-column:1;grid-row:1}.nw summary .c{grid-column:2;grid-row:1}.nw summary .b{grid-column:1/-1;grid-row:2;margin-left:16px}.nw summary .w{grid-column:1/-1;grid-row:3;margin-left:16px}}
+.chs{margin-top:18px}
+.cb{display:flex;gap:3px;height:6px;margin:0 0 10px}
+.cb a{position:relative;min-width:4px;border-radius:3px;overflow:hidden;background:color-mix(in srgb,var(--ink) 28%,transparent)}
+.cb a:hover{background:color-mix(in srgb,var(--ink) 50%,transparent)}
+.cb span{position:absolute;top:0;bottom:0;left:0;width:0;background:var(--ink)}
+.ch{list-style:none;margin:0;padding:0;columns:2;column-gap:28px;font-size:15px}
+.ch li{break-inside:avoid}
+.ch a{display:flex;align-items:baseline;gap:12px;padding:5px 8px;margin:0 -8px;border-radius:8px;color:inherit;text-decoration:none}
+.ch a:hover{background:color-mix(in srgb,var(--ink) 12%,transparent)}
+.ch .ct{flex:none;box-sizing:border-box;width:56px;padding:1px 0;border:1px solid color-mix(in srgb,var(--ink) 45%,transparent);border-radius:99px;font-size:13px;text-align:center;font-variant-numeric:tabular-nums}
+.ch .cn{flex:1;min-width:0}
+.ch .cl{flex:none;font-size:13px;opacity:.65;font-variant-numeric:tabular-nums}
+.ch li.on .ct{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.ch li.on .cn{font-weight:600}
+.ch.h .ct{width:68px}
+@media (max-width:600px){.ch{columns:1}.ch a{gap:10px}}
