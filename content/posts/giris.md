@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/giris/"]
 title: "Giriş - Alfred Nobel"
+description: "Nobelcast'in ilk bölümünde dinamitin mucidi Alfred Nobel'in hayatını, vasiyetini ve Nobel ödüllerinin nasıl doğduğunu konuştuk. Nobel'e alternatif ödüllere de göz attık."
 date: 2019-02-22
 draft: false
 youtube: "YAzf_pMZBdU"

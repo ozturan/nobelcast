@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron4/"]
 title: "Intron 5 - 2019 Ödül Tahminleri"
+description: "Bu bölümde 2019 Nobel Fizyoloji veya Tıp Ödülü için tahminlerimizi yaptık ve en güçlü adayların çalışmalarını tek tek inceledik."
 date: 2019-09-30
 draft: false
 youtube: "ZdXtuvLRiO8"
