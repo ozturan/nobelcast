@@ -107,3 +107,8 @@ header .in{padding-top:44px;padding-bottom:28px}
 .r .tx,#dock .tx{min-width:0}
 .tx .cc{display:block;margin-top:2px;font-size:13px;opacity:.8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .tx .cc:before{content:"▸ "}
+body.epdock #page .ep .r .pl,body.epdock #page .ep .cc{display:none}
+body.epdock #page .ep .r i{grid-column:-2}
+#dock.idle .x{visibility:hidden}
+#dock .slot{position:relative;overflow:hidden}
+#dock .slot video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
