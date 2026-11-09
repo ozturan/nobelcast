@@ -12,5 +12,18 @@ duration: "00:20:56"
 poster: "/posters/Intron8.jpg"
 bg: "272926"
 ink: "FFFFFF"
+chapters:
+  - t: "0:00:00"
+    title: "Giriş: neredeyiz?"
+  - t: "0:02:17"
+    title: "Doğancan: doktora bitti, Vancouver'da postdoc"
+  - t: "0:05:23"
+    title: "Uğur: Zoom'da savunma ve Columbia yolu"
+  - t: "0:10:16"
+    title: "Alişan: kırık ayakla MIT kabulü"
+  - t: "0:14:00"
+    title: "Soğuk, Bering Boğazı ve halı saha jübilesi"
+  - t: "0:17:53"
+    title: "Kapanış"
 ---
 
