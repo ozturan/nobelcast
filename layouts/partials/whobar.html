@@ -1,0 +1,7 @@
+{{- $d := site.Data.speakers }}{{ with index $d.eps .File.ContentBaseName }}{{ $sp := . }}
+<section class="who sp" aria-label="Konuşma süresi">
+<h2 class="wh">Konuşma süresi</h2>
+{{ $tot := 0.0 }}{{ range .m }}{{ $tot = add $tot . }}{{ end }}
+<div class="wb" role="img" aria-label="{{ range $i, $m := .m }}{{ if $i }}, {{ end }}{{ index $d.people $i }} {{ printf "%.0f" $m }} dk{{ end }}">{{ range $i, $m := .m }}<span class="p{{ $i }}" style="flex:{{ $m }} 1 0" data-tip="{{ index $d.people $i }}: {{ replace (printf "%.1f" $m) "." "," }} dk · %{{ printf "%.0f" (mul 100 (div $m $tot)) }}"></span>{{ end }}</div>
+<p class="wl">{{ range $i, $m := .m }}<span><i class="sw p{{ $i }}"></i>{{ index $d.people $i }} <b>{{ printf "%.0f" $m }} dk</b> <small>%{{ printf "%.0f" (mul 100 (div $m $tot)) }}</small></span>{{ end }}{{ if ne (int $sp.s) 1 }}<span class="fn"><sup>*</sup> yalnızca ses</span>{{ end }}<a href="/istatistikler/">İstatistikler →</a></p>
+</section>{{ end -}}

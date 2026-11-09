@@ -3,13 +3,14 @@
 <nav class="pn">{{ with $o.prev }}<a href="{{ .RelPermalink }}">← {{ .Params.episode | replaceRE "^Intron" "Intron " | replaceRE "^Giris$" "Giriş" }}</a>{{ end }}{{ with $o.next }}<a class="n" href="{{ .RelPermalink }}">{{ .Params.episode | replaceRE "^Intron" "Intron " }} →</a>{{ end }}</nav>
 {{ partial "row.html" (dict "page" . "h1" true "pl" (not .Params.chapters)) }}
 <p class="meta">{{ .Date.Format "2.1.2006" }}{{ with .Params.spotify }} · <a href="{{ . }}">Spotify'da aç</a>{{ end }} · <a href="#" class="share">Dakikasıyla paylaş</a></p>
-{{ with .Params.chapters }}{{ $cs := slice }}{{ range . }}{{ $cs = $cs | append (partial "secs.html" .t) }}{{ end }}{{ $cs = $cs | append (partial "secs.html" ($.Params.duration | default "0")) }}
+{{ $sd := site.Data.speakers }}{{ $sp := index $sd.eps .File.ContentBaseName }}{{ with .Params.chapters }}{{ $cs := slice }}{{ range . }}{{ $cs = $cs | append (partial "secs.html" .t) }}{{ end }}{{ $cs = $cs | append (partial "secs.html" ($.Params.duration | default "0")) }}
 <div class="chs">
 {{ partial "player.html" (dict "page" $ "cb" true) }}
-<ol class="ch{{ if ge (index $cs (sub (len $cs) 2)) 3600 }} h{{ end }}">{{ range $i, $c := . }}{{ $s := index $cs $i }}{{ $e := index $cs (add $i 1) }}{{ $h := div $s 3600 }}<li data-t="{{ $s }}" data-e="{{ $e }}"><a href="?t={{ $s }}" data-t="{{ $s }}"><span class="ct">{{ if $h }}{{ printf "%d:%02d:%02d" $h (mod (div $s 60) 60) (mod $s 60) }}{{ else }}{{ printf "%d:%02d" (div $s 60) (mod $s 60) }}{{ end }}</span><span class="cn">{{ $c.title }}</span><span class="cl">{{ math.Max 1 (math.Round (div (float (sub $e $s)) 60)) }} dk</span></a></li>{{ end }}</ol>
+<ol class="ch{{ if ge (index $cs (sub (len $cs) 2)) 3600 }} h{{ end }}">{{ range $i, $c := . }}{{ $s := index $cs $i }}{{ $e := index $cs (add $i 1) }}{{ $h := div $s 3600 }}<li data-t="{{ $s }}" data-e="{{ $e }}"><a href="?t={{ $s }}" data-t="{{ $s }}"><span class="ct">{{ if $h }}{{ printf "%d:%02d:%02d" $h (mod (div $s 60) 60) (mod $s 60) }}{{ else }}{{ printf "%d:%02d" (div $s 60) (mod $s 60) }}{{ end }}</span><span class="cn">{{ $c.title }}</span>{{ with $sp }}{{ range $k, $v := index .ch $i }}{{ if ge $v 55.0 }}<span class="cw" title="{{ index $sd.people $k }} · %{{ printf "%.0f" $v }}"><i class="sw p{{ $k }}"></i>{{ index $sd.people $k }}</span>{{ end }}{{ end }}{{ end }}<span class="cl">{{ math.Max 1 (math.Round (div (float (sub $e $s)) 60)) }} dk</span></a></li>{{ end }}</ol>
 </div>{{ end }}
 </div></section>
 <div class="in">
+{{ partial "whobar.html" . }}
 {{ partial "prize.html" . }}
 <div class="notes">{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}{{ .Content }}</div>
 </div>

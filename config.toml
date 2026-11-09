@@ -23,6 +23,10 @@ defaultContentLanguage = "tr"
     url = "/kazanamayanlar/"
     weight = 4
   [[menu.main]]
+    name = "İstatistikler"
+    url = "/istatistikler/"
+    weight = 5
+  [[menu.main]]
     name = "Hakkında"
     url = "/hakkinda/"
     weight = 3

@@ -1,0 +1,45 @@
+{{ define "main" }}{{ $d := site.Data.speakers }}{{ $P := $d.people }}{{ $t := $d.tot }}
+{{ $hrs := 0.0 }}{{ range $t.hours }}{{ $hrs = add $hrs . }}{{ end }}
+<div class="in page sp">
+<h1 class="pt">{{ .Title }}</h1>
+<div class="notes">{{ .Content }}</div>
+<div class="hero"><div><b>{{ $d.n }}</b><span>bölüm</span></div><div><b>{{ int (math.Round $hrs) }}</b><span>saat konuşma</span></div><div><b>{{ lang.FormatNumber 0 (add (index $t.words 0) (add (index $t.words 1) (index $t.words 2))) }}</b><span>kelime</span></div></div>
+
+<h2 class="st">Toplam</h2>
+<div class="sbar" role="img" aria-label="{{ range $i, $h := $t.hours }}{{ if $i }}, {{ end }}{{ index $P $i }} %{{ index $t.share $i }}{{ end }}">{{ range $i, $h := $t.hours }}<span class="p{{ $i }}" style="flex:{{ $h }} 1 0" data-tip="{{ index $P $i }}: {{ replace (printf "%.1f" $h) "." "," }} saat · %{{ index $t.share $i }}"></span>{{ end }}</div>
+<div class="pp3">{{ range $i, $h := $t.hours }}<div class="c{{ $i }}"><b><i class="sw p{{ $i }}"></i>{{ index $P $i }}</b><span>{{ replace (printf "%.1f" $h) "." "," }} saat · %{{ index $t.share $i }}</span></div>{{ end }}</div>
+
+{{ $rows := slice (dict "l" "Kelime" "v" $t.words "f" "n") (dict "l" "Hız (kelime/dk)" "v" $t.wpm "f" "n") (dict "l" "Soru (saatte)" "v" $t.qh "f" "n") (dict "l" "“eee” ve “yani” (100 kelimede)" "v" $t.fill "f" "d") (dict "l" "Söz alma (saatte)" "v" $t.turns_h "f" "n") }}
+<table class="mt"><thead><tr><th></th>{{ range $P }}<th>{{ . }}</th>{{ end }}</tr></thead><tbody>
+{{ range $rows }}{{ $v := .v }}{{ $f := .f }}{{ $mx := math.Max (math.Max (index $v 0) (index $v 1)) (index $v 2) }}<tr><th>{{ .l }}</th>{{ range $v }}<td{{ if eq . $mx }} class="mx"{{ end }}>{{ if eq $f "d" }}{{ replace (printf "%.1f" .) "." "," }}{{ else }}{{ lang.FormatNumber 0 . }}{{ end }}</td>{{ end }}</tr>
+{{ end }}</tbody></table>
+
+<h2 class="st">Bölüm bölüm</h2>
+<div class="lg">{{ range $i, $n := $P }}<span class="lk"><i class="sw p{{ $i }}"></i>{{ $n }}</span>{{ end }}</div>
+<div class="srs">{{ range $e := $d.order }}{{ $sp := index $d.eps $e }}{{ with site.GetPage (printf "/posts/%s" $e) }}{{ $tot := 0.0 }}{{ range $sp.m }}{{ $tot = add $tot . }}{{ end }}
+<a class="sr" href="{{ .RelPermalink }}"><b>{{ partial "eplabel.html" . }}{{ if ne (int $sp.s) 1 }}<sup>*</sup>{{ end }}</b><span class="tp">{{ replace (replaceRE "^(Intron [0-9]+|Giriş|[0-9]{4})[\\s\\x{00a0}]*-[\\s\\x{00a0}]*" "" .Title) "&" "&amp;" | safeHTML }}</span><span class="wb" role="img" aria-label="{{ range $i, $m := $sp.m }}{{ if $i }}, {{ end }}{{ index $P $i }} {{ replace (printf "%.1f" $m) "." "," }} dk{{ end }}">{{ range $i, $m := $sp.m }}<span class="p{{ $i }}" style="flex:{{ $m }} 1 0" data-tip="{{ index $P $i }}: {{ replace (printf "%.1f" $m) "." "," }} dk · %{{ printf "%.0f" (mul 100 (div $m $tot)) }}"></span>{{ end }}</span></a>{{ end }}{{ end }}</div>
+<details class="tb"><summary>Tablo olarak göster (dakika)</summary><table class="mt"><thead><tr><th>Bölüm</th>{{ range $P }}<th>{{ . }}</th>{{ end }}</tr></thead><tbody>
+{{ range $e := $d.order }}{{ $sp := index $d.eps $e }}{{ with site.GetPage (printf "/posts/%s" $e) }}<tr><th>{{ partial "eplabel.html" . }}{{ if ne (int $sp.s) 1 }}<sup>*</sup>{{ end }}</th>{{ range $sp.m }}<td>{{ replace (printf "%.1f" .) "." "," }}</td>{{ end }}</tr>
+{{ end }}{{ end }}</tbody></table></details>
+
+<h2 class="st">Rekorlar</h2>
+<div class="cols3">{{ range $i, $r := $d.rec }}<div class="c{{ $i }}"><h3 class="ph"><i class="sw p{{ $i }}"></i>{{ index $P $i }}</h3><ul class="rk">
+<li>En çok konuştuğu bölüm: <a href="{{ (site.GetPage (printf "/posts/%s" (index $r.hi 0))).RelPermalink }}">{{ partial "eplabel.html" (site.GetPage (printf "/posts/%s" (index $r.hi 0))) }}</a> <small>%{{ index $r.hi 1 }}</small></li>
+<li>En az konuştuğu bölüm: <a href="{{ (site.GetPage (printf "/posts/%s" (index $r.lo 0))).RelPermalink }}">{{ partial "eplabel.html" (site.GetPage (printf "/posts/%s" (index $r.lo 0))) }}</a> <small>%{{ index $r.lo 1 }}</small></li>
+</ul></div>{{ end }}</div>
+
+<h2 class="st">Kesintisiz konuşma</h2>
+<ol class="mo">{{ range $d.mono }}{{ $pg := site.GetPage (printf "/posts/%s" .e) }}{{ $s := int .t }}<li><i class="sw p{{ int .p }}"></i><b>{{ replace (printf "%.1f" .min) "." "," }} dk</b> {{ index $P (int .p) }} · <a href="{{ $pg.RelPermalink }}?t={{ $s }}">{{ partial "eplabel.html" $pg }}, {{ div $s 60 }}:{{ printf "%02d" (mod $s 60) }}</a></li>{{ end }}</ol>
+
+<h2 class="st">Anlattığı bölümler</h2>
+<div class="cols3">{{ range $i, $st := $d.stars }}<div class="c{{ $i }}"><h3 class="ph"><i class="sw p{{ $i }}"></i>{{ index $P $i }}<small>{{ index $d.stars_n $i }} bölüm</small></h3><ul class="rk">{{ range $st }}{{ $pg := site.GetPage (printf "/posts/%s" .e) }}<li><a href="{{ $pg.RelPermalink }}?t={{ .t }}">{{ .title }}</a> <small>{{ partial "eplabel.html" $pg }} · %{{ .pct }} · {{ replace (printf "%.1f" .min) "." "," }} dk</small></li>{{ end }}</ul></div>{{ end }}</div>
+
+<h2 class="st">Kelimeler</h2>
+<div class="cols3">{{ range $i, $w := $d.words }}<div class="c{{ $i }}"><h3 class="ph"><i class="sw p{{ $i }}"></i>{{ index $P $i }}</h3><p class="wd">{{ range $j, $x := $w }}{{ if $j }}, {{ end }}{{ index $x 0 }} <small>{{ index $x 1 }}</small>{{ end }}</p></div>{{ end }}</div>
+<table class="mt"><thead><tr><th>Kelime</th>{{ range $P }}<th>{{ . }}</th>{{ end }}</tr></thead><tbody>
+{{ range $d.says }}{{ $v := index . 1 }}{{ $mx := math.Max (math.Max (index $v 0) (index $v 1)) (index $v 2) }}<tr><th>{{ index . 0 }}</th>{{ range $v }}<td{{ if eq . $mx }} class="mx"{{ end }}>{{ lang.FormatNumber 0 . }}</td>{{ end }}</tr>
+{{ end }}</tbody></table>
+
+<p class="src"><sup>*</sup> yalnızca ses · Intron 10 yok</p>
+</div>
+{{ end }}
