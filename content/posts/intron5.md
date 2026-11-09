@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron5/"]
 title: "Intron 4 - Ig Nobel"
+description: "Bu bölümde bilimin en eğlenceli, en absürt ama en yaratıcı tarafına, yani Ig Nobel Ödülleri'ne konuk oluyoruz. Her yıl Harvard Üniversitesi'nde düzenlenen bu tören, \"önce güldüren, sonra düşündüren\" çalışmalara veriliyor."
 date: 2019-08-07
 draft: false
 youtube: "cPfC8BMWoho"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu bölümde bilimin en eğlenceli, en absürt ama en yaratıcı tarafına, yani Ig Nobel Ödülleri'ne konuk oluyoruz. Her yıl Harvard Üniversitesi'nde düzenlenen bu tören, "önce güldüren, sonra düşündüren" çalışmalara veriliyor.

@@ -1,5 +1,6 @@
 {{ $f := index .pages 0 }}
 <section class="band" style="--bg:#{{ $f.Params.bg | default "333333" }};--ink:#{{ $f.Params.ink | default "ffffff" }}"><div class="in">
 <h2>{{ .title }}</h2>
-{{ range .pages }}{{ partial "row.html" . }}{{ end }}
+{{ range .pages }}{{ with index site.Data.noprize (string .Params.episode) }}<p class="np"><b>{{ .years }}</b>{{ .note }}</p>
+{{ end }}{{ partial "row.html" . }}{{ end }}
 </div></section>

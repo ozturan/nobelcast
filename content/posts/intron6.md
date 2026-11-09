@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron6/"]
 title: "Intron 3 - Ortaya Karışık"
+description: "Bu bölümde de kaliteli boş yaptık. Konu konuyu açar diyenlere, muhabbet sevenlere, ortaya karışık!"
 date: 2019-08-01
 draft: false
 youtube: "nBF6m6X6BFg"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu bölümde de kaliteli boş yaptık. Konu konuyu açar diyenlere, muhabbet sevenlere, ortaya karışık!

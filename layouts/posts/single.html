@@ -6,6 +6,6 @@
 </div></section>
 <div class="in">
 {{ partial "prize.html" . }}
-<div class="notes">{{ .Content }}</div>
+<div class="notes">{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}{{ .Content }}</div>
 </div>
 {{ end }}

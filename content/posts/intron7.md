@@ -1,6 +1,7 @@
 ---
 aliases: ["/intron-7/"]
 title: "Intron 7 - Neredeyiz?"
+description: "Merhaba! Bu intron bölümünde epeydir olmayışımızın nedenini, bilimsel aktivitelerimizi ve önümüzdeki gelişmeleri konuştuk."
 date: 2021-04-02
 draft: false
 youtube: "tT5sZXCvzfg"
@@ -12,7 +13,5 @@ poster: "/posters/Intron7.jpg"
 bg: "272926"
 ink: "FFFFFF"
 ---
-
-Merhaba! Bu intron bölümünde epeydir olmayışımızın nedenini, bilimsel aktivitelerimizi ve önümüzdeki gelişmeleri konuştuk.
 
 Bahsi geçen preprint: <https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1>

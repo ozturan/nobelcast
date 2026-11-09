@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron8/"]
 title: "Intron 1 - Film Bilim"
+description: "Filmlerde ne kadar bilim var? Peki ya bilimlerde ne kadar film var? Filmlerin bilimsel yönlerini irdeledik."
 date: 2019-07-17
 draft: false
 youtube: "zybF8fFO9Bk"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Filmlerde ne kadar bilim var? Peki ya bilimlerde ne kadar film var? Filmlerin bilimsel yönlerini irdeledik.

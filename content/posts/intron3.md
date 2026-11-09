@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron3/"]
 title: "Intron 6 - Nobel Trivia"
+description: "Bu intron bölümünde Nobel ödülleri hakkında ilginç istatistikler paylaşıyoruz. Hap şeklinde, suyla içilmesi gereken bilgiler."
 date: 2020-01-19
 draft: false
 youtube: "PkgitoaVwF0"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu intron bölümünde Nobel ödülleri hakkında ilginç istatistikler paylaşıyoruz. Hap şeklinde, suyla içilmesi gereken bilgiler.

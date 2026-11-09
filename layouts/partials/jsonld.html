@@ -1,0 +1,35 @@
+{{- $p := .page -}}
+{{- $series := dict "@type" "PodcastSeries" "name" "Nobelcast" "url" ($p.Site.Home.Permalink) "webFeed" $p.Site.Params.rss -}}
+{{- if $p.IsHome -}}
+{{- $ld := merge $series (dict
+  "@context" "https://schema.org"
+  "description" .desc
+  "image" .img
+  "inLanguage" "tr"
+  "sameAs" (slice $p.Site.Params.spotify $p.Site.Params.apple $p.Site.Params.youtube)
+) -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- else if and (eq $p.Section "posts") $p.Params.audio -}}
+{{- $ld := dict
+  "@context" "https://schema.org"
+  "@type" "PodcastEpisode"
+  "name" $p.Title
+  "url" $p.Permalink
+  "description" .desc
+  "image" .img
+  "inLanguage" "tr"
+  "datePublished" ($p.Date.Format "2006-01-02")
+  "associatedMedia" (dict "@type" "MediaObject" "contentUrl" $p.Params.audio)
+  "partOfSeries" $series
+-}}
+{{- with $p.Params.duration -}}
+{{- $d := split . ":" -}}
+{{- if eq (len $d) 3 -}}
+{{- $ld = merge $ld (dict "timeRequired" (printf "PT%dH%dM%dS" (int (strings.TrimLeft "0" (index $d 0) | default "0")) (int (strings.TrimLeft "0" (index $d 1) | default "0")) (int (strings.TrimLeft "0" (index $d 2) | default "0")))) -}}
+{{- end -}}
+{{- end -}}
+{{- with $p.Params.youtube -}}
+{{- $ld = merge $ld (dict "video" (dict "@type" "VideoObject" "name" $p.Title "embedUrl" (printf "https://www.youtube.com/embed/%s" .) "thumbnailUrl" (printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" .) "uploadDate" ($p.Date.Format "2006-01-02"))) -}}
+{{- end -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- end -}}

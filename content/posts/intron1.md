@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron1/"]
 title: "Intron 8 - Dr. Nobelcast"
+description: "Uzun bir süre sonra herkese merhaba! Bu bölümde sessiz sedasız geçen bu ayların hesabını verdik, gelecek ödül bölümlerinin de sözünü verdik. Kayda geçsin :)"
 date: 2022-03-24
 draft: false
 youtube: "t0XN0NU9IYc"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Uzun bir süre sonra herkese merhaba! Bu bölümde sessiz sedasız geçen bu ayların hesabını verdik, gelecek ödül bölümlerinin de sözünü verdik. Kayda geçsin :)

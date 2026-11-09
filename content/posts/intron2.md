@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron7/"]
 title: "Intron 2 - Doktora Hayatı"
+description: "Bu bölümde Koç Üniversitesi'nde bizimle beraber doktora yapan arkadaşımız sevgili Fidan Şeker'i konuk ettik. Onunla lisansüstü hayatı ve genel olarak bu bilimsel süreci irdeledik. Neymiş ya bu doktora!"
 date: 2019-07-26
 draft: false
 youtube: "pd5iZ-XX7Nc"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu bölümde Koç Üniversitesi'nde bizimle beraber doktora yapan arkadaşımız sevgili Fidan Şeker'i konuk ettik. Onunla lisansüstü hayatı ve genel olarak bu bilimsel süreci irdeledik. Neymiş ya bu doktora!

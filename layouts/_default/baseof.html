@@ -4,10 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Nobelcast{{ if not .IsHome }} • {{ .Title }}{{ end }}</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ $desc := .Description | default .Site.Params.description }}{{ $img := .Params.poster | default "/posters/Giris.jpg" | absURL }}
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:site_name" content="Nobelcast">
+<meta property="og:locale" content="tr_TR">
 <meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:type" content="website">
-<meta property="og:image" content="{{ with .Params.poster }}{{ . | absURL }}{{ else }}{{ "/posters/Giris.jpg" | absURL }}{{ end }}">
+<meta property="og:image" content="{{ $img }}">
+<meta name="twitter:card" content="summary_large_image">
+{{ partial "jsonld.html" (dict "page" . "desc" $desc "img" $img) }}
 <link rel="icon" href="/images/favicon/favicon-32x32.png">
 <link rel="alternate" type="application/rss+xml" title="Nobelcast" href="{{ .Site.Params.rss }}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

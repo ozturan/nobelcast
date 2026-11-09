@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron9/"]
 title: "Intron 9 - Serendipity"
+description: "Bu intron bölümümüzde uzun bir aradan sonra Nobel ödülü alan araştırmalarda karşımıza çıkan bir temadan, 'Serendipity' kavramından bahsettik. Keyifli dinlemeler!"
 date: 2023-05-05
 draft: false
 youtube: "Wlfjjo4DKBg"
@@ -13,4 +14,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu intron bölümümüzde uzun bir aradan sonra Nobel ödülü alan araştırmalarda karşımıza çıkan bir temadan, 'Serendipity' kavramından bahsettik. Keyifli dinlemeler!

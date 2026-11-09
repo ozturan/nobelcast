@@ -1,6 +1,7 @@
 ---
 aliases: ["/posts/intron10/"]
 title: "Intron 10 - 2024 Nobel Tahminleri"
+description: "Bu bölümde 2024 Nobel Tıp veya Fizyoloji Ödülü’ne en yakın adayları masaya yatırıyoruz. Optogenetik mi şaperonlar mı bu yıl damgasını vuracak, yoksa İnsan Genom Projesi veya onkogenler mi? Artık bu işte ustalaştık, Nobel komitesi bizi dinleyip not alıyor olabilir!"
 date: 2024-10-05
 draft: false
 episode: "Intron10"
@@ -12,4 +13,3 @@ bg: "272926"
 ink: "FFFFFF"
 ---
 
-Bu bölümde 2024 Nobel Tıp veya Fizyoloji Ödülü’ne en yakın adayları masaya yatırıyoruz. Optogenetik mi şaperonlar mı bu yıl damgasını vuracak, yoksa İnsan Genom Projesi veya onkogenler mi? Artık bu işte ustalaştık, Nobel komitesi bizi dinleyip not alıyor olabilir!
