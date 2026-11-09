@@ -21,7 +21,7 @@ defaultContentLanguage = "tr"
   [[menu.main]]
     name = "Kazanamayanlar"
     url = "/kazanamayanlar/"
-    weight = 2
+    weight = 4
   [[menu.main]]
     name = "Hakkında"
     url = "/hakkinda/"

@@ -1,0 +1,81 @@
+# Short biographies and our take on why each never won, keyed by nomination-archive person id.
+"7545":
+  what: "Fransız veteriner ve bağışıklıkbilimci, Pasteur Enstitüsü"
+  bio: "1923'te difteri toksinini formaldehit ve ısıyla zararsız hale getirip bağışıklık oluşturma yeteneğini koruyan anatoksini (toksoid) geliştirdi; aynı yöntem tetanoz için de işe yaradı. Bugün çocuklara yapılan difteri ve tetanoz aşılarının temeli bu. Aşının etkisini artıran yardımcı maddeler (adjuvan) fikri ve toksin dozlamada kullanılan flokülasyon testi de onun."
+  why: "Komite toksoidi büyük olasılıkla yeni bir keşiften çok, Behring'in 1901'de ödüllendirilen serum çalışmasının teknik bir uzantısı olarak gördü. İngiltere'de Alexander Glenny'nin aynı yıllarda benzer bir yöntem geliştirmesi öncelik sorusunu da bulandırdı."
+"7930":
+  what: "Fransız hekim ve bakteriyolog, Pasteur'ün yakın çalışma arkadaşı"
+  bio: "Pasteur'le şarbon ve kuduz aşıları üzerinde çalıştı. 1888'de Alexandre Yersin'le birlikte difterinin hastalığı vücuda salgılanan bir toksinle yaptığını gösterdi; 1894'te atlardan elde edilen difteri serumunu Paris'te çocuklarda büyük ölçekte kullanıp ölüm oranını sert biçimde düşürdü. 1904'ten ölümüne kadar Pasteur Enstitüsü'nü yönetti."
+  why: "İlk Nobel (1901) serum tedavisi için yalnızca Emil von Behring'e verildi; komite ödülü bölmek yerine fikrin sahibini seçti ve Roux'nun katkısını uygulama olarak değerlendirmiş olabilir. Sonraki 30 yılda yeni bir büyük buluşu olmadı; adaylıkları daha çok bir ömür boyu katkıyı ödüllendirme isteğiydi, komite ise belirli bir keşif arıyordu."
+"5400":
+  what: "Fransız cerrah"
+  bio: "Damar cerrahisinin ve ağrı cerrahisinin öncülerinden. Sempatik sinir sistemine yönelik ameliyatlarla kronik ağrı ve dolaşım bozukluklarını tedavi etmeye çalıştı; bacak atardamarlarının tıkanmasıyla ortaya çıkan tablo bugün onun adıyla (Leriche sendromu) anılıyor."
+  why: "Komite cerrahi tekniklere nadiren ödül verdi; tedavi yöntemleri temel bilimsel keşiflerin gerisinde kaldı. Savaş yıllarında Vichy rejiminin kurduğu hekimler kurulunun başkanlığını yapması, 1945 sonrası adaylıklarını da gölgelemiş olabilir."
+"5571":
+  what: "Almanya doğumlu Amerikalı fizyolog"
+  bio: "1899'da denizkestanesi yumurtalarını yalnızca deniz suyunun tuz dengesini değiştirerek spermsiz döllenmeye zorladı (yapay partenogenez); bu buluş dönemin gazetelerinde 'laboratuvarda yaşam yaratmak' diye manşet oldu. Canlılığı fizik ve kimya kurallarıyla açıklamaya çalışan mekanistik biyolojinin sözcüsüydü; Sinclair Lewis'in Arrowsmith romanındaki Max Gottlieb karakterinin esin kaynaklarından biri."
+  why: "Partenogenez çarpıcıydı ama komite bunun fizyoloji ve tıp açısından ne işe yarayacağından emin olamadı. Çalışmaları çok geniş bir alana yayıldı, tek bir somut keşfe bağlanması zordu."
+"1548":
+  what: "Fransız hekim ve bakteriyolog, Pasteur Enstitüsü"
+  bio: "Saygon'da Pasteur Enstitüsü'nü kurup ilk yılan zehri serumlarından birini geliştirdi. En bilinen işi, Camille Guérin'le yıllarca zayıflattıkları sığır tüberkülozu bakterisinden ürettikleri BCG aşısı (1921); bugün hâlâ dünyada en çok yapılan aşılardan biri."
+  why: "BCG'nin ne kadar koruduğu uzun yıllar tartışmalıydı. 1930'da Almanya'nın Lübeck kentinde aşı yapılan 70'ten fazla bebek öldü; sebep laboratuvarda aşının virülan bir suşla karışmasıydı, BCG'nin kendisi değil, ama skandal tam adaylıklarının zirve yaptığı döneme denk geldi. Buluşun Guérin'le ortak olması da işi zorlaştırdı."
+"10051":
+  what: "Polonyalı biyolog, Lwów (bugün Lviv)"
+  bio: "Tifüs etkenini bitlerin bağırsağında üretip ilk etkili tifüs aşısını geliştirdi. Bitler, kanlarını emdiği gönüllüler tarafından besleniyordu. İkinci Dünya Savaşı'nda işgal altındaki enstitüsünde bu 'bit besleyicisi' işini, aralarında matematikçi Stefan Banach'ın da bulunduğu yüzlerce aydını korumak için kullandı ve gizlice Varşova gettosuna aşı ulaştırdı. 2003'te Yad Vashem ona 'Uluslar Arasında Dürüst Kişi' unvanını verdi."
+  why: "Bitle aşı üretimi zahmetliydi ve aşının etkinliğine dair geniş veriler henüz yoktu; komite 1928'de tifüs ödülünü bitlerin hastalığı taşıdığını gösteren Charles Nicolle'e zaten vermişti. 1940–1942 arasında ödül hiç verilmedi; savaştan sonra işgal yönetimi için aşı üretmiş olması Polonya'da ona karşı kullanıldı."
+"1653":
+  what: "İtalyan patolog ve bakteriyolog"
+  bio: "1903'te Uganda'da uyku hastalığı salgınını araştırırken hastaların beyin-omurilik sıvısında tripanozomları buldu. Yaws hastalığının etkenini (Treponema pertenue) tanımladı; mantar enfeksiyonlarında kullanılan 'Castellani boyası' ve antikorları ayırt etmeye yarayan emilim testi de onun adını taşıyor."
+  why: "Uyku hastalığının etkenini kimin bulduğu konusunda İngiliz hekim David Bruce'la uzun bir öncelik kavgasına girdi; bu tartışma adaylığını zayıflattı. Faşist dönemde senatör ve kraliyet ailesinin hekimiydi, savaştan sonra kraliyet ailesiyle Portekiz'e sürgüne gitti; bu yakınlık sonraki adaylıklarını da gölgelemiş olabilir."
+"1217":
+  what: "Fransız patolog"
+  bio: "Charcot'yla birlikte beyin kanamalarına yol açan küçük atardamar balonlarını (Charcot–Bouchard anevrizmaları) tanımladı. Beslenme ve metabolizma hastalıkları üzerine çalıştı; hastalıkların bağırsakta üretilen zehirlerden kaynaklandığını öne süren 'oto-intoksikasyon' kuramının en etkili savunucusuydu. Paris'te kuşaklarca hekim yetiştirdi."
+  why: "En çok bilinen kuramları spekülatifti ve bilimsel olarak tutunamadı. Adaylıkları çoğunlukla kendi öğrencilerinden geldi; komite de etkili bir hocayı değil belirli bir keşfi ödüllendirmek istiyordu."
+"7704":
+  what: "Amerikalı farmakolog, Pennsylvania Üniversitesi"
+  bio: "1920'lerde kurbağa böbreğinde tek bir glomerülden mikropipetle sıvı çekerek (mikropunktür) idrarın önce kanın süzülmesiyle oluştuğunu doğrudan gösterdi. İkinci Dünya Savaşı'nda ABD'nin tıbbi araştırma komitesini yönetti ve penisilinin seri üretimini örgütledi."
+  why: "Böbrekte süzülme fikri Carl Ludwig'e kadar uzanıyordu; komite mikropunktürü yeni bir buluştan çok eski bir kuramın şık bir kanıtı olarak görmüş olabilir. Penisilindeki rolü yönetsel olduğu için 1945 ödülü Fleming, Chain ve Florey'e gitti."
+"8114":
+  what: "Alman cerrah"
+  bio: "1904'te geliştirdiği düşük basınç odası, göğüs kafesi açıldığında akciğerin sönmesini engelleyerek göğüs cerrahisini mümkün kıldı. Birinci Dünya Savaşı'nda kaslarla hareket ettirilen protez kolu (Sauerbruch kolu) tasarladı ve döneminin en ünlü cerrahlarından biri oldu."
+  why: "Komite cerrahi tekniklere nadiren ödül verdi. 1937'de Hitler, Almanların Nobel ödülü almasını yasakladı. Sauerbruch rejime yakındı ve aynı yıl Nazi Almanyası'nın kendi 'Ulusal Ödülü'nü aldı. Savaştan sonra bunama belirtileri gösterdiği halde ameliyat yapmayı sürdürmesi itibarını da zedeledi."
+"7951":
+  what: "Alman fizyolog"
+  bio: "Kalorimetre deneyleriyle canlıların da enerjinin korunumu yasasına uyduğunu gösterdi (1894). Besinlerin vücuda kattığı enerjiyi ölçtü; bugün besin etiketlerinde kullanılan 'protein ve karbonhidrat 4, yağ 9 kalori' hesabının kökü onun çalışmalarına dayanıyor."
+  why: "Komite muhtemelen bunu Helmholtz'un fizikteki enerji korunumunun biyolojiye uygulanması olarak gördü. ABD'de Wilbur Atwater'ın paralel çalışmaları da önceliği bölüyordu."
+"5234":
+  what: "Fransız sinir fizyoloğu"
+  bio: "Sinir ve kasın uyarılabilirliğini ölçen 'kronaksi' kavramını ortaya attı (1909). 1907'de önerdiği 'biriktir ve ateşle' (integrate-and-fire) sinir hücresi modeli bugün hesaplamalı sinirbilimde hâlâ en temel modellerden biri."
+  why: "Kronaksi kuramı 1930'larda İngiliz fizyologlar tarafından deneysel olarak çürütüldü; komitenin danıştığı uzmanlar da bu kampa yakındı. Sinir fizyolojisi ödülleri Sherrington ve Adrian'a (1932), Erlanger ve Gasser'e (1944) gitti. Modelinin değeri ise ancak ölümünden çok sonra anlaşıldı."
+"282":
+  what: "İsviçre doğumlu Alman biyokimyacı, Halle"
+  bio: "Protein ve peptit kimyasında çok üretken bir araştırmacıydı ve devasa bir biyokimya yöntemleri ansiklopedisinin editörlüğünü yaptı. En ünlü iddiası, vücudun yabancı proteinlere karşı 'savunma enzimleri' ürettiği ve bununla gebeliğin teşhis edilebileceğiydi (Abderhalden reaksiyonu)."
+  why: "Savunma enzimleri hiçbir zaman bağımsız olarak doğrulanamadı; bugün bilim tarihinin büyük skandallarından biri sayılıyor. Komite bu şüpheleri biliyordu. 1937'den sonra Almanlara getirilen Nobel yasağı da işin cabası."
+"10147":
+  what: "Fransız hekim"
+  bio: "1896'da tifo hastalarının kanının tifo bakterilerini topaklaştırdığını gösterip tifonun kan testiyle teşhisini (Widal testi) geliştirdi; test bugün de bazı ülkelerde kullanılıyor. Böbrek hastalıklarında tuz kısıtlamasının önemini ilk vurgulayanlardan oldu."
+  why: "Topaklanma (aglütinasyon) olgusu aynı yıl Gruber ve Durham tarafından bulunmuştu; komite Widal'ın testini başkasının keşfinin akıllıca bir uygulaması olarak görmüş olabilir."
+"9887":
+  what: "Alman bakteriyolog"
+  bio: "1906'da Neisser ve Bruck'la birlikte frengi için ilk kan testini geliştirdi. Wassermann testi on yıllar boyunca frengi taramasının standardı oldu; evlilik öncesi kan testlerinin çıkış noktası bu."
+  why: "Test, Jules Bordet'in keşfettiği komplement bağlanması ilkesine dayanıyordu ve Bordet bu keşif için 1919'da ödülü aldı. Testin yanlış pozitif sonuçları da fazlaydı. Adaylıklarının yoğunlaştığı 1915–1918'de ise savaş yüzünden ödül hiç verilmedi."
+"5418":
+  what: "Romanya doğumlu Fransız mikrobiyolog, Pasteur Enstitüsü"
+  bio: "1909'da Karl Landsteiner'le çocuk felcinin maymundan maymuna bulaştırılabildiğini göstererek hastalığın bir virüsten kaynaklandığını kanıtladı. Frengide bizmut tedavisini başlattı (1921); dokulardaki spiroketleri gösteren gümüş boyası da onun adını taşıyor."
+  why: "Çok sayıda alanda önemli ama çoğunlukla ortak çalışmalar yaptı; komitenin tek bir kişiye bağlayabileceği büyük bir keşfi yoktu. Landsteiner 1930'da ödülü kan grupları için aldı."
+"1001":
+  what: "Alman cerrah"
+  bio: "1898'de omuriliğe kokain enjekte ederek spinal anesteziyi ilk kez uyguladı; önce asistanı Hildebrandt'la birbirleri üzerinde denediler. 1908'de kola veya bacağa toplardamar yoluyla bölgesel anestezi (Bier bloğu) yöntemini geliştirdi."
+  why: "Komite cerrahi ve anestezi tekniklerine nadiren ödül verdi. 1920'lerde homeopatiye açıkça destek vermesi bilimsel itibarını zedeledi; 1937'den sonra da Almanlara Nobel yasağı vardı."
+"9432":
+  what: "Alman bakteriyolog"
+  bio: "1901'de geliştirdiği presipitin testiyle bir kan lekesinin insana mı hayvana mı ait olduğunu ayırt etmeyi mümkün kıldı; bu adli tıpta bir devrimdi. Frengi tedavisi ve Weil hastalığının etkeni üzerine de önemli çalışmaları var."
+  why: "Presipitin tepkimesi birkaç yıl önce Rudolf Kraus tarafından bulunmuştu; komite testi bir uygulama olarak görmüş olabilir. 1937'den sonra Almanlara Nobel yasağı vardı."
+"4729":
+  what: "Japon fizyolog, Keio Üniversitesi"
+  bio: "Sinir uyarısının sinir boyunca zayıflamadan ilerlediğini (azalmasız iletim) savunan kuramıyla tanındı ve tek bir sinir lifini kurbağadan canlı olarak ayırmayı başaran ilk araştırmacılardan oldu."
+  why: "39 adaylığının tamamı yalnızca üç yıla toplanmış; bunlar büyük ölçüde Japonya'dan gelen toplu adaylıklar. Azalmasız iletim, Keith Lucas ve Adrian'ın 'ya hep ya hiç' bulgularıyla örtüşüyordu; komite onu yeni bir keşiften çok bunların doğrulaması olarak görmüş olabilir. Sinir fizyolojisinde ödüller Adrian, Erlanger ve Gasser gibi isimlere gitti."
+"8621":
+  what: "Amerikalı patolog"
+  bio: "1893'te Texas sığır hastalığının kenelerle bulaştığını gösterdi: bir hastalığın eklembacaklılarla taşındığının ilk kanıtı. İnsan ve sığır tüberküloz bakterilerini birbirinden ayırdı; ısıyla öldürülmüş bakteriyle aşı fikrinin de öncülerinden."
+  why: "İroni şu ki, sıtmanın sivrisinekle taşındığını gösteren Ronald Ross 1902'de, tifüsün bitle taşındığını gösteren Nicolle 1928'de ödül aldı; yolu ilk açan Smith ise alamadı. Çalışmasının bir hayvan hastalığı üzerine olması komitenin gözünde önemini azaltmış olabilir."
