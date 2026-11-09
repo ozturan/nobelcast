@@ -1,4 +1,4 @@
-{{ $p := . }}{{ $h1 := false }}{{ if reflect.IsMap . }}{{ $p = .page }}{{ $h1 = .h1 }}{{ end }}
+{{ $p := . }}{{ $h1 := false }}{{ $pl := true }}{{ if reflect.IsMap . }}{{ $p = .page }}{{ $h1 = .h1 }}{{ $pl = .pl }}{{ end }}
 {{- with $p }}{{ $label := index (findRE "^(Intron [0-9]+|Giriş|[0-9]{4})" .Title) 0 }}{{ $topic := replaceRE "^(Intron [0-9]+|Giriş|[0-9]{4})[\\s\\x{00a0}]*-[\\s\\x{00a0}]*" "" .Title }}
-<div class="r"><a class="th" href="{{ .RelPermalink }}">{{ with .Params.poster }}<img src="{{ replace . "/posters/" "/posters/thumb/" }}" alt="" loading="lazy" width="320" height="180">{{ end }}</a><a class="tx" href="{{ .RelPermalink }}">{{ if $h1 }}<h1><b>{{ $label }}</b><br>{{ $topic }}</h1>{{ else }}<b>{{ $label }}</b><br>{{ $topic }}{{ end }}</a>{{ partial "player.html" . }}<i>{{ .Params.duration }}</i></div>
+<div class="r"><a class="th" href="{{ .RelPermalink }}">{{ with .Params.poster }}<img src="{{ replace . "/posters/" "/posters/thumb/" }}" alt="" loading="lazy" width="320" height="180">{{ end }}</a><a class="tx" href="{{ .RelPermalink }}">{{ if $h1 }}<h1><b>{{ $label }}</b><br>{{ $topic }}</h1>{{ else }}<b>{{ $label }}</b><br>{{ $topic }}{{ end }}</a>{{ if $pl }}{{ partial "player.html" . }}<i>{{ .Params.duration }}</i>{{ end }}</div>
 {{- end }}

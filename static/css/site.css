@@ -110,4 +110,8 @@ header .in{padding-top:44px;padding-bottom:28px}
 #ctip{display:none;position:fixed;z-index:60;padding:5px 8px;background:#111;color:#fff;font-size:13px;line-height:1.2;white-space:nowrap;border-radius:4px;pointer-events:none;font-variant-numeric:tabular-nums}
 
 .ep:has(.chs) .pl .bar{display:none}
+.chs .pl{gap:12px;margin-bottom:12px}.chs .pl .cb{flex:1;min-width:0;margin:0}.pl .du{font-size:13px;font-variant-numeric:tabular-nums;opacity:.85}
+@media (max-width:600px){.chs .pl{flex-wrap:wrap;height:auto;row-gap:12px}.chs .pl .cb{flex:0 0 100%;order:9;margin:0 0 4px}.ep:has(.chs) .r .th{grid-row:auto}}
+.ep:has(.chs) .r{grid-template-columns:160px 1fr}
+@media (max-width:600px){.ep:has(.chs) .r{grid-template-columns:100px minmax(0,1fr)}}
 .cb a{border-radius:4px;-webkit-user-drag:none}
