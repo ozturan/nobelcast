@@ -26,4 +26,4 @@ defaultContentLanguage = "tr"
   unsafe = true
 
 [permalinks]
-  posts = "/:filename/"
+  posts = "/:contentbasename/"

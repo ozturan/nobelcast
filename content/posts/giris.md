@@ -32,7 +32,7 @@ Nobel'e alternatif ödüller
   1. The Right Livelihood Ödülü <https://rightlivelihood.org/about-us/>
   2. Fields Medal - <https://www.mathunion.org/imu-awards/fields-medal>
   3. Abel Medal - <https://web.archive.org/web/20210726010216/https://www.abelprize.no/c53671/artikkel/vis.html?tid=53702>
-  4. Ig Nobel - <https://www.improbable.com/ig/> [https://www.telegraph.co.uk/news/science/science-news/6223831/Pointless-research-top-10-Ig-Nobel-award-winners-for-silly-science.html](https://www.telegraph.co.uk/news/science/science-news/6223831/Pointless-research-top-10-Ig-Nobel-award-winners-for-silly-science.html)
+  4. Ig Nobel - <https://improbable.com/> [https://www.telegraph.co.uk/news/science/science-news/6223831/Pointless-research-top-10-Ig-Nobel-award-winners-for-silly-science.html](https://www.telegraph.co.uk/news/science/science-news/6223831/Pointless-research-top-10-Ig-Nobel-award-winners-for-silly-science.html)
   5. Alternatifler: <https://www.quora.com/Which-prize-is-considered-as-an-alternative-of-Nobel-prize>
   6. <https://esmoa.org/wp-content/uploads/2017/02/Fact-Sheet-Nobel-Prize-Awards-and-alternative-Awards-Final-Version-Nov-30-2.pdf>
 
