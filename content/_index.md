@@ -1,0 +1,4 @@
+---
+title: "Nobelcast"
+aliases: ["/posts/"]
+---

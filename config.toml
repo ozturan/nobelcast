@@ -3,6 +3,7 @@ languageCode = "tr"
 title = "Nobelcast"
 hasCJKLanguage = false
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "section"]
 defaultContentLanguage = "tr"
 
 [params]
@@ -17,6 +18,10 @@ defaultContentLanguage = "tr"
     name = "Bölümler"
     url = "/"
     weight = 1
+  [[menu.main]]
+    name = "Kazanamayanlar"
+    url = "/kazanamayanlar/"
+    weight = 2
   [[menu.main]]
     name = "Hakkında"
     url = "/hakkinda/"

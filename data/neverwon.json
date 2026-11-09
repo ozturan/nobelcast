@@ -1,0 +1,493 @@
+{
+ "years": [
+  {
+   "y": "1901",
+   "n": 115,
+   "nominees": 44
+  },
+  {
+   "y": "1902",
+   "n": 67,
+   "nominees": 43
+  },
+  {
+   "y": "1903",
+   "n": 60,
+   "nominees": 31
+  },
+  {
+   "y": "1904",
+   "n": 97,
+   "nominees": 39
+  },
+  {
+   "y": "1905",
+   "n": 106,
+   "nominees": 30
+  },
+  {
+   "y": "1906",
+   "n": 83,
+   "nominees": 38
+  },
+  {
+   "y": "1907",
+   "n": 68,
+   "nominees": 40
+  },
+  {
+   "y": "1908",
+   "n": 96,
+   "nominees": 34
+  },
+  {
+   "y": "1909",
+   "n": 89,
+   "nominees": 46
+  },
+  {
+   "y": "1910",
+   "n": 134,
+   "nominees": 52
+  },
+  {
+   "y": "1911",
+   "n": 74,
+   "nominees": 41
+  },
+  {
+   "y": "1912",
+   "n": 105,
+   "nominees": 53
+  },
+  {
+   "y": "1913",
+   "n": 124,
+   "nominees": 64
+  },
+  {
+   "y": "1914",
+   "n": 131,
+   "nominees": 63
+  },
+  {
+   "y": "1915",
+   "n": 46,
+   "nominees": 30
+  },
+  {
+   "y": "1916",
+   "n": 50,
+   "nominees": 27
+  },
+  {
+   "y": "1917",
+   "n": 53,
+   "nominees": 35
+  },
+  {
+   "y": "1918",
+   "n": 41,
+   "nominees": 24
+  },
+  {
+   "y": "1919",
+   "n": 69,
+   "nominees": 46
+  },
+  {
+   "y": "1920",
+   "n": 76,
+   "nominees": 58
+  },
+  {
+   "y": "1921",
+   "n": 94,
+   "nominees": 43
+  },
+  {
+   "y": "1922",
+   "n": 64,
+   "nominees": 31
+  },
+  {
+   "y": "1923",
+   "n": 133,
+   "nominees": 57
+  },
+  {
+   "y": "1924",
+   "n": 84,
+   "nominees": 46
+  },
+  {
+   "y": "1925",
+   "n": 147,
+   "nominees": 66
+  },
+  {
+   "y": "1926",
+   "n": 91,
+   "nominees": 52
+  },
+  {
+   "y": "1927",
+   "n": 93,
+   "nominees": 43
+  },
+  {
+   "y": "1928",
+   "n": 137,
+   "nominees": 64
+  },
+  {
+   "y": "1929",
+   "n": 107,
+   "nominees": 65
+  },
+  {
+   "y": "1930",
+   "n": 129,
+   "nominees": 69
+  },
+  {
+   "y": "1931",
+   "n": 155,
+   "nominees": 63
+  },
+  {
+   "y": "1932",
+   "n": 111,
+   "nominees": 67
+  },
+  {
+   "y": "1933",
+   "n": 74,
+   "nominees": 42
+  },
+  {
+   "y": "1934",
+   "n": 200,
+   "nominees": 76
+  },
+  {
+   "y": "1935",
+   "n": 168,
+   "nominees": 51
+  },
+  {
+   "y": "1936",
+   "n": 141,
+   "nominees": 68
+  },
+  {
+   "y": "1937",
+   "n": 169,
+   "nominees": 82
+  },
+  {
+   "y": "1938",
+   "n": 105,
+   "nominees": 53
+  },
+  {
+   "y": "1939",
+   "n": 96,
+   "nominees": 67
+  },
+  {
+   "y": "1940",
+   "n": 52,
+   "nominees": 39
+  },
+  {
+   "y": "1941",
+   "n": 51,
+   "nominees": 33
+  },
+  {
+   "y": "1942",
+   "n": 31,
+   "nominees": 30
+  },
+  {
+   "y": "1943",
+   "n": 28,
+   "nominees": 29
+  },
+  {
+   "y": "1944",
+   "n": 15,
+   "nominees": 22
+  },
+  {
+   "y": "1945",
+   "n": 36,
+   "nominees": 13
+  },
+  {
+   "y": "1946",
+   "n": 61,
+   "nominees": 34
+  },
+  {
+   "y": "1947",
+   "n": 85,
+   "nominees": 42
+  },
+  {
+   "y": "1948",
+   "n": 148,
+   "nominees": 48
+  },
+  {
+   "y": "1949",
+   "n": 103,
+   "nominees": 56
+  },
+  {
+   "y": "1950",
+   "n": 121,
+   "nominees": 78
+  },
+  {
+   "y": "1951",
+   "n": 109,
+   "nominees": 89
+  },
+  {
+   "y": "1952",
+   "n": 122,
+   "nominees": 79
+  },
+  {
+   "y": "1953",
+   "n": 166,
+   "nominees": 105
+  }
+ ],
+ "people": [
+  {
+   "id": 7545,
+   "name": "Gaston Ramon",
+   "n": 155,
+   "nyears": 20,
+   "first": 1930,
+   "last": 1953,
+   "born": "1886",
+   "died": "1963",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7545"
+  },
+  {
+   "id": 7930,
+   "name": "Emile Roux",
+   "n": 115,
+   "nyears": 21,
+   "first": 1901,
+   "last": 1932,
+   "born": "1853",
+   "died": "1933",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+  },
+  {
+   "id": 5400,
+   "name": "René Leriche",
+   "n": 79,
+   "nyears": 13,
+   "first": 1930,
+   "last": 1953,
+   "born": "1879",
+   "died": "1955",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+  },
+  {
+   "id": 5571,
+   "name": "Jacques Loeb",
+   "n": 78,
+   "nyears": 19,
+   "first": 1901,
+   "last": 1924,
+   "born": "1859",
+   "died": "1924",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+  },
+  {
+   "id": 1548,
+   "name": "Albert Calmette",
+   "n": 77,
+   "nyears": 17,
+   "first": 1907,
+   "last": 1934,
+   "born": "1863",
+   "died": "1933",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1548"
+  },
+  {
+   "id": 10051,
+   "name": "Rudolf Weigl",
+   "n": 75,
+   "nyears": 9,
+   "first": 1930,
+   "last": 1939,
+   "born": "1883",
+   "died": "1957",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10051"
+  },
+  {
+   "id": 1653,
+   "name": "Aldo Castellani",
+   "n": 61,
+   "nyears": 21,
+   "first": 1905,
+   "last": 1953,
+   "born": "1874",
+   "died": "1971",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+  },
+  {
+   "id": 1217,
+   "name": "Charles Bouchard",
+   "n": 57,
+   "nyears": 11,
+   "first": 1901,
+   "last": 1914,
+   "born": "1837",
+   "died": "1915",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+  },
+  {
+   "id": 7704,
+   "name": "Alfred Richards",
+   "n": 57,
+   "nyears": 10,
+   "first": 1931,
+   "last": 1950,
+   "born": "1876",
+   "died": "1966",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+  },
+  {
+   "id": 8114,
+   "name": "Ferdinand Sauerbruch",
+   "n": 56,
+   "nyears": 15,
+   "first": 1914,
+   "last": 1951,
+   "born": "1875",
+   "died": "1951",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+  },
+  {
+   "id": 7951,
+   "name": "Max Rubner",
+   "n": 54,
+   "nyears": 15,
+   "first": 1902,
+   "last": 1928,
+   "born": "1854",
+   "died": "1932",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+  },
+  {
+   "id": 5234,
+   "name": "Louis Lapicque",
+   "n": 52,
+   "nyears": 15,
+   "first": 1925,
+   "last": 1951,
+   "born": "1866",
+   "died": "1952",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5234"
+  },
+  {
+   "id": 282,
+   "name": "Emil Abderhalden",
+   "n": 49,
+   "nyears": 18,
+   "first": 1913,
+   "last": 1936,
+   "born": "1877",
+   "died": "1950",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+  },
+  {
+   "id": 10147,
+   "name": "Fernand Widal",
+   "n": 46,
+   "nyears": 12,
+   "first": 1902,
+   "last": 1929,
+   "born": "1862",
+   "died": "1929",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10147"
+  },
+  {
+   "id": 9887,
+   "name": "August von Wassermann",
+   "n": 45,
+   "nyears": 13,
+   "first": 1910,
+   "last": 1924,
+   "born": "1866",
+   "died": "1925",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+  },
+  {
+   "id": 5418,
+   "name": "Constantin Levaditi",
+   "n": 42,
+   "nyears": 11,
+   "first": 1922,
+   "last": 1939,
+   "born": "1874",
+   "died": "1953",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5418"
+  },
+  {
+   "id": 1001,
+   "name": "August Bier",
+   "n": 40,
+   "nyears": 19,
+   "first": 1906,
+   "last": 1936,
+   "born": "1861",
+   "died": "1949",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1001"
+  },
+  {
+   "id": 9432,
+   "name": "Paul Uhlenhuth",
+   "n": 40,
+   "nyears": 16,
+   "first": 1910,
+   "last": 1952,
+   "born": "1870",
+   "died": "1957",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9432"
+  },
+  {
+   "id": 4729,
+   "name": "Genichi Kato",
+   "n": 39,
+   "nyears": 3,
+   "first": 1928,
+   "last": 1937,
+   "born": "1890",
+   "died": "1979",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4729"
+  },
+  {
+   "id": 8621,
+   "name": "Theobald Smith",
+   "n": 38,
+   "nyears": 15,
+   "first": 1908,
+   "last": 1934,
+   "born": "1859",
+   "died": "1934",
+   "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8621"
+  }
+ ],
+ "max": 155,
+ "ymax": 200
+}

@@ -1,0 +1,1 @@
+{{- $s := 0 -}}{{- range split (string .) ":" -}}{{- $s = add (mul $s 60) (int (strings.TrimLeft "0" (strings.TrimSpace .) | default "0")) -}}{{- end -}}{{- return $s -}}

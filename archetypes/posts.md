@@ -17,6 +17,10 @@ spotify: ""
 duration: "00:00:00"
 # poster: static/posters/{{ $ep }}.jpg (1280x720) ve static/posters/thumb/{{ $ep }}.jpg (320x180)
 poster: "/posters/{{ $ep }}.jpg"
+# chapters: bölüm içi başlıklar (isteğe bağlı), örn.
+# chapters:
+#   - { t: "0:00", title: "Giriş" }
+#   - { t: "12:30", title: "Ödül ve tartışmalar" }
 bg: "{{ $bg }}"
 ink: "{{ $ink }}"
 ---

@@ -25,7 +25,7 @@
 <body>
 <div id="page">
 <header><div class="in">
-<a class="logo" href="/"><img src="/images/logo.png" alt="" width="72" height="72">NOBELCAST</a>
+{{ if .IsHome }}<h1 class="h1">{{ end }}<a class="logo" href="/"><img src="/images/logo.png" alt="" width="72" height="72">NOBELCAST</a>{{ if .IsHome }}</h1>{{ end }}
 <nav class="nav">{{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) (and $.IsHome (eq .URL "/")) }} class="on"{{ end }}>{{ .Name }}</a>{{ end }}</nav>
 {{ if .IsHome }}<p class="intro">Kimmiş bu Alfred Nobel? Neymiş bu ödüller? İlginç kişilikler, sansasyonel açıklamalar ve daha fazlası… 3 genç bilim insanının hazırlayıp sunduğu Nobelcast, meraklıları için bu soruları ve daha fazlasını ilginç hale getiriyor.<br><a href="{{ .Site.Params.spotify }}">Spotify</a>, <a href="{{ .Site.Params.apple }}">Apple Podcasts</a> ve <a href="{{ .Site.Params.youtube }}">YouTube</a>'da.</p>{{ end }}
 </div></header>

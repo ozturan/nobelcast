@@ -1,8 +1,9 @@
 {{ define "main" }}{{ $o := partial "order.html" . }}
 <section class="band ep" style="--bg:#{{ .Params.bg | default "333333" }};--ink:#{{ .Params.ink | default "ffffff" }}"><div class="in">
 <nav class="pn">{{ with $o.prev }}<a href="{{ .RelPermalink }}">← {{ .Params.episode | replaceRE "^Intron" "Intron " | replaceRE "^Giris$" "Giriş" }}</a>{{ end }}{{ with $o.next }}<a class="n" href="{{ .RelPermalink }}">{{ .Params.episode | replaceRE "^Intron" "Intron " }} →</a>{{ end }}</nav>
-{{ partial "row.html" . }}
+{{ partial "row.html" (dict "page" . "h1" true) }}
 <p class="meta">{{ .Date.Format "2.1.2006" }}{{ with .Params.spotify }} · <a href="{{ . }}">Spotify'da aç</a>{{ end }} · <a href="#" class="share">Dakikasıyla paylaş</a></p>
+{{ with .Params.chapters }}<ol class="ch">{{ range . }}{{ $s := partial "secs.html" .t }}<li><a href="?t={{ $s }}" data-t="{{ $s }}">{{ .t }}</a><span>{{ .title }}</span></li>{{ end }}</ol>{{ end }}
 </div></section>
 <div class="in">
 {{ partial "prize.html" . }}
