@@ -103,3 +103,7 @@ header .in{padding-top:44px;padding-bottom:28px}
 .ch li.on .cn{font-weight:600}
 .ch.h .ct{width:68px}
 @media (max-width:600px){.ch{columns:1}.ch a{gap:10px}}
+.pl .bar i{position:absolute;top:0;bottom:0;width:2px;margin-left:-1px;background:var(--bg)}
+.r .tx,#dock .tx{min-width:0}
+.tx .cc{display:block;margin-top:2px;font-size:13px;opacity:.8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tx .cc:before{content:"▸ "}
