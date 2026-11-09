@@ -5,7 +5,7 @@
 <p class="meta">{{ .Date.Format "2.1.2006" }}{{ with .Params.spotify }} · <a href="{{ . }}">Spotify'da aç</a>{{ end }} · <a href="#" class="share">Dakikasıyla paylaş</a></p>
 {{ with .Params.chapters }}{{ $cs := slice }}{{ range . }}{{ $cs = $cs | append (partial "secs.html" .t) }}{{ end }}{{ $cs = $cs | append (partial "secs.html" ($.Params.duration | default "0")) }}
 <div class="chs">
-<div class="cb">{{ range $i, $c := . }}{{ $s := index $cs $i }}{{ $e := index $cs (add $i 1) }}<a href="?t={{ $s }}" data-t="{{ $s }}" data-e="{{ $e }}" tabindex="-1" aria-hidden="true" title="{{ $c.title }}" style="flex:{{ sub $e $s }}"><span></span></a>{{ end }}</div>
+<div class="cb">{{ range $i, $c := . }}{{ $s := index $cs $i }}{{ $e := index $cs (add $i 1) }}<a href="?t={{ $s }}" draggable="false" data-t="{{ $s }}" data-e="{{ $e }}" tabindex="-1" aria-hidden="true" title="{{ $c.title }}" style="flex:{{ sub $e $s }}"><span></span></a>{{ end }}</div>
 <ol class="ch{{ if ge (index $cs (sub (len $cs) 2)) 3600 }} h{{ end }}">{{ range $i, $c := . }}{{ $s := index $cs $i }}{{ $e := index $cs (add $i 1) }}{{ $h := div $s 3600 }}<li data-t="{{ $s }}" data-e="{{ $e }}"><a href="?t={{ $s }}" data-t="{{ $s }}"><span class="ct">{{ if $h }}{{ printf "%d:%02d:%02d" $h (mod (div $s 60) 60) (mod $s 60) }}{{ else }}{{ printf "%d:%02d" (div $s 60) (mod $s 60) }}{{ end }}</span><span class="cn">{{ $c.title }}</span><span class="cl">{{ math.Max 1 (math.Round (div (float (sub $e $s)) 60)) }} dk</span></a></li>{{ end }}</ol>
 </div>{{ end }}
 </div></section>
