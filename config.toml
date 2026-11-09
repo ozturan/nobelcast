@@ -19,10 +19,6 @@ defaultContentLanguage = "tr"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Kazanamayanlar"
-    url = "/kazanamayanlar/"
-    weight = 4
-  [[menu.main]]
     name = "İstatistikler"
     url = "/istatistikler/"
     weight = 5
