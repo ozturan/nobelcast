@@ -177,3 +177,4 @@ header .in{padding-top:44px;padding-bottom:28px}
 .wl .fn{color:#777}
 @media (max-width:600px){.nav{flex-wrap:wrap;gap:4px 18px}}
 .wl>span{gap:5px}.wl .sw{margin-right:0}
+.sp .gl{height:6px;margin:20px 0 0;border-radius:3px}

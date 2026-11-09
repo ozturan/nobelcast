@@ -4,6 +4,7 @@
 <h1 class="pt">{{ .Title }}</h1>
 <div class="notes">{{ .Content }}</div>
 <div class="hero"><div><b>{{ $d.n }}</b><span>bölüm</span></div><div><b>{{ int (math.Round $hrs) }}</b><span>saat konuşma</span></div><div><b>{{ lang.FormatNumber 0 (add (index $t.words 0) (add (index $t.words 1) (index $t.words 2))) }}</b><span>kelime</span></div></div>
+<div class="gl" style="background:#{{ with site.GetPage "/posts/giris" }}{{ .Params.bg }}{{ end }}"></div>
 
 <h2 class="st">Toplam</h2>
 <div class="sbar" role="img" aria-label="{{ range $i, $h := $t.hours }}{{ if $i }}, {{ end }}{{ index $P $i }} %{{ index $t.share $i }}{{ end }}">{{ range $i, $h := $t.hours }}<span class="p{{ $i }}" style="flex:{{ $h }} 1 0" data-tip="{{ index $P $i }}: {{ replace (printf "%.1f" $h) "." "," }} saat · %{{ index $t.share $i }}"></span>{{ end }}</div>
