@@ -178,3 +178,4 @@ header .in{padding-top:44px;padding-bottom:28px}
 @media (max-width:600px){.nav{flex-wrap:wrap;gap:4px 18px}}
 .wl>span{gap:5px}.wl .sw{margin-right:0}
 .sp .gl{height:6px;margin:20px 0 0;border-radius:3px}
+.pl.ld .i-play{display:none}.pl.ld .pp::after{content:"";box-sizing:border-box;width:14px;height:14px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:ncs .7s linear infinite}@keyframes ncs{to{transform:rotate(360deg)}}
