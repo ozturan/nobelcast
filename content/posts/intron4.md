@@ -16,9 +16,9 @@ ink: "FFFFFF"
 **1) Solomon H. Snyder (d.1938)**   
 Johns Hopkins Üniversitesi, ABD 
 
-\- Beyindeki birçok nörotransmitter ve uyuşturucu gibi psikotropik maddelerin reseptörlerini tanımlayarak, birçok ağrı kesici ve psikiyatrik ilacın geliştirilmesine öncülük etti.
+- Beyindeki birçok nörotransmitter ve uyuşturucu gibi psikotropik maddelerin reseptörlerini tanımlayarak, birçok ağrı kesici ve psikiyatrik ilacın geliştirilmesine öncülük etti.
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
   * Albert Lasker Award for Basic Medical Research (1978) 
   * Wolf Prize (1983) 
@@ -33,9 +33,9 @@ Johns Hopkins Üniversitesi, ABD
 Ulusal Kanser Enstitüsü (NCI), ABD  
 Ulusal Kanser Enstitüsü (NCI), ABD 
 
-\- Rahim ağzı kanseri ve HPV (insan papilloma) virüsünün yol açtığı diğer kanserlerin önlenmesinde etkili olan HPV aşısının geliştirilmesini sağladılar. 
+- Rahim ağzı kanseri ve HPV (insan papilloma) virüsünün yol açtığı diğer kanserlerin önlenmesinde etkili olan HPV aşısının geliştirilmesini sağladılar. 
 
-\- Diğer önemli ödüller:   
+- Diğer önemli ödüller:   
 
 
 Lowy:
@@ -75,9 +75,9 @@ Biozentrum, Basel Üniversitesi, İsviçre
 Whitehead Enstitüsü, Massachusetts Teknoloji Enstitüsü (MIT), Howard Hughes Tıp Enstitüsü, Broad Enstitüsü, ABD.   
 Broad Enstitüsü, Harvard Üniversitesi, Howard Hughes Tıp Enstitüsü, ABD. 
 
-\- Gelişim süreci ve beslenme mekanizmalarının önemli aktörlerinden olan Target of Rapamycin (TOR) ve mechanistic Target of Rapamycin (mammalian TOR, mTOR) protein kompleksini ve hücre metabolizmasındaki rollerini keşfettiler. 
+- Gelişim süreci ve beslenme mekanizmalarının önemli aktörlerinden olan Target of Rapamycin (TOR) ve mechanistic Target of Rapamycin (mammalian TOR, mTOR) protein kompleksini ve hücre metabolizmasındaki rollerini keşfettiler. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Hall:
 
@@ -121,9 +121,9 @@ Heidelberg Üniversitesi, Almanya
 Rockefeller Üniversitesi, ABD  
 Arbutus Biopharma Şirketi, Kanada 
 
-\- Geliştirdikleri sistemle hepatit C virüsünün çoğalma mekanizmasını araştırıp bu ölümcül hastalığın tedavisi için önemli katkılar sağladılar. 
+- Geliştirdikleri sistemle hepatit C virüsünün çoğalma mekanizmasını araştırıp bu ölümcül hastalığın tedavisi için önemli katkılar sağladılar. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Bartenschlager:
 
@@ -169,9 +169,9 @@ Sofia:
 Pittsburgh Üniversitesi, ABD  
 Pittsburgh Üniversitesi, ABD 
 
-\- İnsanda kansere yol açtığı bilinen 7 virüs çeşidinden 2’si olan Kaposi’s sarcoma-associated herpesvirus (KSHV) ve Merkel cell polyomavirus onkovirüslerini keşfedip tümörle ilişkilerini ortaya koydular.
+- İnsanda kansere yol açtığı bilinen 7 virüs çeşidinden 2’si olan Kaposi’s sarcoma-associated herpesvirus (KSHV) ve Merkel cell polyomavirus onkovirüslerini keşfedip tümörle ilişkilerini ortaya koydular.
 
-\- Diğer önemli ödüller: 
+- Diğer önemli ödüller: 
 
 Chang:
 
@@ -196,9 +196,9 @@ Moore:
 **6) Karl John Friston (d.1959)**   
 Londra Üniversitesi Akademisi (UCL), İngiltere 
 
-\- Beyin görüntüleme çalışmalarının sonuçlarını analiz edebilmek ve beynin kortikal aktivitelerini inceleyebilmek için şu ana kadarki en güçlü teknik olarak kabul edilen İstatistiksel Parametrik Haritalama (SPM) yöntemini geliştirdi. Şu anki EEG ve MEG datalarının analizi için de aynı metod kullanılmaktadır. 
+- Beyin görüntüleme çalışmalarının sonuçlarını analiz edebilmek ve beynin kortikal aktivitelerini inceleyebilmek için şu ana kadarki en güçlü teknik olarak kabul edilen İstatistiksel Parametrik Haritalama (SPM) yöntemini geliştirdi. Şu anki EEG ve MEG datalarının analizi için de aynı metod kullanılmaktadır. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
   * Young Investigators Award in Human Brain Mapping (1996) 
   * Golden Brain Award (2003) 
@@ -213,9 +213,9 @@ Londra Üniversitesi Akademisi (UCL), İngiltere
 **7) Jeffrey Gordon (d.1947)**  
 Washington Üniversitesi, St. Louis, ABD 
 
-\- Beslenme ve metabolizmanın insan bağırsağındaki mikroorganizmalar ile ilişkisini göstererek antibiyotik kullanımının riskleri ve mide-bağırsak hastalıklarının tedavisi için bağırsak bakterilerinin nakli gibi prosedürlerin geliştirilmesine ışık tuttu. 
+- Beslenme ve metabolizmanın insan bağırsağındaki mikroorganizmalar ile ilişkisini göstererek antibiyotik kullanımının riskleri ve mide-bağırsak hastalıklarının tedavisi için bağırsak bakterilerinin nakli gibi prosedürlerin geliştirilmesine ışık tuttu. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
   * 2013 Robert Koch Prize 
   * 2014 Passano Award 
@@ -237,9 +237,9 @@ Washington Üniversitesi, St. Louis, ABD
 Kyoto Üniversitesi, Japonya  
 California Üniversitesi, San Francisco, ABD 
 
-\- Katlanmamış protein tepkisi (Unfolded protein response, UPR) olarak bilinen, hücrenin belli seviyedeki stres koşullarında hayatta kalmasını sağlayan, aşırı stres altında ise ölüme götüren “kalite kontrol sistemi” mekenizmasını keşfettiler. Bu keşifleri, UPR mekanizmasının önemli rol oynadığı birçok nörodejeneratif hastalık ve kanser araştırmalarına önemli katkı sağladı.
+- Katlanmamış protein tepkisi (Unfolded protein response, UPR) olarak bilinen, hücrenin belli seviyedeki stres koşullarında hayatta kalmasını sağlayan, aşırı stres altında ise ölüme götüren “kalite kontrol sistemi” mekenizmasını keşfettiler. Bu keşifleri, UPR mekanizmasının önemli rol oynadığı birçok nörodejeneratif hastalık ve kanser araştırmalarına önemli katkı sağladı.
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Mori:
 
@@ -275,9 +275,9 @@ Memorial Sloan Kettering Kanser Merkezi, ABD
 Osaka Üniversitesi, Japonya.  
 Ulusal Sağlık Enstitüsü (NIH), ABD. 
 
-\- Düzenleyici T hücrelerinin bağışıklık sistemindeki rolü ve bu hücrelerdeki ana düzenleyici rolündeki Foxp3 proteinin işlevini keşfettiler.
+- Düzenleyici T hücrelerinin bağışıklık sistemindeki rolü ve bu hücrelerdeki ana düzenleyici rolündeki Foxp3 proteinin işlevini keşfettiler.
 
-\- Diğer önemli ödüller: 
+- Diğer önemli ödüller: 
 
 Rudensky:
 
@@ -312,9 +312,9 @@ Jackson Genomik Tıp Laboratuvarı, ABD
 Toronto Üniversitesi, Kanada  
 Cold Spring Harbor Laboratuvarı, ABD 
 
-\- Genomda önemli derecede çeşitlilik sağlayan, büyük ölçekli kopya sayısı değişiklikleri (copy number variation, CNV) ve bunların birçok hastalıkla ilişkisini keşfettiler. 
+- Genomda önemli derecede çeşitlilik sağlayan, büyük ölçekli kopya sayısı değişiklikleri (copy number variation, CNV) ve bunların birçok hastalıkla ilişkisini keşfettiler. 
 
-\- Diğer önemli ödüller: 
+- Diğer önemli ödüller: 
 
 Lee:
 
@@ -358,9 +358,9 @@ Wigler:
 **11) Joan A. Steitz (d.1941)**  
 Yale Üniversitesi, ABD 
 
-\- mRNA-ribozom bağlanma mekanizmasını, protein sentezi dışında görev alan RNA’ları, snRNP’leri ve bunların mRNA olgunlaşması sürecindeki görevlerini keşfetti.
+- mRNA-ribozom bağlanma mekanizmasını, protein sentezi dışında görev alan RNA’ları, snRNP’leri ve bunların mRNA olgunlaşması sürecindeki görevlerini keşfetti.
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
   * Passano Foundation Young Scientist Award (1975)
   * Eli Lilly Award in Biological Chemistry (1976)
@@ -384,9 +384,9 @@ Yale Üniversitesi, ABD
 **12) Hans Clevers (d.1957)**  
 Utrecht Üniversitesi, Hollanda 
 
-\- Wnt sinyal yolağı üzerine yaptığı öncü araştırmaları sayesinde bu yolağın kök hücreler ve kanser hücrelerindeki önemini gösterdi. 
+- Wnt sinyal yolağı üzerine yaptığı öncü araştırmaları sayesinde bu yolağın kök hücreler ve kanser hücrelerindeki önemini gösterdi. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
   * 2001: Award from the European Society for Clinical Investigation 
   * 2001: Spinoza Prize 
@@ -422,9 +422,9 @@ Utrecht Üniversitesi, Hollanda
 Ulusal Yahudi Sağlığı Merkezi (NJH); Howard Hughes Tıp Enstitüsü, ABD  
 Ulusal Yahudi Sağlığı Merkezi (NJH); Howard Hughes Tıp Enstitüsü, ABD 
 
-\- T hücreleri toleransının timüsteki klonal seçilim sayesinde oluştuğunu ve bu mekanizmanın otoimmün hastalıklar ile ilişkisini keşfettiler. 
+- T hücreleri toleransının timüsteki klonal seçilim sayesinde oluştuğunu ve bu mekanizmanın otoimmün hastalıklar ile ilişkisini keşfettiler. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Kappler:
 
@@ -459,9 +459,9 @@ Howard Hughes Tıp Enstitüsü; Stanford Üniversitesi, ABD
 Max Planck Biyofizik Enstitüsü, Almanya  
 Oxford Üniversitesi, İngiltere 
 
-\- Optogenetik alanındaki öncü çalışmalarıyla sinir sisteminin fonksiyonları ve nörolojik ve psikiyatrik hastalıklar hakkında önemli bilgiler elde edilmesini sağladılar. 
+- Optogenetik alanındaki öncü çalışmalarıyla sinir sisteminin fonksiyonları ve nörolojik ve psikiyatrik hastalıklar hakkında önemli bilgiler elde edilmesini sağladılar. 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Deisseroth:
 
@@ -512,10 +512,10 @@ California Üniversitesi, Los Angeles, ABD
 Max Planck Biyokimya Enstitüsü, Almanya  
 
 
-\- Kansere yol açan HER2 proteinini keşfedip, onu bloklayabilen ilk monoklonal antikor olan Herceptin’i ürettiler. Herceptin özellikle HER2-pozitif meme kanserinin tedavisinde çok etkili bir ilaç olarak hala kullanılıyor.  
+- Kansere yol açan HER2 proteinini keşfedip, onu bloklayabilen ilk monoklonal antikor olan Herceptin’i ürettiler. Herceptin özellikle HER2-pozitif meme kanserinin tedavisinde çok etkili bir ilaç olarak hala kullanılıyor.  
 
 
-\- Diğer önemli ödüller:
+- Diğer önemli ödüller:
 
 Shepard:
 
