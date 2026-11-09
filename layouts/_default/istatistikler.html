@@ -40,6 +40,5 @@
 {{ range $d.says }}{{ $v := index . 1 }}{{ $mx := math.Max (math.Max (index $v 0) (index $v 1)) (index $v 2) }}<tr><th>{{ index . 0 }}</th>{{ range $v }}<td{{ if eq . $mx }} class="mx"{{ end }}>{{ lang.FormatNumber 0 . }}</td>{{ end }}</tr>
 {{ end }}</tbody></table>
 
-<p class="src"><sup>*</sup> yalnızca ses · Intron 10 yok</p>
 </div>
 {{ end }}
