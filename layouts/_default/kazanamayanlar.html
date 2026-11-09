@@ -6,8 +6,6 @@
 <ol>{{ range $d.people }}{{ $b := index site.Data.neverwon_bio (string .id) }}<li><details><summary><span class="nm">{{ .name }}{{ with .born }}<small>{{ . }}–{{ end }}{{ with .died }}{{ . }}{{ end }}{{ if .born }}</small>{{ end }}{{ with $b }}<em>{{ .what }}</em>{{ end }}</span><span class="b"><span style="width:{{ printf "%.1f" (mul 100 (div (float .n) $d.max)) }}%"></span></span><span class="c">{{ .n }}</span><span class="w">{{ .first }}–{{ .last }} · {{ .nyears }} yıl</span></summary>
 {{ with $b }}<div class="bio"><p>{{ .bio }}</p><p><b>Neden alamadı?</b> {{ .why }}</p>{{ end }}<p class="ar"><a href="{{ .url }}">Arşivdeki aday gösterme kayıtları →</a></p>{{ with $b }}</div>{{ end }}</details></li>{{ end }}</ol>
 </section>
-<h2 class="st">Yıllara göre aday gösterme sayısı</h2>
-<p class="lg"><span class="k"></span>Ödül verilen yıl <span class="k g"></span>Ödül verilmeyen yıl</p>
 <div class="yc" role="img" aria-label="1901–1953 arasında her yıl yapılan aday gösterme sayısı; en yüksek {{ $d.ymax }}.">{{ range $d.years }}<div class="yb{{ if in $gap .y }} g{{ end }}" tabindex="0" data-tip="{{ .y }}: {{ .n }} aday gösterme, {{ .nominees }} aday{{ if in $gap .y }} · ödül verilmedi{{ end }}"><span style="height:{{ printf "%.1f" (mul 100 (div (float .n) $d.ymax)) }}%"></span></div>{{ end }}</div>
 <div class="yx">{{ range $d.years }}<span>{{ if eq (mod (int .y) 10) 0 }}{{ .y }}{{ end }}</span>{{ end }}</div>
 </div>{{ end }}
