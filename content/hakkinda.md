@@ -1,5 +1,6 @@
 ---
 title: "Hakkında"
+description: "Nobelcast'i hazırlayan Alişan, Dogancan ve Uğur kim, podcast'i nereden dinleyebilir ve bize nasıl ulaşabilirsiniz."
 ---
 ### Sosyal mecralar
 - Email: nobelcast@yahoo.com
