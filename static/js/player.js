@@ -50,12 +50,12 @@
   function nav(url,push){fetch(url).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,"text/html"),np=d.getElementById("page");if(!np){location.href=url;return}
     document.getElementById("page").replaceWith(np);document.title=d.title;if(push){history.pushState({pj:1},"",url);scrollTo(0,0)}cont();place();render()}).catch(function(){location.href=url})}
   function cont(){var pg=document.getElementById("page"),old=document.getElementById("cont"),sr=pg&&q(pg,".search");if(old)old.remove();if(!sr)return;
-    var seen={},rows=[];pg.querySelectorAll(".band .r").forEach(function(r){var p=q(r,".pl");if(!p||seen[p.dataset.src])return;seen[p.dataset.src]=1;var t=saved(p.dataset.src),d=dur(p);if(t>5&&(!d||t<d-30))rows.push({r:r,at:+ls("nc:at:"+p.dataset.src)||0})});
+    var seen={},rows=[];pg.querySelectorAll(".band .r").forEach(function(r){var p=q(r,".pl");if(!p||seen[p.dataset.src])return;seen[p.dataset.src]=1;var t=saved(p.dataset.src),d=dur(p);var at=+ls("nc:at:"+p.dataset.src)||0;if(at&&t>5&&(!d||t<d-30))rows.push({r:r,at:+ls("nc:at:"+p.dataset.src)||0})});
     if(!rows.length)return;rows.sort(function(x,y){return y.at-x.at});
     var b=document.createElement("section"),first=rows[0].r.closest(".band"),cs=getComputedStyle(first);b.className="band";b.id="cont";
     b.style.setProperty("--bg",cs.getPropertyValue("--bg"));b.style.setProperty("--ink",cs.getPropertyValue("--ink"));
     var w=document.createElement("div");w.className="in";w.innerHTML="<h2>Kaldığın yerden devam et</h2>";b.appendChild(w);
-    rows.slice(0,4).forEach(function(x){var c=x.r.cloneNode(true);c.hidden=false;c.querySelectorAll("video").forEach(function(v){v.remove()});w.appendChild(c)});
+    rows.slice(0,1).forEach(function(x){var c=x.r.cloneNode(true);c.hidden=false;c.querySelectorAll("video").forEach(function(v){v.remove()});w.appendChild(c)});
     sr.after(b)}
   function norm(s){return s.toLocaleLowerCase("tr").normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/ı/g,"i")}
   history.replaceState({pj:1},"",location.href);

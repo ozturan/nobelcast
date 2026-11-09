@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Nobelcast{{ if not .IsHome }} • {{ .Title }}{{ end }}</title>
-{{ $desc := .Description | default .Site.Params.description }}{{ $img := .Params.poster | default "/posters/Giris.jpg" | absURL }}
+{{ $desc := .Description | default .Site.Params.description }}{{ $img := .Params.poster | default "/nobelcast.jpg" | absURL }}
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:site_name" content="Nobelcast">
@@ -14,7 +14,7 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:type" content="website">
 <meta property="og:image" content="{{ $img }}">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="{{ if .Params.poster }}summary_large_image{{ else }}summary{{ end }}">
 {{ partial "jsonld.html" (dict "page" . "desc" $desc "img" $img) }}
 <link rel="icon" href="/images/favicon/favicon-32x32.png">
 <link rel="alternate" type="application/rss+xml" title="Nobelcast" href="{{ .Site.Params.rss }}">
